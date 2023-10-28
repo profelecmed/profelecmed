@@ -1,5 +1,5 @@
 ### Hi there Elecmed👋
-[![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)](https://forthebadge.com)
+[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzkiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxNzkgMzUiPjxyZWN0IHdpZHRoPSI3MiIgaGVpZ2h0PSIzNSIgZmlsbD0iI2ZmMzMzNiIvPjxyZWN0IHg9IjcyIiB3aWR0aD0iNjYiIGhlaWdodD0iMzUiIGZpbGw9IiMwYjc0YjciLz48dGV4dCB4PSIzNiIgeT0iMTcuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjZmZmZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBhbGlnbm1lbnQtYmFzZWxpbmU9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPkhUTE01PC90ZXh0Pjx0ZXh0IHg9IjEwNSIgeT0iMTcuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidNb250c2VycmF0Jywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjkwMCIgYWxpZ25tZW50LWJhc2VsaW5lPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj5DU1MzPC90ZXh0PjxyZWN0IHg9IjEzOCIgd2lkdGg9IjQxIiBoZWlnaHQ9IjM1IiBmaWxsPSIjZmFkNzNhIi8+PHRleHQgeD0iMTU4LjUiIHk9IjE3LjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjUwMCIgYWxpZ25tZW50LWJhc2VsaW5lPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj4gIEpTICAgIDwvdGV4dD48L3N2Zz4=)](https://forthebadge.com)
 
 <!--
 **profelecmed/profelecmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)](https://forthebadge.com)
 -->
