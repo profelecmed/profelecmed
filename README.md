@@ -1,4 +1,5 @@
 ### Hi there Elecmed👋
+[![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)](https://forthebadge.com)
 
 <!--
 **profelecmed/profelecmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
