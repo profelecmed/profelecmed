@@ -1,4 +1,4 @@
-# You are welcome
+# You are welcome  :magnet: 
 ----
   > ### THEORY IS WHEN YOU KNOW EVERYTHING, BUT NOTHING WORKS
 > ### PRACTICE IS WHEN EVERYTHING WORKS, BUT NOBODY KNOWS WHY
@@ -8,7 +8,10 @@
 
 
 <!--
+https://learn.microsoft.com/fr-fr/azure/devops/project/wiki/markdown-guidance?view=azure-devops
+
 https://medium.com/@abhiappmobiledeveloper/guide-to-writing-on-readme-md-markdown-file-for-github-project-8aad4e4e2a15
+
 # header H1
 ## header H2
 ### header H3
