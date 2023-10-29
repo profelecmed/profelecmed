@@ -1,10 +1,8 @@
 # You are welcome
 ----
-## What are attributes that distinguishes the elearning from other learnings?
-
-  > #### THEORY IS WHEN YOU KNOW EVERYTHING, BUT NOTHING WORKS
-> #### PRACTICE IS WHEN EVERYTHING WORKS, BUT NOBODY KNOWS WHY
-> #### HERE, WE HAVE REUNITED THEORY AND PRACTICE: NOTHING WORKS AND NOBODY KNOWS WHY.
+  > ### THEORY IS WHEN YOU KNOW EVERYTHING, BUT NOTHING WORKS
+> ### PRACTICE IS WHEN EVERYTHING WORKS, BUT NOBODY KNOWS WHY
+> ### HERE, WE HAVE REUNITED THEORY AND PRACTICE: NOTHING WORKS AND NOBODY KNOWS WHY.
 
 ![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
 
@@ -39,4 +37,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/approved-by-george-costanza.svg)](https://forthebadge.com)
+
+## What are attributes that distinguishes the elearning from other learnings?
 -->
