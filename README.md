@@ -1,8 +1,10 @@
 # You are welcome
+----
 ## What are attributes that distinguishes the elearning from other learnings?
-  >> #### THEORY IS WHEN YOU KNOW EVERYTHING, BUT NOTHING WORKS
->> #### PRACTICE IS WHEN EVERYTHING WORKS, BUT NOBODY KNOWS WHY
->> #### HERE, WE HAVE REUNITED THEORY AND PRACTICE: NOTHING WORKS AND NOBODY KNOWS WHY.
+
+  > #### THEORY IS WHEN YOU KNOW EVERYTHING, BUT NOTHING WORKS
+> #### PRACTICE IS WHEN EVERYTHING WORKS, BUT NOBODY KNOWS WHY
+> #### HERE, WE HAVE REUNITED THEORY AND PRACTICE: NOTHING WORKS AND NOBODY KNOWS WHY.
 
 ![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
 
@@ -18,7 +20,12 @@ https://medium.com/@abhiappmobiledeveloper/guide-to-writing-on-readme-md-markdow
 
 entrez deux espaces avant le saut de ligne, puis sélectionnez Entrée pour commencer un nouveau paragraphe.
 
+> Single line quote
+>> Nested quote
+
 **profelecmed/profelecmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+La ligne au-dessus de la ligne contenant le --- doit être vide.
 
 Here are some ideas to get you started:
 
