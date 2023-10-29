@@ -10,7 +10,14 @@
 
 ![Basic](https://github.com/profelecmed/profelecmed/blob/main/basicgitonline.bmp)  ![Python](https://github.com/profelecmed/profelecmed/blob/main/pythongitonline.png)
 
-![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg) 
+----    
+
+### My first PC:   
+_Amstrad CPC 464_
+
+----    
+
+![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
 
 
 <!--
