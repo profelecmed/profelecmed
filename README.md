@@ -2,7 +2,7 @@
 ## What are attributes that distinguishes the elearning from other learnings?
 #### THEORY IS WHEN YOU KNOW EVERYTHING, BUT NOTHING WORKS
 #### PRACTICE IS WHEN EVERYTHING WORKS, BUT NOBODY KNOWS WHY
-#### ERE, WE HAVE REUNITED THEORY AND PRACTICE: NOTHING WORKS AND NOBODY KNOWS WHY.
+#### HERE, WE HAVE REUNITED THEORY AND PRACTICE: NOTHING WORKS AND NOBODY KNOWS WHY.
 
 ![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
 
