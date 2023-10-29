@@ -5,9 +5,10 @@
 > ### HERE, WE HAVE REUNITED THEORY AND PRACTICE: NOTHING WORKS AND NOBODY KNOWS WHY.
 > _<p align =right>Albert Einstein</p>_
 
-![forthebadge](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+----
+![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png) |![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png) | |![JavaScript ](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) | ![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
 
-![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
+![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg) 
 
 
 <!--
