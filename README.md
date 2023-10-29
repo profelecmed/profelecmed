@@ -3,7 +3,7 @@
   > ### THEORY IS WHEN YOU KNOW EVERYTHING, BUT NOTHING WORKS
 > ### PRACTICE IS WHEN EVERYTHING WORKS, BUT NOBODY KNOWS WHY
 > ### HERE, WE HAVE REUNITED THEORY AND PRACTICE: NOTHING WORKS AND NOBODY KNOWS WHY.
-><span style="color: #26B260">_Albert Einstein_</span>
+> _<p align =center>Albert Einstein</p>_
 
 
 ![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
