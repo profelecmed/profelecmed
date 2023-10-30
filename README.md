@@ -13,7 +13,7 @@
 ----    
 
 ### My first PC:   
-_**Amstrad CPC 464**, 8 bits, Ram 64Ko, green monochrome monitor_
+_**Amstrad CPC 464**, 8 bits, Ram 64Ko, green monochrome monitor, 1086_
 
 ----    
 
