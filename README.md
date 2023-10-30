@@ -14,6 +14,9 @@
 
 ### My first PC:   
 _**Amstrad CPC 464**, 8 bits, Ram 64Ko, green monochrome monitor, 1986_
+    
+### My first programming language:
+_**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 
 ----    
 
