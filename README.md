@@ -10,7 +10,7 @@
 
 ![Basic](https://github.com/profelecmed/profelecmed/blob/main/basicgitonline.bmp)  ![Python](https://github.com/profelecmed/profelecmed/blob/main/pythongitonline.png)
 
-![Pi](https://github.com/profelecmed/profelecmed/blob/main/basicgitonline.bmp) 
+![Pi](https://github.com/profelecmed/profelecmed/blob/main/raspberry-pionline.png) 
 
 ----    
 
