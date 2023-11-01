@@ -25,7 +25,7 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 ----    
 
 ### yes we code contest, since the edition 2021
-_**Edition 2021,**_  Boatcycle
+_**Edition 2021,**_  Boatcycle   :trophy:
   
 _**Edition 2022,**_  SAM
   
