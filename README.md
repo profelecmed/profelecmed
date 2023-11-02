@@ -28,11 +28,13 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 
 [Site_Yes We Code](https://www.cgenial.org/82-nos-actions/162-yes-we-code)
 
-_**Edition 2021,**_  Boatcycle   :trophy:
+_**Edition 2021,**_  "Boatcycle"   :trophy:
+
+_**Edition 2021,**_  "Alarme Moto"
   
-_**Edition 2022,**_  SAM
+_**Edition 2022,**_  "SAM"
   
-_**Edition 2023,**_  Microfit
+_**Edition 2023,**_  "Microfit"
 
 _**Edition 2024,**_  ......
 
