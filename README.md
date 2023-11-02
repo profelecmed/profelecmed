@@ -28,6 +28,8 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 
 [Site_Yes We Code](https://www.cgenial.org/82-nos-actions/162-yes-we-code)
 
+![yeswecode](https://github.com/profelecmed/profelecmed/blob/main/yvconline.png) 
+
 _**Edition 2021,**_  "Boatcycle"   :trophy:
 
 _**Edition 2021,**_  "Alarme Moto"
