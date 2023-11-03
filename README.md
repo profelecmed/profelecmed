@@ -30,7 +30,7 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 ----    
 
 ### My favorite Apps:
-![Duolingo](https://github.com/profelecmed/profelecmed/blob/main/duolingoonline.png) 
+![Duolingo](https://github.com/profelecmed/profelecmed/blob/main/pictures/duolingoonline.png) 
 
 ----    
 
@@ -38,7 +38,7 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 
 [Site_Yes We Code](https://www.cgenial.org/82-nos-actions/162-yes-we-code)
 
-![CGENIAL](https://github.com/profelecmed/profelecmed/blob/main/cgenialONLINE.png)   ![yeswecode](https://github.com/profelecmed/profelecmed/blob/main/pictures/yvconline.png) 
+![CGENIAL](https://github.com/profelecmed/profelecmed/blob/main/pictures/cgenialONLINE.png)   ![yeswecode](https://github.com/profelecmed/profelecmed/blob/main/pictures/yvconline.png) 
 
 _**Edition 2021,**_  "Boatcycle"   :trophy:
 
