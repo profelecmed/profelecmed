@@ -57,6 +57,8 @@ https://learn.microsoft.com/fr-fr/azure/devops/project/wiki/markdown-guidance?vi
 
 https://medium.com/@abhiappmobiledeveloper/guide-to-writing-on-readme-md-markdown-file-for-github-project-8aad4e4e2a15
 
+https://readme-typing-svg.demolab.com/demo/
+
 # header H1
 ## header H2
 ### header H3
