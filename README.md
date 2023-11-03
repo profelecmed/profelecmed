@@ -25,6 +25,7 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 ----    
 
 ### My favorite Apps:
+![Duolingo](https://github.com/profelecmed/profelecmed/blob/main/duolingoonline.png) 
 
 ----    
 
