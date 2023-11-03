@@ -1,4 +1,6 @@
 # You are welcome  🕸️: 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=012060&random=false&width=435&lines=Welcome%2C+Get+out+of+the+soup+and+slide!)](https://git.io/typing-svg)
+
 ----
   > ### THEORY IS WHEN YOU KNOW EVERYTHING, BUT NOTHING WORKS
 > ### PRACTICE IS WHEN EVERYTHING WORKS, BUT NOBODY KNOWS WHY
