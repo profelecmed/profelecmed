@@ -1,6 +1,7 @@
 # You are welcome  🕸️: 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=C7E4FD&random=false&width=600&lines=Get+out+of+the+soup+and+slide!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=2000&color=8BF744&random=false&width=600&height=60&lines=Get+out+of+the+soup+and+slide+!)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=C7E4FD&random=false&width=600&lines=Get+out+of+the+soup+and+slide!)](https://git.io/typing-svg)
+-->
 ----
   > ### THEORY IS WHEN YOU KNOW EVERYTHING, BUT NOTHING WORKS
 > ### PRACTICE IS WHEN EVERYTHING WORKS, BUT NOBODY KNOWS WHY
