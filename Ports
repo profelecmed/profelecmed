@@ -12,5 +12,7 @@ Ports
 443    :   HTTPS     " http sécurisé par portions de SSL "
 
 1024 à 49151         " Ports enregistrés («Registered Ports») "
+1723   :   PPTP      " Point-to-Point Tunneling Protocol "
+8080   :             " Port utilisé par les proxy HTTP "
 
 49152 à 65535        " Ports dynamiques et/ou privés («Dynamic and/or Private Ports») "
