@@ -1,9 +1,10 @@
 Protocoles:
 
 ...............................................                                                                                        A
-ARP          :  Address Resolution Protocol             : Permet d'obtenir par une requête l'adresse MAC correspondant à l’adresse IP.
+ARP          :  Address Resolution Protocol            : Permet d'obtenir par une requête l'adresse MAC correspondant à l’adresse IP.
 ...............................................                                                                                        D
-DHCP         :  Dynamic Host Configuration Protocol.   :  Configuration automatique des paramètres IP 
+DHCP         :  Dynamic Host Configuration Protocol.   : Configuration automatique des paramètres IP 
+DNS          :  Domain Name System                     : Association noms et IP
 ...............................................                                                                                        F
 FTP          :  File Transfer Protocol                 :  Protocole de transfert de fichiers
 ...............................................                                                                                        I
@@ -16,7 +17,9 @@ RIP          :  Routing Information Protocol           : C’est un protocole d'
 RTP          :  Real Time Transport Protocol           : conçu plutôt pour audio et vidéo
 ...............................................                                                                                        S
 SIP          :  Session Initiation Protocol            : Sessions "d'appel" multimédia.
+SSH          :  
 ...............................................                                                                                        T
+Telnet       :  TErminaL NETwork protocol              : Attention transmission en clair!
 TCP          :  Transport Control Protocol             : Transmission de données fiable , détection et une correction d’erreurs
 ...............................................                                                                                        U
 UDP          :  User Datagram Protocol                 : Transmission de datagrammes sans connection.
