@@ -1,12 +1,16 @@
 Glossaire
 
 ---------------------------------------                                                             A
-Asynchrone    :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
+ Asynchrone    :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
 ---------------------------------------                                                             C
  CC           :  copie carbone  / Destinataire secondaire
  CCi          :  Copie carbone invisible
  CNIL         :  Commission nationale de l'informatique et des libertés
----------------------------------------                                                            R
+---------------------------------------                                                             D 
+ Débit        :  Quantité de données transmise sur une période. (Go/s)
+---------------------------------------                                                             P
+ pxe           :  Pre-boot eXecution Environment
+---------------------------------------                                                             R
  RGPD         :  Règlement général sur la protection des données 
----------------------------------------                                                            S
+---------------------------------------                                                             S
  Synchrone    :  On suit les étapes en même temps (Exemple : webinaires en direct )
