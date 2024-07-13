@@ -1,0 +1,9 @@
+PROTOCOLE:
+
+...............................................                                                                                        A
+ARP          :  Address Resolution Protocol             : Permet d'obtenir par une requête l'adresse MAC correspondant à l’adresse IP.
+
+...............................................                                                                                        D
+DHCP         :  Dynamic Host Configuration Protocol.   :  Configuration automatique des paramètres IP 
+...............................................                                                                                        N
+NTP          :  Network Time Protocol
