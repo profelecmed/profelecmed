@@ -1,6 +1,7 @@
 Glossaire
 
- 2FA           :  Authentification à 2 facteurs
+1 Kio         :  1 Kio =1024 o  
+2FA           :  Authentification à 2 facteurs
 ---------------------------------------                                                             A
  Asynchrone    :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
 ---------------------------------------                                                             C
@@ -9,6 +10,8 @@ Glossaire
  CNIL          :  Commission nationale de l'informatique et des libertés
 ---------------------------------------                                                             D 
  Débit         :  Quantité de données transmise sur une période. (Go/s)
+---------------------------------------                                                             N
+ NIC           :  Network Interface Card ou carte réseau  
 ---------------------------------------                                                             P
  pxe           :  Pre-boot eXecution Environment
 ---------------------------------------                                                             R
