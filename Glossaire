@@ -1,16 +1,19 @@
 Glossaire
 
+ 2FA           :  Authentification à 2 facteurs
 ---------------------------------------                                                             A
  Asynchrone    :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
 ---------------------------------------                                                             C
- CC           :  copie carbone  / Destinataire secondaire
- CCi          :  Copie carbone invisible
- CNIL         :  Commission nationale de l'informatique et des libertés
+ CC            :  copie carbone  / Destinataire secondaire
+ CCi           :  Copie carbone invisible
+ CNIL          :  Commission nationale de l'informatique et des libertés
 ---------------------------------------                                                             D 
- Débit        :  Quantité de données transmise sur une période. (Go/s)
+ Débit         :  Quantité de données transmise sur une période. (Go/s)
 ---------------------------------------                                                             P
  pxe           :  Pre-boot eXecution Environment
 ---------------------------------------                                                             R
- RGPD         :  Règlement général sur la protection des données 
+ RGPD          :  Règlement général sur la protection des données 
 ---------------------------------------                                                             S
- Synchrone    :  On suit les étapes en même temps (Exemple : webinaires en direct )
+ Synchrone     :  On suit les étapes en même temps (Exemple : webinaires en direct )
+--------------------------------------                                                              V
+ Vitesse       :  Rapidité à laquelle les données peuvent être transmises. (Gbps)
