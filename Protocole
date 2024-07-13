@@ -5,5 +5,12 @@ ARP          :  Address Resolution Protocol             : Permet d'obtenir par u
 
 ...............................................                                                                                        D
 DHCP         :  Dynamic Host Configuration Protocol.   :  Configuration automatique des paramètres IP 
+
+...............................................                                                                                        F
+FTP          :  File Transfer Protocol                 :  Protocole de transfert de fichiers
+
 ...............................................                                                                                        N
 NTP          :  Network Time Protocol
+
+...............................................                                                                                        R
+RARP         :  Reverse Address Resolution Protocol
