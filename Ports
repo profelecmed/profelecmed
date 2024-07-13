@@ -1,3 +1,16 @@
 Ports
 
-80     :   HTTP  
+20     :   FTP       " Data "
+21     :   FTP       " Contrôle "
+22     :   SSH       " Remplace, de manière sécurisée, Telnet "
+23     :   Telent    " Protocole de transport TCP "
+25     :   SMTP      " Envoi de courrier "
+53     :   DNS       " Domain Name System "
+80     :   HTTP      " Web "
+110    :   POP3      " Réception de courrier "
+143    :   IMAP      " Réception de courrier "
+443    :   HTTPS     " http sécurisé par portions de SSL "
+
+1024 à 49151         " Ports enregistrés («Registered Ports») "
+
+49152 à 65535        " Ports dynamiques et/ou privés («Dynamic and/or Private Ports») "
