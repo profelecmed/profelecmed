@@ -10,7 +10,10 @@ DHCP         :  Dynamic Host Configuration Protocol.   :  Configuration automati
 FTP          :  File Transfer Protocol                 :  Protocole de transfert de fichiers
 
 ...............................................                                                                                        N
-NTP          :  Network Time Protocol
+NTP          :  Network Time Protocol                  :  Protocole de synchronisation de réseau
 
 ...............................................                                                                                        R
-RARP         :  Reverse Address Resolution Protocol
+RARP         :  Reverse Address Resolution Protocol    : Inverse de ARP
+
+...............................................                                                                                        S
+SIP          :  Session Initiation Protocol            :  Sessions "d'appel" multimédia.
