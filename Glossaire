@@ -7,6 +7,12 @@ Glossaire
 ---------------------------------------                                                             C
  CC            :  copie carbone  / Destinataire secondaire
  CCi           :  Copie carbone invisible
+ Code
+   BCD         :  Binary Coded Decima  (Exemple: 10 en décimal devient 0001 0000 en BCD)
+   Binaire     :  (0, 1) 
+   Décimal     :  (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+   Gray        :  Code numérique, composé de quatre bits par chiffre, seul un bit change
+   Hexadécimal :  (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F)
  CNIL          :  Commission nationale de l'informatique et des libertés
 ---------------------------------------                                                             D 
  Débit         :  Quantité de données transmise sur une période. (Go/s)
