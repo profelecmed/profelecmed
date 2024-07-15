@@ -3,7 +3,7 @@ Ports
 20     :   FTP       " Data "
 21     :   FTP       " Contrôle "
 22     :   SSH       " Remplace, de manière sécurisée, Telnet "
-23     :   Telent    " Protocole de transport TCP "
+23     :   Telnet    " Protocole de transport TCP "
 25     :   SMTP      " Envoi de courrier "
 53     :   DNS       " Domain Name System "
 80     :   HTTP      " Web "
