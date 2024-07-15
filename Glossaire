@@ -17,6 +17,8 @@ Glossaire
  CNIL          :  Commission nationale de l'informatique et des libertés
 ---------------------------------------                                                             D 
  Débit         :  Quantité de données transmise sur une période. (Go/s)
+---------------------------------------                                                             F 
+ firewall      :  Pare-feu il assure : Filtrage , authentification , gestion des droits, NAT
 ---------------------------------------                                                             M
  MAC           :  Media Access Control       
 ---------------------------------------                                                             N
