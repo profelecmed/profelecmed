@@ -8,6 +8,7 @@ DNS          :  Domain Name System                     : Association noms et IP
 ...............................................                                                                                        F
 FTP          :  File Transfer Protocol                 :  Protocole de transfert de fichiers
 ...............................................                                                                                        I
+ICMP         :  Internet Control Message Protocol      :  Détection des erreurs lors de transmission en TCP/IP
 IP           :  Internet Protocol                      :  IPv4 ou IPv6
 ...............................................                                                                                        N
 NTP          :  Network Time Protocol                  :  Protocole de synchronisation de réseau
@@ -22,4 +23,4 @@ SSH          :  Secure Shell                           : Sessions , transfert de
 Telnet       :  TErminaL NETwork protocol              : Attention transmission en clair!
 TCP          :  Transport Control Protocol             : Transmission de données fiable , détection et une correction d’erreurs
 ...............................................                                                                                        U
-UDP          :  User Datagram Protocol                 : Transmission de datagrammes sans connection. (port 53)
+UDP          :  User Datagram Protocol                 : Transmission de datagrammes sans connection.
