@@ -17,6 +17,8 @@ Glossaire
  CNIL          :  Commission nationale de l'informatique et des libertés
 ---------------------------------------                                                             D 
  Débit         :  Quantité de données transmise sur une période. (Go/s)
+---------------------------------------                                                             M
+ MAC           :  Media Access Control       
 ---------------------------------------                                                             N
  NIC           :  Network Interface Card ou carte réseau  
 ---------------------------------------                                                             P
@@ -28,7 +30,7 @@ Glossaire
 ---------------------------------------                                                             S
  Synchrone     :  On suit les étapes en même temps (Exemple : webinaires en direct )
 ---------------------------------------                                                             T
-Transmission 
+ Transmission 
    Simplex     :  Transmission unidirectionnelle , exemple TV
    Half duplex :  Bidirectionnel mais jamais en simultané , exemple taky walky
    Full duplex :  Bidirectionnel simultané , exemple téléphone
