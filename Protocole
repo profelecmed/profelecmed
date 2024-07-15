@@ -17,9 +17,9 @@ RIP          :  Routing Information Protocol           : C’est un protocole d'
 RTP          :  Real Time Transport Protocol           : conçu plutôt pour audio et vidéo
 ...............................................                                                                                        S
 SIP          :  Session Initiation Protocol            : Sessions "d'appel" multimédia.
-SSH          :  
+SSH          :  Secure Shell                           : Sessions , transfert de fichiers de manière sécurisée
 ...............................................                                                                                        T
 Telnet       :  TErminaL NETwork protocol              : Attention transmission en clair!
 TCP          :  Transport Control Protocol             : Transmission de données fiable , détection et une correction d’erreurs
 ...............................................                                                                                        U
-UDP          :  User Datagram Protocol                 : Transmission de datagrammes sans connection.
+UDP          :  User Datagram Protocol                 : Transmission de datagrammes sans connection. (port 53)
