@@ -13,6 +13,7 @@ IP             :  Internet Protocol                      :  IPv4 ou IPv6
 ...............................................                                                                                        N
 NTP            :  Network Time Protocol                  :  Protocole de synchronisation de réseau
 ...............................................                                                                                        P
+PPPoE          :  point-to-point protocol over Ethernet  :  Créer un tunnel de niveau 2 entre deux routeurs
 ...............................................                                                                                        R
 RARP           :  Reverse Address Resolution Protocol    : Inverse de ARP
 RIP            :  Routing Information Protocol           : C’est un protocole d'information de routage.
