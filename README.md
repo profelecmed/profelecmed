@@ -50,7 +50,9 @@ _**Edition 2022,**_  "SAM"
   
 _**Edition 2023,**_  "Microfit"
 
-_**Edition 2024,**_  ......
+_**Edition 2024,**_  "Eau connecté"   :trophy:
+
+_**Edition 2025,**_  ......
 
 ----   
 ![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
