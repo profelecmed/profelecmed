@@ -57,6 +57,8 @@ _**Edition 2025,**_  ......
 ----   
 ### Passe ton Hack d'abord
 
+![logo](https://github.com/profelecmed/profelecmed/blob/main/pictures/logo%20comcyber-1.png) 
+
 _**Edition 2024,**_  "Equipe PRYMZ 10ième sur 210 équipes" ,  CTF (Capture The Flag)
 
 ----   
