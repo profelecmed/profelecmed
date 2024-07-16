@@ -56,7 +56,9 @@ _**Edition 2025,**_  ......
 
 ----   
 ### Passe ton Hack d'abord
-_**Edition 2024,**_  "Equipe PRYMZ 10eme sue 210 équipes"
+
+_**Edition 2024,**_  "Equipe PRYMZ 10ième sue 210 équipes"
+
 ----   
 ![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
 
