@@ -7,14 +7,26 @@ switch(config)#                                    : Mode configuration
 
 switch# show vlan                                   : Pour voir les vlan
 
-switch# show interfaces switch port                : Affiche des informations des ports
+switch# show interfaces switch port                : Affiche les informations des ports
 
-........................................... VLAN .......................................
-                          ..... Création vlan du nom administration ......
-switch(config)# vlan 4
-switch(config)# name administration
-switch(config)#ex
-................................................ 
-                          .... Suppression d'un vlan ......................
-switch(config)# no vlan 4
-................................................ 
+.............................................. VLAN ............................................
+                          ..... Création vlan du nom administration ...........                .
+switch(config)# vlan 4                                                                         .
+switch(config)# name administration                                                            .
+switch(config)#ex                                                                              .
+................................................                                               .
+                          .... Suppression d'un vlan ..........................                .
+switch(config)# no vlan 4                                                                      .
+................................................                                               .
+                          ..... Affecter un port à un vlan en mode access ......               .
+switch(config)# interface fastEthernet 0/1                                                     .
+switch(config-if)# #switchport mode access                                                     .
+switch(config-if)# #switchport acces vlan 4                                                    .
+switch(config-if)# ex                                                                          .
+................................................                                               .
+                         ..... Affecter un port à un vlan en mode trunk ......                 .
+switch(config)# interface fastEthernet 0/1                                                     .
+switch(config-if)# #switchport mode trunk                                                      .
+switch(config-if)# ex                                                                          .
+................................................                                               .
+................................................................................................
