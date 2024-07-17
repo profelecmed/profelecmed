@@ -1,2 +1,8 @@
-Commandes:
+Commandes CLI:
+switch>                                           : Mode utilisateur
+switch>enable                                    
+switch#                                           : Mode admin
 
+switch#show vlan                                  : Pour voir les vlan
+
+switch# show interfaces switch port
