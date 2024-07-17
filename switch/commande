@@ -1,8 +1,17 @@
 Commandes CLI:
-switch>                                           : Mode utilisateur
-switch>enable                                    
-switch#                                           : Mode admin
+switch>                                            : Mode utilisateur
+switch> enable                                    
+switch#                                            : Mode admin
+switch# configuration
+switch(config)#                                    : Mode configuration
 
-switch#show vlan                                  : Pour voir les vlan
+switch# show vlan                                   : Pour voir les vlan
 
-switch# show interfaces switch port
+switch# show interfaces switch port                : Affiche des informations des ports
+
+........................................... VLAN .......................................
+..... Création vlan du nom administration ......
+switch(config)# vlan 4
+switch(config)# name administration
+switch(config)#ex
+................................................ 
