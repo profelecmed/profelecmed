@@ -2,10 +2,10 @@ Glossaire
 
 1 Kio          :  1 Kio =1024 o  
 2FA            :  Authentification à 2 facteurs
----------------------------------------                                                             A
+---------------------------------------                                                                                               A
  ACL           :  access control list
  Asynchrone    :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
----------------------------------------                                                             C
+---------------------------------------                                                                                               C
  CC            :  copie carbone  / Destinataire secondaire
  CCi           :  Copie carbone invisible
  CMS           :  Composants Montés en surface.
@@ -15,37 +15,37 @@ Glossaire
    Décimal     :  (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
    Gray        :  Code numérique, composé de quatre bits par chiffre, seul un bit change
    Hexadécimal :  (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F)
- CNIL          :  Commission nationale de l'informatique et des libertés
----------------------------------------                                                             D 
+ CNIL          :  Commission nationale de l'informatique et des libertés 
+---------------------------------------                                                                                                D 
  Débit         :  Quantité de données transmise sur une période. (Go/s)
  DMZ           :  Zone démilitarisée, sous-réseau isolé à part
----------------------------------------                                                             F 
+---------------------------------------                                                                                                F 
  firewall      :  Pare-feu il assure : Filtrage , authentification , gestion des droits, NAT
----------------------------------------                                                             M
+---------------------------------------                                                                                                M
  MAC           :  Media Access Control       
----------------------------------------                                                             N
+---------------------------------------                                                                                                N
  NIC           :  Network Interface Card ou carte réseau  
----------------------------------------                                                             P
+---------------------------------------                                                                                                P
  POE           :  Power over ethernet
  pxe           :  Pre-boot eXecution Environment
----------------------------------------                                                             q 
+---------------------------------------                                                                                                q 
  QoS           :  Quality of Service
----------------------------------------                                                             R
+---------------------------------------                                                                                                R
  RGPD          :  Règlement général sur la protection des données 
----------------------------------------                                                             S
+---------------------------------------                                                                                                S
  SSID          :  Service set identifier , nom du réseau wifi
  Synchrone     :  On suit les étapes en même temps (Exemple : webinaires en direct )
----------------------------------------                                                             T
+---------------------------------------                                                                                                T
  Transmission 
    Simplex     :  Transmission unidirectionnelle , exemple TV
    Half duplex :  Bidirectionnel mais jamais en simultané , exemple taky walky
    Full duplex :  Bidirectionnel simultané , exemple téléphone
---------------------------------------                                                              V
+--------------------------------------                                                                                                 V
  Vitesse       :  Rapidité à laquelle les données peuvent être transmises. (Gbps)
  Vlan          :  Virtual Local Area Net work, niveau 1: port , niveau 2: MAC , niveau 3: IP 
---------------------------------------                                                              W
- Wi-Fi         :  Wireless Fidelity
- WPA2          :  Wi-Fi Protected Access 2
+--------------------------------------                                                                                                 W
+ Wi-Fi         :  Wireless Fidelity 
+ WPA2          :  Wi-Fi Protected Access 2 , utilise AES (Advanced Encryption Standard) ou TKIP (Temporal Key Integrity Protocol)
                                             WPA2-Entreprise
                                             WPA2-PSK         : Pre-Shared Key , WPA2-Personal
                                               
