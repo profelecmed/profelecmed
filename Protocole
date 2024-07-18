@@ -8,7 +8,7 @@ DNS            :  Domain Name System                     : Association noms et I
 ...............................................                                                                                        F
 FTP            :  File Transfer Protocol                 :  Protocole de transfert de fichiers
 ...............................................                                                                                        I
-ICMP           :  Internet Control Message Protocol      :  Détection des erreurs lors de transmission en TCP/IP
+ICMP           :  Internet Control Message Protocol      :  Détection des erreurs lors de transmission en TCP/IP, "Commande: ping"
 IP             :  Internet Protocol                      :  IPv4 ou IPv6
 ...............................................                                                                                        N
 NTP            :  Network Time Protocol                  :  Protocole de synchronisation de réseau
