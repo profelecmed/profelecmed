@@ -45,4 +45,7 @@ Glossaire
  Vlan          :  Virtual Local Area Net work, niveau 1: port , niveau 2: MAC , niveau 3: IP 
 --------------------------------------                                                              W
  Wi-Fi         :  Wireless Fidelity
- WPA2-PSK      :  Wi-Fi Protected Access 2 - Pre-Shared Key
+ WPA2          :  Wi-Fi Protected Access 2
+                                            WPA2-Entreprise
+                                            WPA2-PSK         : Pre-Shared Key , WPA2-Personal
+                                              
