@@ -1,11 +1,11 @@
 Commandes CLI:
 switch>                                            : Mode utilisateur
 switch> enable                                    
-switch#                                            : Mode admin
+switch#                                            : Mode privilégié 
 switch# configuration
 switch(config)#                                    : Mode configuration
 
-switch# show vlan                                   : Pour voir les vlan
+switch# show vlan                                  : Pour voir les vlan
 
 switch# show interfaces switch port                : Affiche les informations des ports
 
@@ -34,3 +34,6 @@ switch(config-if)# switchport trunk allowed vlan add 6,8                        
                         ....  Interdire vlan 4 de passer par le lien trunk ....                .
 switch(config-if)# switchport trunk allowed vlan remove 4                                      .
 ................................................................................................
+
+?                                                  : Voir les commande disponible
+reboat                                             : Redémarre le switch
