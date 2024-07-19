@@ -4,6 +4,7 @@ Glossaire
 2FA            :  Authentification à 2 facteurs
 ---------------------------------------                                                                                               A
  ACL           :  access control list
+ API           :  Application Programming Interface 
  Asynchrone    :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
 ---------------------------------------                                                                                               C
  CC            :  copie carbone  / Destinataire secondaire
@@ -24,6 +25,7 @@ Glossaire
 ---------------------------------------                                                                                                M
  MAC           :  Media Access Control       
 ---------------------------------------                                                                                                N
+ NAS           :  Network Attached Storage
  NIC           :  Network Interface Card ou carte réseau  
 ---------------------------------------                                                                                                P
  POE           :  Power over ethernet
