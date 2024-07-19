@@ -10,6 +10,8 @@ FTP            :  File Transfer Protocol                 :  Protocole de transfe
 ...............................................                                                                                        I
 ICMP           :  Internet Control Message Protocol      :  Détection des erreurs lors de transmission en TCP/IP, "Commande: ping"
 IP             :  Internet Protocol                      :  IPv4 ou IPv6
+...............................................                                                                                        L
+LDAP           :  Lightweight Directory Access Protocol  :  Il est utilisé pour l’authentification des services d’annuaire, type AD
 ...............................................                                                                                        N
 NTP            :  Network Time Protocol                  :  Protocole de synchronisation de réseau
 ...............................................                                                                                        P
