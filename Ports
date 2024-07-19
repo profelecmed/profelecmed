@@ -16,3 +16,10 @@ Ports
 8080   :             " Port utilisé par les proxy HTTP "
 
 49152 à 65535        " Ports dynamiques et/ou privés («Dynamic and/or Private Ports») "
+
+....................................................................................................
+
+Socket:
+
+C'est la combinaison de l’adresse IP et du numéro de port.
+
