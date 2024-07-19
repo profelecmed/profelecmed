@@ -23,6 +23,8 @@ Glossaire
  DMZ           :  Zone démilitarisée, sous-réseau isolé à part
 ---------------------------------------                                                                                                F 
  firewall      :  Pare-feu il assure : Filtrage , authentification , gestion des droits, NAT
+---------------------------------------                                                                                                L
+LAN            :  local area network
 ---------------------------------------                                                                                                M
  MAC           :  Media Access Control       
 ---------------------------------------                                                                                                N
