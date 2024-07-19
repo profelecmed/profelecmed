@@ -16,6 +16,7 @@ IEEE :  Institute of Electrical and Electronics Engineers
   IEEE 802.11            :  Réseaux sans fil locaux, Wi-Fi           : IEEE 802.11n pour Wi-Fi 4, ac pour 5, ax pour 6
                                                                      : IEEE 802.11be Extremely High Throughput (EHT) pour wifi 7
                                                                      : IEEE 802.11i pour Wpa2 pour sécurisation des réseau Wi-Fi
+  IEEE 802.15           :  Bluetooth
 ...............................................                                                                                        N    
   NF C 15-100              :  Installations électriques basse tension
   NF C 18-510              :  Sécurité des personnes et des professionnels contre les dangers d'origine électrique
