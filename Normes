@@ -3,9 +3,12 @@ Normes
 ...............................................                                                                                        A
 ANSI : American National Standards Institute
 ANSI/TIA-568A    ou    ANSI/TIA-568B                                :  Câblage réseau informatique 
+EIA  :  Electronics Inidustry Alliance
+EIA/TIA 
 
 ...............................................                                                                                        I
 IEEE :  Institute of Electrical and Electronics Engineers 
+  IEEE 802.3             :  Ethernet filaires 
   IEEE 802.1q            :  Vlans 
   IEEE 802.11            :  Réseaux sans fil locaux, Wi-Fi           : IEEE 802.11n pour Wi-Fi 4, ac pour 5, ax pour 6
                                                                      : IEEE 802.11be Extremely High Throughput (EHT) pour wifi 7
