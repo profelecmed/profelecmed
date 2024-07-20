@@ -42,7 +42,7 @@ CNIL           :  Commission nationale de l'informatique et des libertés
  RGPD          :  Règlement général sur la protection des données 
 ---------------------------------------                                                                                                S
  SSID          :  Service set identifier , nom du réseau wifi
- Switch        :  Commutateur
+ Switch        :  Commutateur, niveau 2 : uniquement un LAN   , Niveau 3 :  fonction de routage 
  Synchrone     :  On suit les étapes en même temps (Exemple : webinaires en direct )
 ---------------------------------------                                                                                                T
  Transmission 
