@@ -24,8 +24,10 @@ CNIL           :  Commission nationale de l'informatique et des libertés
  DMZ           :  Zone démilitarisée, sous-réseau isolé à part
 ---------------------------------------                                                                                                F 
  firewall      :  Pare-feu il assure : Filtrage , authentification , gestion des droits, NAT
+---------------------------------------                                                                                                H
+ hub           :  Concentrateur
 ---------------------------------------                                                                                                L
-LAN            :  local area network
+ LAN            :  local area network
 ---------------------------------------                                                                                                M
  MAC           :  Media Access Control          : 6 octets sous forme hexadécimale      
 ---------------------------------------                                                                                                N
