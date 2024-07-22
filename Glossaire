@@ -28,7 +28,7 @@ Glossaire
 ---------------------------------------                                                                                                F 
  firewall      :  Pare-feu il assure : Filtrage , authentification , gestion des droits, NAT
 ---------------------------------------                                                                                                H
- hub           :  Concentrateur
+ hub           :  Concentrateur , Distribue les DATA aux équipements connectés sur les ports.
 ---------------------------------------                                                                                                I
  Infogérance   :  Externalisation informatique, déléguer la gestion du système d'information
 ---------------------------------------                                                                                                L
