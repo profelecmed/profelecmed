@@ -12,6 +12,8 @@ ICMP           :  Internet Control Message Protocol      :  Détection des erreu
 IP             :  Internet Protocol                      :  IPv4 ou IPv6
 ...............................................                                                                                        L
 LDAP           :  Lightweight Directory Access Protocol  :  Il est utilisé pour l’authentification des services d’annuaire, type AD
+...............................................                                                                                        M
+MQTT           :  Message Queuing Telemetry Transport    : Transmission de données IoT
 ...............................................                                                                                        N
 NTP            :  Network Time Protocol                  :  Protocole de synchronisation de réseau
 ...............................................                                                                                        P
