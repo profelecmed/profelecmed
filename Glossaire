@@ -27,6 +27,7 @@ Glossaire
                   - Débit ATM est mesuré au niveau du DSLAM
                   - Débit IP est mesuré au niveau de l'abonné.
  DMZ           :  Zone démilitarisée, sous-réseau isolé à part
+ DSLAM         :  Digital subscriber line access multiplexer (Equipement ADSL internet)
 ---------------------------------------                                                                                                F 
  firewall      :  Pare-feu il assure : Filtrage , authentification , gestion des droits, NAT
 ---------------------------------------                                                                                                H
