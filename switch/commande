@@ -39,6 +39,9 @@ switch(config-if)# ex                                                           
 switch(config-if)# switchport trunk allowed vlan add 6,8                                       .
                         ....  Interdire vlan 4 de passer par le lien trunk ....                .
 switch(config-if)# switchport trunk allowed vlan remove 4                                      .
+................................................                                               .
+                        ....  Sauvegarder  ....                                                .
+copy run start                                                                                 .
 ................................................................................................
 
 ?                                                  : Voir les commande disponible
