@@ -1,4 +1,10 @@
 Commandes CLI:
+
+Deux configuration: 
+    - startup-config : Configuration utilisée au démarrage du switch.
+    - Running-config : Configuration courante utilisée par le switch.
+
+
 switch>                                            : Mode utilisateur
 switch> enable                                    
 switch#                                            : Mode privilégié 
