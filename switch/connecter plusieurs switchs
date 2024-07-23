@@ -3,6 +3,7 @@
 
 Switchs en cascade  , Cascading Switch
          - topologie Daisy Chain , Line :relie chaque switch en série au suivant.
+         - topologie Daisy Chain , topologie en anneau
          - topologie en étoile 
 Switchs en pile
 Switchs en grappe
