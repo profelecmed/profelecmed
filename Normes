@@ -12,6 +12,7 @@ IEEE :  Institute of Electrical and Electronics Engineers
                                                                      : IEEE 802.3u pour Fast éthernet , 100 Mb/s
                                                                      : IEEE 802.3z ou ab pour Gigabit éthernet , 1 Gb/s
                                                                      : IEEE 802.3ae ou an pour 10 Gigabit éthernet , 10 Gb/s
+  IEEE 802.3ad           :  Permet de regrouper plusieurs ports physiques pour former un seul canal logique.
   IEEE 802.1q            :  Vlans 
   IEEE 802.11            :  Réseaux sans fil locaux, Wi-Fi           : IEEE 802.11n pour Wi-Fi 4, ac pour 5, ax pour 6
                                                                      : IEEE 802.11be Extremely High Throughput (EHT) pour wifi 7
