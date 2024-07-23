@@ -7,3 +7,9 @@ Switchs en cascade  , Cascading Switch
          - topologie en étoile 
 Switchs en pile , fonctionnent ensemble pour fournir un grand nombre de port. 
 Switchs en grappe, cluster, vu comme un seul.
+
+
+
+Agrégation de liens : Permet de relier jusqua 8 liens physique et daparaître comme un seul gros lien
+                      Permet d’avoir la redondance et la résilience du réseau.
+
