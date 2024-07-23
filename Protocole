@@ -11,6 +11,7 @@ FTP            :  File Transfer Protocol                 :  Protocole de transfe
 ICMP           :  Internet Control Message Protocol      :  Détection des erreurs lors de transmission en TCP/IP, "Commande: ping"
 IP             :  Internet Protocol                      :  IPv4 ou IPv6
 ...............................................                                                                                        L
+LACP           :  Link Aggregation Control Protocol      :  Niveau 2de OSI.
 LDAP           :  Lightweight Directory Access Protocol  :  Il est utilisé pour l’authentification des services d’annuaire, type AD
 ...............................................                                                                                        M
 MQTT           :  Message Queuing Telemetry Transport    : Transmission de données IoT
