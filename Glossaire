@@ -38,7 +38,8 @@ Glossaire
  IIoT          :  Internet Industriel des Objets , nommé Industrie 4.0
  Infogérance   :  Externalisation informatique, déléguer la gestion du système d'information
 ---------------------------------------                                                                                                L
- LAN            :  local area network
+ LAG           :  Link Aggregation Group  , X bande passante, redondance des liaisons entre deux périphériques 
+ LAN           :  local area network
 ---------------------------------------                                                                                                M
  MAC           :  Media Access Control          : 6 octets sous forme hexadécimale      
 ---------------------------------------                                                                                                N
