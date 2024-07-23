@@ -6,4 +6,4 @@ Switchs en cascade  , Cascading Switch
          - topologie Daisy Chain , topologie en anneau
          - topologie en étoile 
 Switchs en pile , fonctionnent ensemble pour fournir un grand nombre de port. 
-Switchs en grappe
+Switchs en grappe, cluster, vu comme un seul.
