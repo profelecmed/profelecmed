@@ -70,6 +70,8 @@ Glossaire
    Simplex       :  Transmission unidirectionnelle , exemple TV
    Half duplex   :  Bidirectionnel mais jamais en simultané , exemple taky walky
    Full duplex   :  Bidirectionnel simultané , exemple téléphone
+--------------------------------------                                                                                                 U
+ UEFI            :  Unified Extensible Firmware Interface , firmware intégré à la carte mère des PC.
 --------------------------------------                                                                                                 V
  Vitesse         :  Rapidité à laquelle les données peuvent être transmises. (Gbps)
  Vlan            :  Virtual Local Area Net work, niveau 1: port , niveau 2: MAC , niveau 3: IP 
