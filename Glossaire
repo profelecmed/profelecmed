@@ -40,6 +40,7 @@ Glossaire
  GPU             :  Graphics Processing Unit          
 ---------------------------------------                                                                                                H
  hub             :  Concentrateur , Distribue les DATA aux équipements connectés sur les ports.
+ hypervisor      :  C'est un logiciel qui permet de créer et de gérer des machines virtuelles sur un serveur physique.
 ---------------------------------------                                                                                                I
  Intranet        :  Réseau interne
  IoT             :  Internet des Objets 
