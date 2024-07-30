@@ -88,7 +88,12 @@ Glossaire
 --------------------------------------                                                                                                 W
  wap             :  Wireless Access Point
  Wi-Fi           :  Wireless Fidelity 
- WPA2           :  Wi-Fi Protected Access 2 , utilise AES (Advanced Encryption Standard) ou TKIP (Temporal Key Integrity Protocol)
+ WPA2            :  Wi-Fi Protected Access 2 , utilise AES (Advanced Encryption Standard) ou TKIP (Temporal Key Integrity Protocol)
                                             WPA2-Entreprise
                                             WPA2-Personal       : WPA2-PSK , Pre-Shared Key 
-                                              
+--------------------------------------                                                                                                 X
+ XaaS           :  anything as aservice pour le cloud computing
+                         - Saas pour Software
+                         - PaaS pour Platform
+                         - IaaS pour Infrastructure
+                         - CaaS pour computing
