@@ -23,6 +23,7 @@ Glossaire
    Décimal       :  (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
    Gray          :  Code numérique, composé de quatre bits par chiffre, seul un bit change
    Hexadécimal   :  (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F)
+ Conteneur       :  Indépendant de l'hôte
  CPL             :  courant porteur en ligne 
  CPU             :  Central Processing Unit
  CNIL            :  Commission nationale de l'informatique et des libertés 
