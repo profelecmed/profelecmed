@@ -61,6 +61,7 @@ Glossaire
  NIC             :  Network Interface Card ou carte réseau  
  NPU             :  Neural Processing Unit
 ---------------------------------------                                                                                                P
+ Passkeys        :  Paire de clès asymétriques (privée sur l'appareil, publique sur serveur), utilisztion par confirmation bio.
  plug-and-play   :  On branche et cela fonctionne.
  POE             :  Power over ethernet
  pxe             :  Pre-boot eXecution Environment
