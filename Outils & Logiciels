@@ -1,8 +1,10 @@
 Outils & Logiciels
 
 ...............................................                                                                                        D
-Docker            :   C'est un Hyperviseur de conteneurs  , https://docker-curriculum.com/
+BalenaEtcher     :   Installer un OS en .iso sur une carte SD pour un raspberry PI
+...............................................                                                                                        D
+Docker            :  C'est un Hyperviseur de conteneurs  , https://docker-curriculum.com/
 ...............................................                                                                                        F
 Filezilla         :  Permet le transfert FTP exemple vers un site web 
 ...............................................                                                                                        P
-Portainer         :   C'est une interface Web pour la gestion de conteneurs docker   , https://www.portainer.io/
+Portainer         :  C'est une interface Web pour la gestion de conteneurs docker   , https://www.portainer.io/
