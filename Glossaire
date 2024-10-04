@@ -37,6 +37,8 @@ Glossaire
                    - Débit IP est mesuré au niveau de l'abonné.
  DMZ             :  Zone démilitarisée, sous-réseau isolé à part
  DSLAM           :  Digital subscriber line access multiplexer (Equipement ADSL internet)
+---------------------------------------                                                                                                E 
+ EEPROM          :  Electricaly Erasable rogrammable ROM
 ---------------------------------------                                                                                                F 
  firewall        :  Pare-feu il assure : Filtrage , authentification , gestion des droits, NAT
 ---------------------------------------                                                                                                G
@@ -76,8 +78,10 @@ Glossaire
 ---------------------------------------                                                                                                q 
  QoS             :  Quality of Service   hiérarchiser les applications et utilisateurs avec un ordre de priorité.
 ---------------------------------------                                                                                                R
+ RAM             :  Random Access Memory , "mémoire vive"
  RGB             :  Red Green Blue
  RGPD            :  Règlement général sur la protection des données 
+ ROM             :  Read Only Memory
  Routeur         :  Il fait transiter des paquets d'une interface réseau vers une autre. Les routeurs opèrent au niveau de la couche 3. 
 ---------------------------------------                                                                                                S
  SQL             :  Structured Query Language
