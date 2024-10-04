@@ -6,7 +6,7 @@ Glossaire
  ACL             :  access control list
  AD              :  Active Directory
  API             :  Application Programming Interface 
- ASCII           :  American Standard Code for Information Interchange.
+ ASCII           :  American Standard Code for Information Interchange. Cette table défini un code 8 bitspour les caractères du clavier.
  Asynchrone      :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
  Audit           :  Procédure de contrôle
 ---------------------------------------                                                                                               B
@@ -101,7 +101,7 @@ Glossaire
 --------------------------------------                                                                                                 W
  W3C             :  World Wide Web Consortium        
  wap             :  Wireless Access Point
- WAN             :  Wide Area Network
+ WAN             :  Wide Area Network, réseau étendu
  Wi-Fi           :  Wireless Fidelity 
  WPA2            :  Wi-Fi Protected Access 2 , utilise AES (Advanced Encryption Standard) ou TKIP (Temporal Key Integrity Protocol)
                                             WPA2-Entreprise
