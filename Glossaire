@@ -40,6 +40,7 @@ Glossaire
 ---------------------------------------                                                                                                F 
  firewall        :  Pare-feu il assure : Filtrage , authentification , gestion des droits, NAT
 ---------------------------------------                                                                                                G
+ gateway         :  Passerelle , elle permet de relier deux réseaux , réseau local et le réseau Internet
  GPU             :  Graphics Processing Unit          
 ---------------------------------------                                                                                                H
  HDD             :  Hard Disk Drive
