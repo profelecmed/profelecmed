@@ -89,7 +89,7 @@ Glossaire
  SSID            :  Service set identifier , nom du réseau wifi
  Switch          :  Commutateur, niveau 2 : uniquement un LAN (adresses MAC)  , Niveau 3 :  fonction de routage (adresses IP)
  Synchrone       :  On suit les étapes en même temps (Exemple : webinaires en direct )
- SysML           :  Langage de modélisation système
+ SysML           :  Systems Modeling Language : Langage de modélisation système
 ---------------------------------------                                                                                                T
  Transmission 
    Simplex       :  Transmission unidirectionnelle , exemple TV
