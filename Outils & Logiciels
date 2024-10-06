@@ -6,6 +6,7 @@ BalenaEtcher      :   Installer un OS en .iso sur une carte SD pour un raspberry
 Docker            :  C'est un Hyperviseur de conteneurs  , https://docker-curriculum.com/
 ...............................................                                                                                        F
 Filezilla         :  Permet le transfert FTP exemple vers un site web 
+Filius            :  Logiciel de simulation de réseaux informatique
 ...............................................                                                                                        P
 Packet Tracer     :  Logiciel de simulation de réseaux informatique de Cisco
 Portainer         :  C'est une interface Web pour la gestion de conteneurs docker   , https://www.portainer.io/
