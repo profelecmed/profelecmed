@@ -1,38 +1,39 @@
 Protocoles:
 
-...............................................                                                                                        A
+...............................................                                                                                               A
 ARP            :  Address Resolution Protocol            : Permet d'obtenir par une requête l'adresse MAC correspondant à l’adresse IP.
-...............................................                                                                                        D
+...............................................                                                                                               D
 DHCP           :  Dynamic Host Configuration Protocol.   : Configuration automatique des paramètres IP 
 DNS            :  Domain Name System                     : Association noms et IP
-...............................................                                                                                        F
+...............................................                                                                                               F
 FTP            :  File Transfer Protocol                 : Protocole de transfert de fichiers
-...............................................                                                                                        H
+...............................................                                                                                               H
 HSRP           :  Hot Standby Router Protocol            : Protocole Cisco de gestion de routeurs avec un prioritaire 
-...............................................                                                                                        I
+...............................................                                                                                               I
 ICMP           :  Internet Control Message Protocol      : Détection des erreurs lors de transmission en TCP/IP, "Commande: ping"
+IMAP           :  Internet Message Access Protocol       : Opposé au POP. Ici on consulte ses mails sur le serveur dirrectement.
 IP             :  Internet Protocol                      : IPv4 ou IPv6
-...............................................                                                                                        L
+...............................................                                                                                               L
 LACP           :  Link Aggregation Control Protocol      : Niveau 2de OSI.
 LDAP           :  Lightweight Directory Access Protocol  : Il est utilisé pour l’authentification des services d’annuaire, type AD
-...............................................                                                                                        M
+...............................................                                                                                               M
 MQTT           :  Message Queuing Telemetry Transport    : Transmission de données IoT
-...............................................                                                                                        N
+...............................................                                                                                               N
 NTP            :  Network Time Protocol                  : Protocole de synchronisation de réseau
-...............................................                                                                                        P
-POP3           :  Post Office Protocol                   : Il permet de télécharger des e-mails d'un serveur vers un client  
+...............................................                                                                                               P
+POP3           :  Post Office Protocol                   : Il permet de télécharger et stosk en local des e-mails d'un serveur vers un client  
 PPPoE          :  point-to-point protocol over Ethernet  : Créer un tunnel de niveau 2 entre deux routeurs
-...............................................                                                                                        R
+...............................................                                                                                               R
 RARP           :  Reverse Address Resolution Protocol    : Inverse de ARP
 RIP            :  Routing Information Protocol           : C’est un protocole d'information de routage.
 RTP            :  Real Time Transport Protocol           : conçu plutôt pour audio et vidéo
-...............................................                                                                                        S
+...............................................                                                                                               S
 SIP            :  Session Initiation Protocol            : Sessions "d'appel" multimédia.
 SMTP           :  Simple Mail Transfer Protocol          : Il est utilisé pour transférer le courrier électronique
 Spanning-Tree  :                                         : créer un chemin logique unique dans une architecture redondante.
 SSH            :  Secure Shell                           : Sessions , transfert de fichiers de manière sécurisée
-...............................................                                                                                        T
+...............................................                                                                                              T
 Telnet         :  TErminaL NETwork protocol              : Attention transmission en clair!
 TCP            :  Transport Control Protocol             : Transmission de données fiable , détection et une correction d’erreurs
-...............................................                                                                                        U
+...............................................                                                                                              U
 UDP            :  User Datagram Protocol                 : Transmission de datagrammes sans connection.
