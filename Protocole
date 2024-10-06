@@ -20,6 +20,7 @@ MQTT           :  Message Queuing Telemetry Transport    : Transmission de donn�
 ...............................................                                                                                        N
 NTP            :  Network Time Protocol                  : Protocole de synchronisation de réseau
 ...............................................                                                                                        P
+POP3           :  Post Office Protocol                   : Il permet de télécharger des e-mails d'un serveur vers un client  
 PPPoE          :  point-to-point protocol over Ethernet  : Créer un tunnel de niveau 2 entre deux routeurs
 ...............................................                                                                                        R
 RARP           :  Reverse Address Resolution Protocol    : Inverse de ARP
