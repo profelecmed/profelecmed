@@ -68,7 +68,7 @@ Glossaire
  NIC             :  Network Interface Card ou carte réseau  
  NOSQL           :  Not Only SQL
  NPU             :  Neural Processing Unit
- NVMe            :  Nonvolatile Memory Express    : c'est un SSD
+ NVMe            :  Nonvolatile Memory Express    : C'est un SSD qui utilise des sockets PCIe plus rapide que le SATA.
 ---------------------------------------                                                                                                O
  OS              :  Operating Système (Système d'Exploitation)
  OSI             :  Open System Interconnection (interconnexion de systèmes ouverts)
