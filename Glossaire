@@ -37,6 +37,7 @@ Glossaire
                    - Débit ATM est mesuré au niveau du DSLAM
                    - Débit IP est mesuré au niveau de l'abonné.
  DMZ             :  Zone démilitarisée, sous-réseau isolé à part
+ DoS             :  Dénis de service
  DSLAM           :  Digital subscriber line access multiplexer (Equipement ADSL internet)
 ---------------------------------------                                                                                                 E 
  EEPROM          :  Electricaly Erasable rogrammable ROM
