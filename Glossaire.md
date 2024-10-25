@@ -1,16 +1,16 @@
-# Glossaire : 
-Glossaire & Acronymes
+# Glossaire & Acronymes : 
 
+### ----
 1 Kio            :  1 Kio =1024 o  
 2FA              :  Authentification à 2 facteurs
----------------------------------------                                                                                                A
+### ---------------------------------------                                                                                                A
  ACL             :  access control list
  AD              :  Active Directory
  API             :  Application Programming Interface 
  ASCII           :  American Standard Code for Information Interchange. Cette table défini un code 8 bitspour les caractères du clavier.
  Asynchrone      :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
  Audit           :  Procédure de contrôle
----------------------------------------                                                                                                B
+### ---------------------------------------                                                                                                B
  BDD             :  Base de données
  BIOS            :  Basic Input or Output System , sur les PC moderne c'est UEFI
  Blockchain      :  Chaîne de blocs permet de garder la trace d'un ensemble de transactions de manière décentralisée.
