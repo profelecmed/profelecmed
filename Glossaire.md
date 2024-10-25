@@ -3,14 +3,13 @@
 ----
 _ 1 Kio            :  1 Kio =1024 o  _
 _ 2FA              :  Authentification à 2 facteurs _
-----
-### ---------------------------------------                                                                                                A
- _ ACL             :  access control list _
- AD              :  Active Directory
- API             :  Application Programming Interface 
- ASCII           :  American Standard Code for Information Interchange. Cette table défini un code 8 bitspour les caractères du clavier.
- Asynchrone      :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
- Audit           :  Procédure de contrôle
+----                                                                                                 A
+ ###### _ ACL             :  access control list _
+ ###### AD              :  Active Directory
+ ###### API             :  Application Programming Interface 
+ ###### ASCII           :  American Standard Code for Information Interchange. Cette table défini un code 8 bitspour les caractères du clavier.
+ ###### Asynchrone      :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
+ ###### Audit           :  Procédure de contrôle
 ### ---------------------------------------                                                                                                B
  BDD             :  Base de données
  BIOS            :  Basic Input or Output System , sur les PC moderne c'est UEFI
