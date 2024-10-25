@@ -1,10 +1,11 @@
 # Glossaire & Acronymes : 
 
-### ----
-1 Kio            :  1 Kio =1024 o  
-2FA              :  Authentification à 2 facteurs
+----
+_ 1 Kio            :  1 Kio =1024 o  _
+_ 2FA              :  Authentification à 2 facteurs _
+----
 ### ---------------------------------------                                                                                                A
- ACL             :  access control list
+ _ ACL             :  access control list _
  AD              :  Active Directory
  API             :  Application Programming Interface 
  ASCII           :  American Standard Code for Information Interchange. Cette table défini un code 8 bitspour les caractères du clavier.
