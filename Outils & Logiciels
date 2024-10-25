@@ -1,20 +1,22 @@
 Outils & Logiciels
 
 
+...............................................                                                                                        A
+Advanced IP Scanner   :  Analyse le réseau et récupération d’adresses IP et MAC 
+...............................................                                                                                        B
+BalenaEtcher          :  Installer un OS en .iso sur une carte SD pour un raspberry PI
 ...............................................                                                                                        D
-BalenaEtcher      :   Installer un OS en .iso sur une carte SD pour un raspberry PI
-...............................................                                                                                        D
-Docker            :  C'est un Hyperviseur de conteneurs  , https://docker-curriculum.com/
+Docker                :  C'est un Hyperviseur de conteneurs  , https://docker-curriculum.com/
 ...............................................                                                                                        F
-Filezilla         :  Permet le transfert FTP exemple vers un site web 
-Filius            :  Logiciel de simulation de réseaux informatique
+Filezilla             :  Permet le transfert FTP exemple vers un site web 
+Filius                :  Logiciel de simulation de réseaux informatique
 ...............................................                                                                                        K
-Kali linux        :  Os Linux avec des outils pour les professionnels de la cybersécurité
+Kali linux            :  Os Linux avec des outils pour les professionnels de la cybersécurité
 ...............................................                                                                                        P
-Packet Tracer     :  Logiciel de simulation de réseaux informatique de Cisco
-Portainer         :  C'est une interface Web pour la gestion de conteneurs docker   , https://www.portainer.io/
+Packet Tracer         :  Logiciel de simulation de réseaux informatique de Cisco
+Portainer             :  C'est une interface Web pour la gestion de conteneurs docker   , https://www.portainer.io/
 ...............................................                                                                                        S
-SDformater        :  Permet de formater des carte SD
-SyncBackFree      :  Permet de synchroniser vos sauvegardes
+SDformater            :  Permet de formater des carte SD
+SyncBackFree          :  Permet de synchroniser vos sauvegardes
 ...............................................                                                                                        W
-Wireshark         :  Il analyse les paquets sur un réseau informatique
+Wireshark             :  Il analyse les paquets sur un réseau informatique
