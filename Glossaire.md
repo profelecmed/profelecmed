@@ -1,9 +1,10 @@
 # Glossaire & Acronymes : 
 
 ----
-_ 1 Kio            :  1 Kio =1024 o  _
-_ 2FA              :  Authentification à 2 facteurs _
-----                                                                                                 A
+###### _ 1 Kio            :  1 Kio =1024 o  _
+###### 2FA              :  Authentification à 2 facteurs 
+
+----  A
  ###### _ ACL             :  access control list _
  ###### AD              :  Active Directory
  ###### API             :  Application Programming Interface 
