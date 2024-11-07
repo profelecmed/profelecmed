@@ -2,7 +2,7 @@ Glossaire & Acronymes
 
 1 Kio            :  1 Kio =1024 o 
 2FA              :  Authentification à 2 facteurs
-10G EPON         :  Ethernet Passive optical Network
+10G EPON         :  10 Gb/s Ethernet Passive optical Network
 ---------------------------------------                                                                                                A
  ACL             :  access control list
  AD              :  Active Directory
@@ -47,7 +47,7 @@ Glossaire & Acronymes
  firewall        :  Pare-feu il assure : Filtrage , authentification , gestion des droits, NAT
  FTTH            :  Fiber to the home , On a 2 types d’architecture de ce réseau : le P2P et le PON.
                     P2P : Fibre point à point, c'est à dire que chaque usager à une fibre dédiée. 
-                    PON : Fibre point-multipoint passive, Plusieurs usagers partagent une même fibre. 
+                    PON :  Passive optical Network, Fibre point-multipoint passive, Plusieurs usagers partagent une même fibre. 
 ---------------------------------------                                                                                                 G
  gateway         :  Passerelle , elle permet de relier deux réseaux , réseau local et le réseau Internet
  GPU             :  Graphics Processing Unit          
