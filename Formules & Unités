@@ -11,7 +11,7 @@ dBm                 :  décibel mètre
                          --------------------------------
                          |    dbm       |       mW      |
                          |     0        |        1      |
-                         |     3        |        2      |
+                         |     3        |        2      |  Un augmentation de 3db double la puissance en mW
                          |     6        |        4      |
                          |    20        |      100      |
                          --------------------------------
