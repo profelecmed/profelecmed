@@ -7,8 +7,8 @@ Ports
 25     :   SMTP      " Envoi de courrier "
 53     :   DNS       " Domain Name System "
 80     :   HTTP      " Web "
-110    :   POP3      Post Office Protocol, " Réception de courrier "
-143    :   IMAP      Internet Message Access Protocole, " Réception de courrier "
+110    :   POP3      " Réception de courrier "
+143    :   IMAP      " Réception de courrier "
 443    :   HTTPS     " http sécurisé par portions de SSL "
 
 1024 à 49151         " Ports enregistrés («Registered Ports») "
