@@ -7,3 +7,10 @@ Unités:
 
 dBm                 :  décibel mètre
                        Exemple, utilisé comme unités de puissance sur une échelle logarithmique d'émission d'une carte wifi.
+                         
+                         --------------------------------
+                         |    dbm       |       mW      |
+                         |     0        |        1      |
+                         |     3        |        2      |
+                         |     6        |        4      |
+                         --------------------------------
