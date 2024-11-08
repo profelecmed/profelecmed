@@ -5,4 +5,5 @@ Formules & Unités:
 Unités:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-dBm                 :  Exemple, utilisé comme unités de puissance d'émission d'une carte wifi
+dBm                 :  décibel mètre
+                       Exemple, utilisé comme unités de puissance sur une échelle logarithmique d'émission d'une carte wifi.
