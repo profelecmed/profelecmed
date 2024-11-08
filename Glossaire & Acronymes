@@ -122,7 +122,8 @@ Glossaire & Acronymes
  wap             :  Wireless Access Point
  WAN             :  Wide Area Network, réseau étendu
  Wi-Fi           :  Wireless Fidelity 
- WPA2            :  Wi-Fi Protected Access 2 , utilise AES (Advanced Encryption Standard) ou TKIP (Temporal Key Integrity Protocol)
+    WEP             :  Wired Equivalent Privacy ; Trop facile à hacker!
+    WPA2            :  Wi-Fi Protected Access 2 , utilise AES (Advanced Encryption Standard) ou TKIP (Temporal Key Integrity Protocol)
                                             WPA2-Entreprise
                                             WPA2-Personal       : WPA2-PSK , Pre-Shared Key 
 --------------------------------------                                                                                                 X
