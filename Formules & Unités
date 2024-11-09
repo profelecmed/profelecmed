@@ -12,7 +12,7 @@ dB = 10 x log10 (P1/P2)
 Unités:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-dBm                 :  décibel mètre
+dBm                 :  décibel milliwatt
                        Exemple, utilisé comme unités de puissance sur une échelle logarithmique.
                          
                          --------------------------------
