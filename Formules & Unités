@@ -15,3 +15,4 @@ dBm                 :  décibel mètre
                          |     6        |        4      |
                          |    20        |      100      |
                          --------------------------------
+Une valeur en db négative : -3.0 dB , signifie une perte de 3.0 dB.
