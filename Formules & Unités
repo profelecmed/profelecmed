@@ -6,7 +6,7 @@ Unités:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 dBm                 :  décibel mètre
-                       Exemple, utilisé comme unités de puissance sur une échelle logarithmique d'émission d'une carte wifi.
+                       Exemple, utilisé comme unités de puissance sur une échelle logarithmique.
                          
                          --------------------------------
                          |    dbm       |       mW      |
@@ -15,4 +15,9 @@ dBm                 :  décibel mètre
                          |     6        |        4      |
                          |    20        |      100      |
                          --------------------------------
-Une valeur en db négative : -3.0 dB , signifie une perte de 3.0 dB.
+
+dB                 :  décibel  
+                      Mesure les pertes ou les gains
+                         Une valeur en db négative : -3.0 dB , signifie une perte de 3.0 dB.
+                         Une valeur en db positive :  3.0 dB , signifie un gain de 3.0 dB.
+                       
