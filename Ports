@@ -6,6 +6,8 @@ Ports
 23     :   Telnet    " Protocole de transport TCP "
 25     :   SMTP      " Envoi de courrier "
 53     :   DNS       " Domain Name System "
+67     :   DHCP      " Les serveurs DHCP écoutent sur ce port les messages entrants des clients DHCP
+68     :   DHCP      " Les clients DHCP utilisent ce pour envoyer des messages aux serveurs DHCP
 80     :   HTTP      " Web "
 110    :   POP3      " Réception de courrier "
 143    :   IMAP      " Réception de courrier "
