@@ -7,6 +7,7 @@ Advanced IP Scanner   :  Analyse le réseau et récupération d’adresses IP et
 BalenaEtcher          :  Installer un OS en .iso sur une carte SD pour un raspberry PI
 ...............................................                                                                                        D
 Docker                :  C'est un Hyperviseur de conteneurs  , https://docker-curriculum.com/
+Dsynchronize          :  C'est un logiciel de synchronisation de fichiers 
 ...............................................                                                                                        F
 Filezilla             :  Permet le transfert FTP exemple vers un site web 
 Filius                :  Logiciel de simulation de réseaux informatique
