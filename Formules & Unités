@@ -17,7 +17,7 @@ dBm                 :  décibel mètre
                          --------------------------------
 
 dB                 :  décibel  
-                      Mesure les pertes ou les gains
+                      Exprime la différence relative utiliser pour la msure des pertes ou des gains
                          Une valeur en db négative : -3.0 dB , signifie une perte de 3.0 dB.
                          Une valeur en db positive :  3.0 dB , signifie un gain de 3.0 dB.
                        
