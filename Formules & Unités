@@ -18,7 +18,7 @@ dBm                 :  décibel milliwatt
                          --------------------------------
                          |    dbm       |       mW      |
                          |     0        |        1      |
-                         |     3        |        2      |  Un augmentation de 3db double la puissance en mW
+                         |     3        |        2      |  Un augmentation de 3dBm double la puissance en mW
                          |     6        |        4      |
                          |    20        |      100      |
                          --------------------------------
