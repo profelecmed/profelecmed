@@ -28,3 +28,5 @@ dB                 :  décibel
                          Une valeur en db négative : -3.0 dB , signifie une perte de 3.0 dB.
                          Une valeur en db positive :  3.0 dB , signifie un gain de 3.0 dB.
                        
+
+Octet              : 1 Octet = 8 bits = 1 Byte
