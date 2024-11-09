@@ -17,6 +17,7 @@ Unités:
 
 dBm                 :  décibel milliwatt
                        Exemple, utilisé comme unités de puissance sur une échelle logarithmique.
+                       Le dBm est l’unité de mesure utilisée pour lire la puissance d’un signal optique.
                          
                          --------------------------------
                          |    dbm       |       mW      |
