@@ -14,10 +14,11 @@ Filius                :  Logiciel de simulation de réseaux informatique
 ...............................................                                                                                        K
 Kali linux            :  Os Linux avec des outils pour les professionnels de la cybersécurité
 KiCad                 :  Logiciel de conception de schémas électroniques et la conception de circuits imprimé
+Kutty                 :  Emulateur de terminal et client SSH de type Putty avec des options.
 ...............................................                                                                                        P
 Packet Tracer         :  Logiciel de simulation de réseaux informatique de Cisco
 Portainer             :  C'est une interface Web pour la gestion de conteneurs docker   , https://www.portainer.io/
-Putty                 :  Client SSH
+Putty                 :  Emulateur de terminal et client SSH
 ...............................................                                                                                        S
 SDformater            :  Permet de formater des carte SD
 spacedesk             :  Permet de dupliquer le bureau Windows sur l'écran d'une autre machine 
