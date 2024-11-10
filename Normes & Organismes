@@ -28,4 +28,5 @@ IEEE :  Institute of Electrical and Electronics Engineers
 
 
 ...............................................                                                                                        R 
-  RS-232                   :  Norme standardisant une voie de communication de type série. Vitesse en bits/s 
+  RS-232                   :  Norme standardisant une voie de communication de type série entre deux appareils. Vitesse en bits/s 
+  RS-485                   :  Norme standardisant une voie de communication de type série jusqu'à 32 appareils. Vitesse en bits/s 
