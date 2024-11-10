@@ -7,6 +7,9 @@ dB = 10 x log10 (P1/P2)
 GdB= 20x log (VS/VE)
 
 
+D.D.P           :  Différence de potentiel = tension en Volts
+                   Uab = Ua - Ub
+
 Débit           :  Quantité de données transmise sur une période. (Go/s)
                    Débit = Quantités / temps    D en bit/s ou bps , baud
 
