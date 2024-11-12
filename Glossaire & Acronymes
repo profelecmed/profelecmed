@@ -96,6 +96,7 @@ Glossaire & Acronymes
  Routeur         :  Il fait transiter des paquets d'une interface réseau vers une autre. Les routeurs opèrent au niveau de la couche 3. 
 ---------------------------------------                                                                                                S
  SI              :  Système d’Information
+ SO-DIMM         :  small outline dual in-line memory module  , barrette de RAM Pc portable
  SOC             :  Security Operations Center
  SOH             :  State of Health, % de performance et capacité d'une batterie
  SQL             :  Structured Query Language
