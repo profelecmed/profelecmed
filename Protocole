@@ -28,7 +28,7 @@ RARP           :  Reverse Address Resolution Protocol    : Inverse de ARP
 RDP            :  Remote Desktop Protocol                : Bureau à distance avec le port port réseau 3389 
 RIP            :  Routing Information Protocol           : C’est un protocole d'information de routage.
 RSTP           :  Rapid Spanning Tree Protocol           : Il détecte les topologies afin d’assurer une convergence plus rapide et sans boucles
-RTP            :  Real Time Transport Protocol           : conçu plutôt pour audio et vidéo
+RTP            :  Real Time Transport Protocol           : Conçu plutôt pour audio et vidéo
 ...............................................                                                                                               S
 SIP            :  Session Initiation Protocol            : Sessions "d'appel" multimédia.
 SMTP           :  Simple Mail Transfer Protocol          : Il est utilisé pour transférer le courrier électronique
