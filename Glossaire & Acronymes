@@ -82,6 +82,7 @@ Glossaire & Acronymes
  OSI             :  Open System Interconnection (interconnexion de systèmes ouverts)
 ---------------------------------------                                                                                                P
  Passkeys        :  Paire de clès asymétriques (privée sur l'appareil, publique sur serveur), utilisztion par confirmation bio.
+ PCB             :  Printed Circuit Board
  plug-and-play   :  On branche et cela fonctionne.
  POE             :  Power over ethernet
  pxe             :  Pre-boot eXecution Environment
