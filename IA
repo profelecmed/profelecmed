@@ -16,7 +16,7 @@ Modules :
                                                                                              |     4        |      + VCC     | +3,3  +5V  |
                                                                                              ----------------------------------------------
 
-                                                                   Mode I2C                                                                       Microbit
+                                                                   Mode I2C                                                                        Microbit               Ou Grove sortie I2C
                                                                                              ---------------------------------------------        -------------
                                                                                              |   Numéro     |  Désignation   |  Rôle      |       |   Bornes   |
                                                                                              |     1        |      SDA       |   DATA     |       |    P20     |
