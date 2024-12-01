@@ -7,8 +7,8 @@ Modules :
                                                     CVaractéristiques d'aliementations  :  3.3~5.0V
                                                     Carte SD                            :  Format Fat42
                                                     Connecteurs                         :  
-                                                                   Mode UART
-                                                                                             ---------------------------------------------
+                                                                   Mode UART                                                                       
+                                                                                             ---------------------------------------------          
                                                                                              |   Numéro     |  Désignation   |  Rôle      |
                                                                                              |     1        |      T         |   Tx       |
                                                                                              |     2        |      R         |   Rx       |
@@ -16,14 +16,14 @@ Modules :
                                                                                              |     4        |      + VCC     | +3,3  +5V  |
                                                                                              ----------------------------------------------
 
-                                                                   Mode I2C
-                                                                                             ---------------------------------------------
-                                                                                             |   Numéro     |  Désignation   |  Rôle      |
-                                                                                             |     1        |      SDA       |   DATA     |
-                                                                                             |     2        |      SCL       |   Clock    |
-                                                                                             |     3        |      -         |   GND      |
-                                                                                             |     4        |     + VCC      | +3,3  +5V  |
-                                                                                             ----------------------------------------------
+                                                                   Mode I2C                                                                       Microbit
+                                                                                             ---------------------------------------------        -------------
+                                                                                             |   Numéro     |  Désignation   |  Rôle      |       |   Bornes   |
+                                                                                             |     1        |      SDA       |   DATA     |       |    P20     |
+                                                                                             |     2        |      SCL       |   Clock    |       |    P19     |
+                                                                                             |     3        |      -         |   GND      |       |            |
+                                                                                             |     4        |     + VCC      | +3,3  +5V  |       |            |
+                                                                                             ----------------------------------------------       --------------  
 
                                                     Liens                                
                                                                   DFROBOT documentation :  https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336
