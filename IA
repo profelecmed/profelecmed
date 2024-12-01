@@ -5,6 +5,7 @@ Modules :
           Module AI HuskyLens Gravity SEN0305  :
                                                     Applications                        :  Suivi d'objets, reconnaissance faciale, reconnaissance d'objets, suivi de lignes, reconnaissance de couleurs, lecture de QR Codes.
                                                     CVaractéristiques d'aliementations  :  3.3~5.0V
+                                                    Carte SD                            :  Format Fat42
                                                     Connecteurs                         :  
                                                                    Mode UART
                                                                                              ---------------------------------------------
