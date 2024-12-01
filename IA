@@ -5,6 +5,25 @@ Modules :
           Module AI HuskyLens Gravity SEN0305  :
                                                     Applications                        :  Suivi d'objets, reconnaissance faciale, reconnaissance d'objets, suivi de lignes, reconnaissance de couleurs, lecture de QR Codes.
                                                     CVaractéristiques d'aliementations  :  3.3~5.0V
+                                                    Connecteurs                         :  
+                                                                                           Mode UART
+                                                                                           ---------------------------------------------
+                                                                                           |   Numéro     |  Désignation   |  Rôle      |
+                                                                                           |     1        |      T         |   Tx       |
+                                                                                           |     2        |      R         |   Rx       |
+                                                                                           |     3        |      -         |   GND      |
+                                                                                           |     4        |      + VCC     | +3,3  +5V  |
+                                                                                           ----------------------------------------------
+
+                                                                                           Mode I2C
+                                                                                           ---------------------------------------------
+                                                                                           |   Numéro     |  Désignation   |  Rôle      |
+                                                                                           |     1        |      SDA       |   DATA     |
+                                                                                           |     2        |      SCL       |   Clock    |
+                                                                                           |     3        |      -         |   GND      |
+                                                                                           |     4        |     + VCC      | +3,3  +5V  |
+                                                                                           ----------------------------------------------
+
                                                     Lien                                :  https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336
                                                     Protocoles                          :  I2C ou UART
                                                      
