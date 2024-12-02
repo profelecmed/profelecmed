@@ -68,8 +68,9 @@ Glossaire & Acronymes
  LAN             :  local area network
  LPU             :  Language Processing Unit
 ---------------------------------------                                                                                                 M
+ M2M             :  Machine to Machine , C'est la communication de machine à machine 
  MAC             :  Media Access Control          : 6 octets sous forme hexadécimale 
- MQTT            :  Message Queuing Telemetry Transport : Il transmet des messages entre différentes machines pour l'IOT
+ MQTT            :  Message Queuing Telemetry Transport : Il transmet des messages entre différentes machines pour l'IoT et M2M.
  MOOC            :  Massive Open Online Courses
  ---------------------------------------                                                                                                N
  NAS             :  Network Attached Storage
