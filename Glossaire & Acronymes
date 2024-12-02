@@ -69,6 +69,7 @@ Glossaire & Acronymes
  LPU             :  Language Processing Unit
 ---------------------------------------                                                                                                 M
  MAC             :  Media Access Control          : 6 octets sous forme hexadécimale 
+ MQTT            :  Message Queuing Telemetry Transport : Il transmet des messages entre différentes machines pour l'IOT
  MOOC            :  Massive Open Online Courses
  ---------------------------------------                                                                                                N
  NAS             :  Network Attached Storage
