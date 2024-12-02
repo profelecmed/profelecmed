@@ -10,6 +10,7 @@ Modules :
                                                                   MakeCode avec exrtension  HuskyLens                 :  https://makecode.microbit.org/
                                                                   Librairie                                           :              from HuskyLens import HuskyLensLibrary
                                                                   Editeur Python Mu                                   :  https://codewith.mu/en/download
+                                                                  Utiliser l'éditeur Mu                               :  https://lecluseo.scenari-community.org/CircuitPython/co/G_mu_2.html
                                                     Connecteurs                         :  
                                                                    Mode UART                                                                       
                                                                                              ---------------------------------------------          
