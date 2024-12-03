@@ -6,6 +6,7 @@ Advanced IP Scanner   :  Analyse le réseau et récupération d’adresses IP et
 ...............................................                                                                                        B
 BalenaEtcher          :  Installer un OS en .iso sur une carte SD pour un raspberry PI
 ...............................................                                                                                        D
+Dockge                :  Créer, modifier, démarrer, arrêter, redémarrer, supprimer un container DOCKER
 Docker                :  C'est un Hyperviseur de conteneurs  , https://docker-curriculum.com/
 Dsynchronize          :  C'est un logiciel de synchronisation de fichiers 
 ...............................................                                                                                        F
