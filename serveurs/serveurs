@@ -2,9 +2,13 @@ SERVEURS:
 ---------
 
 Serveur lame: 
-               Les serveurs lame sont montés dans une baie.
+               Appelé serveur blade.
+               Le serveur lame est beaucoup plus compact qu'un serveur rack.
+               Les serveurs lames sont montés dans une baie.
                La baie contenant les serveurs lames peut également être placée dans un rack.
+
 Serveur rack: 
                Un rack peut contenir plusieurs serveurs empilés les uns sur les autres.
+
 
 Serveur tour:
