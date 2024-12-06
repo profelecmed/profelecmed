@@ -1,11 +1,11 @@
                                                     PINS I2C
                                                     --------
 
-Mode I2C                                                                        Microbit               Ou Grove sortie I2C                           Microbit
-                                                                                             ---------------------------------------------        -------------
-                                                                                             |   Numéro     |  Désignation   |  Rôle      |       |   Bornes   |
-                                                                                             |     1        |      SDA       |   DATA     |       |    P20     |
-                                                                                             |     2        |      SCL       |   Clock    |       |    P19     |
-                                                                                             |     3        |      -         |   GND      |       |    P21     |
-                                                                                             |     4        |     + VCC      | +3,3       |       |    P18     |
-                                                                                             ----------------------------------------------       --------------  
+Mode I2C                                                                        Microbit               Ou Grove sortie I2C                           Microbit             Fils
+                                                                                             ---------------------------------------------        -------------       ------------
+                                                                                             |   Numéro     |  Désignation   |  Rôle      |       |   Bornes   |      | Couleurs  |
+                                                                                             |     1        |      SDA       |   DATA     |       |    P20     |      |           |
+                                                                                             |     2        |      SCL       |   Clock    |       |    P19     |      |           |
+                                                                                             |     3        |      -         |   GND      |       |    P21     |      |   Noir    |   
+                                                                                             |     4        |     + VCC      | +3,3       |       |    P18     |      |   Rouge   |
+                                                                                             ----------------------------------------------       --------------      -------------
