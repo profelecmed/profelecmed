@@ -10,8 +10,8 @@ C'est un bus série avec 3 fils au mimimum pour un signal de données, un signal
 Mode I2C                                                                        Microbit               Ou Grove sortie I2C                           Microbit             Fils
                                                                                              ---------------------------------------------        -------------       ------------
                                                                                              |   Numéro     |  Désignation   |  Rôle      |       |   Bornes   |      | Couleurs  |
-                                                                                             |     1        |      SDA       |   DATA     |       |    P20     |      |           |
-                                                                                             |     2        |      SCL       |   Clock    |       |    P19     |      |           |
+                                                                                             |     1        |      SDA       |   DATA     |       |    P20     |      |  Blanc    |
+                                                                                             |     2        |      SCL       |   Clock    |       |    P19     |      |   Jaune   |
                                                                                              |     3        |      -         |   GND      |       |    P21     |      |   Noir    |   
                                                                                              |     4        |     + VCC      | +3,3       |       |    P18     |      |   Rouge   |
                                                                                              ----------------------------------------------       --------------      -------------
