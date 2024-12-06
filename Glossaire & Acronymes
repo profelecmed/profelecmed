@@ -50,6 +50,7 @@ Glossaire & Acronymes
                     PON :  Passive optical Network, Fibre point-multipoint passive, Plusieurs usagers partagent une même fibre. 
 ---------------------------------------                                                                                                 G
  gateway         :  Passerelle , elle permet de relier deux réseaux , réseau local et le réseau Internet
+ GND             :  Ground , c'est la masse, elle sert de point de référence.
  GPU             :  Graphics Processing Unit          
 ---------------------------------------                                                                                                 H
  HDD             :  Hard Disk Drive
