@@ -67,12 +67,13 @@ Glossaire & Acronymes
  LAG             :  Link Aggregation Group  , X bande passante, redondance des liaisons entre deux périphériques 
  LAN             :  local area network
  LPU             :  Language Processing Unit
+ LSB             :  Less Significant Byte , bit de poids faible "par défaut c'est le bit le plus à droite" , voir aussi MSB
 ---------------------------------------                                                                                                 M
  M2M             :  Machine to Machine , C'est la communication de machine à machine 
  MAC             :  Media Access Control          : 6 octets sous forme hexadécimale 
  MQTT            :  Message Queuing Telemetry Transport : Il transmet des messages entre différentes machines pour l'IoT et M2M.
  MOOC            :  Massive Open Online Courses
- MSB             :  Most Significant Bit , bit de poids fort "par défaut c'est le bit le plus à gauche" , voir LSB
+ MSB             :  Most Significant Bit , bit de poids fort "par défaut c'est le bit le plus à gauche" , voir aussi LSB
  ---------------------------------------                                                                                                N
  NAS             :  Network Attached Storage
  NFC             :  Near Field Communications
