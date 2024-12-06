@@ -72,6 +72,7 @@ Glossaire & Acronymes
  MAC             :  Media Access Control          : 6 octets sous forme hexadécimale 
  MQTT            :  Message Queuing Telemetry Transport : Il transmet des messages entre différentes machines pour l'IoT et M2M.
  MOOC            :  Massive Open Online Courses
+ MSB             :  Most Significant Bit , bit de poids fort "par défaut c'est le bit le plus à gauche" , voir LSB
  ---------------------------------------                                                                                                N
  NAS             :  Network Attached Storage
  NFC             :  Near Field Communications
