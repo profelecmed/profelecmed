@@ -1,6 +1,12 @@
                                                     PINS I2C
                                                     --------
 
+I2C   :     Inter-Integrated Circuit
+
+C'est un bus série avec 3 fils au mimimum pour un signal de données, un signal d'horloge et un signal de référence. Dans le cas du Microbit on a 4 fils.
+
+
+
 Mode I2C                                                                        Microbit               Ou Grove sortie I2C                           Microbit             Fils
                                                                                              ---------------------------------------------        -------------       ------------
                                                                                              |   Numéro     |  Désignation   |  Rôle      |       |   Bornes   |      | Couleurs  |
