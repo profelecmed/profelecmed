@@ -3,4 +3,7 @@
 
 Liaison série UART:
    UART :  Universal Asynchronous Receiver Transmitter
-           Asynchrone!
+           Asynchrone !
+
+  USART :  Universal Synchronous Asynchronous Receiver Transmitter
+           Synchrone ! 
