@@ -34,6 +34,7 @@ RTP            :  Real Time Transport Protocol           : Conçu plutôt pour a
 SIP            :  Session Initiation Protocol            : Sessions "d'appel" multimédia.
 SMTP           :  Simple Mail Transfer Protocol          : Il est utilisé pour transférer le courrier électronique
 Spanning-Tree  :                                         : créer un chemin logique unique dans une architecture redondante.
+SPX            :  Sequenced Packet Exchange              : Transmission
 SSH            :  Secure Shell                           : Sessions , transfert de fichiers de manière sécurisée
 ...............................................                                                                                              T
 Telnet         :  TErminaL NETwork protocol              : Attention transmission en clair!
