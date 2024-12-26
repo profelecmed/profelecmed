@@ -10,6 +10,8 @@ GdB= 20x log (VS/VE)
 D.D.P           :  Différence de potentiel = tension en Volts
                    Uab = Ua - Ub
 
+Loi d'Ohm       :   U = R x I
+
 Débit           :  Quantité de données transmise sur une période. (Go/s)
                    Débit = Quantités / temps    D en bit/s ou bps , baud
 
