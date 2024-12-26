@@ -1,6 +1,10 @@
 Ports
 
- 0     :             " Pour les protocoles TCP et UDP ce port est réservé.
+Les ports sont codés sur 16 bits, les puissances de 2 sont : 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192, 16 384, 32 768, 65536
+Il y a donc 65536 ports posibles.
+
+
+0     :             " Pour les protocoles TCP et UDP ce port est réservé.
 20     :   FTP       " Data "
 21     :   FTP       " Contrôle "
 22     :   SSH       " Remplace, de manière sécurisée, Telnet "
