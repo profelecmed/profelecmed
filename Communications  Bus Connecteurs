@@ -2,14 +2,14 @@
                                     ----------------------
 
 Liaison série UART:
-   UART :  Universal Asynchronous Receiver Transmitter
-           Asynchrone !
+                      UART  :  Universal Asynchronous Receiver Transmitter
+                               Asynchrone !
 
-   USART :  Universal Synchronous Asynchronous Receiver Transmitter
-            Synchrone ! 
+                      USART :  Universal Synchronous Asynchronous Receiver Transmitter
+                               Synchrone ! 
 
 
 
-Connecteur MC4 :
-                 Connecteur pour panneaux photovoltaiques
-                 Multi-Contact de diamètre 4mm
+Connecteur MC4 DC :
+                     Connecteur pour panneaux photovoltaiques
+                     Multi-Contact de diamètre 4mm  Direct current
