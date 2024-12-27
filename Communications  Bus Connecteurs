@@ -1,4 +1,4 @@
-                                    Communications  ,  BUS
+                                    Communications  ,  BUS , Connecteurs
                                     ----------------------
 
 Liaison série UART:
@@ -9,3 +9,7 @@ Liaison série UART:
             Synchrone ! 
 
 
+
+Connecteur MC4 :
+                 Connecteur pour panneaux photovoltaiques
+                 Multi-Contact de diamètre 4mm
