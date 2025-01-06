@@ -32,6 +32,7 @@ RSTP           :  Rapid Spanning Tree Protocol           : Il détecte les topol
 RTP            :  Real Time Transport Protocol           : Conçu plutôt pour audio et vidéo
 ...............................................                                                                                               S
 SIP            :  Session Initiation Protocol            : Sessions "d'appel" multimédia.
+SFTP           :  SSH FTP ou Secure FTP                  :
 SMTP           :  Simple Mail Transfer Protocol          : Il est utilisé pour transférer le courrier électronique
 Spanning-Tree  :                                         : créer un chemin logique unique dans une architecture redondante.
 SPX            :  Sequenced Packet Exchange              : Protocole de transmission qui est remplacé par TCP / IP.
