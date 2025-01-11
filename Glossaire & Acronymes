@@ -95,6 +95,7 @@ EEPROM          :  Electricaly Erasable rogrammable ROM
 ---------------------------------------                                                                                                O
  OS              :  Operating Système (Système d'Exploitation)
  OSI             :  Open System Interconnection (interconnexion de systèmes ouverts)
+ OTA             :  Over The Air                 : Exemple, communiquer en wifi
 ---------------------------------------                                                                                                P
  Passkeys        :  Paire de clès asymétriques (privée sur l'appareil, publique sur serveur), utilisztion par confirmation bio.
  PCB             :  Printed Circuit Board , différents types de PCB : FR4, Prepreg, SMI, Polyimide, ROGER, CEM3
