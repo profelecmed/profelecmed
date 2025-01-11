@@ -22,6 +22,7 @@ Les ports 1024 à 49151 sont les ports enregistrés.
 1024 à 49151         " Ports enregistrés («Registered Ports») "
 1723   :   PPTP      " Point-to-Point Tunneling Protocol "
 3389   :   RDP       " Remote Desktop Protocol, protocole de bureau à distance "
+8123   :   Home Assistant
 8080   :             " Port utilisé par les proxy HTTP "
 
 Les ports 49152 à 65535 sont les ports dynamiques et/ou privés.
