@@ -17,6 +17,7 @@ Les ports 0 à 1023 sont les ports réservés.
 110    :   POP3      " Réception de courrier "
 143    :   IMAP      " Réception de courrier "
 443    :   HTTPS     " http sécurisé par portions de SSL "
+554    :   RTPS      '
 
 Les ports 1024 à 49151 sont les ports enregistrés.
 1024 à 49151         " Ports enregistrés («Registered Ports») "
