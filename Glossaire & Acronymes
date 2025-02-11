@@ -101,6 +101,7 @@ EEPROM          :  Electricaly Erasable rogrammable ROM
 ---------------------------------------                                                                                                P
  Passkeys        :  Paire de clès asymétriques (privée sur l'appareil, publique sur serveur), utilisztion par confirmation bio.
  PCB             :  Printed Circuit Board , différents types de PCB : FR4, Prepreg, SMI, Polyimide, ROGER, CEM3
+ PID             :  Process IDentifier  , l'identifiant de processus ou PID est un code unique attribué à tout processus lors de son démarrage.
  plug-and-play   :  On branche et cela fonctionne.
  POE             :  Power over ethernet
  pxe             :  Pre-boot eXecution Environment
