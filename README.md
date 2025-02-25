@@ -62,7 +62,7 @@ _**Edition 2021,**_  "Boatcycle"   :trophy:
 
 _**Edition 2024,**_  "Equipe PRYMZ 10ième sur 210 équipes" ,  CTF (Capture The Flag)
 
-_**Edition 2025,**_  2 Equipes : "Equipe PRYMZ**"  "Equipe FLAG-EUR"
+_**Edition 2025,**_  2 Equipes : "Equipe PRYMZ** 138 sur 1090 "  "Equipe FLAG-EUR 177 sur 1290"
 
 ----   
 ![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
