@@ -42,7 +42,7 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 
 ![CGENIAL](https://github.com/profelecmed/profelecmed/blob/main/pictures/cgenialONLINE.png)   ![yeswecode](https://github.com/profelecmed/profelecmed/blob/main/pictures/yvconline.png) 
 
-_**Edition 2025,**_  ......
+_**Edition 2025,**_   SmartBadge
 
 _**Edition 2024,**_  "Eau connecté"   :trophy:
 
