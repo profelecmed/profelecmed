@@ -34,6 +34,7 @@ RTP            :  Real Time Transport Protocol           : Conçu plutôt pour a
 SIP            :  Session Initiation Protocol            : Sessions "d'appel" multimédia.
 SFTP           :  SSH FTP ou Secure FTP                  : utilise un canal sécurisé pour transférer des fichiers.
 SMTP           :  Simple Mail Transfer Protocol          : Il est utilisé pour transférer le courrier électronique
+SOAP           :  Simple Object Access Protocol
 Spanning-Tree  :                                         : créer un chemin logique unique dans une architecture redondante.
 SPX            :  Sequenced Packet Exchange              : Protocole de transmission qui est remplacé par TCP / IP.
 SSH            :  Secure Shell                           : Sessions , transfert de fichiers de manière sécurisée
