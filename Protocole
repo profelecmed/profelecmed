@@ -24,6 +24,7 @@ NTP            :  Network Time Protocol                  : Protocole de synchron
 ...............................................                                                                                               P
 POP3           :  Post Office Protocol                   : Il permet de télécharger et stosk en local des e-mails d'un serveur vers un client  
 PPPoE          :  point-to-point protocol over Ethernet  : Créer un tunnel de niveau 2 entre deux routeurs
+PPTP           :  Point-to-Point Tunneling Protocol      : Utilisation VPN, ce protocole est obsolète et vulnérable.
 ...............................................                                                                                               R
 RARP           :  Reverse Address Resolution Protocol    : Inverse de ARP
 RDP            :  Remote Desktop Protocol                : Bureau à distance avec le port port réseau 3389 
