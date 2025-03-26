@@ -7,13 +7,13 @@
 - **Deep Learning**
 
 ## L
-- *LML**              :  Large Language Mode
+- **LML**              :  Large Language Mode
 
 ## M
-- *ML**              :  Machine Learning
+- **ML**              :  Machine Learning
 
 ## R
-- *RAG**          :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
+- **RAG**          :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
 
   
 
