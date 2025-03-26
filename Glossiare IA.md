@@ -8,7 +8,7 @@
 
   ML              :  Machine Learning
 
-  RAG             :  Retrieval Augmented Generation
+  RAG             :  Retrieval Augmented Generation ,  génération augmentée par récupération
 
   
 
