@@ -4,7 +4,7 @@
  
  Deep Learning
  
- LML
+ LML             :  Large Language Mode
 
   ML              :  Machine Learning
 
