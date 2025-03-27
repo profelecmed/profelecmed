@@ -1,6 +1,6 @@
 # IA
 
-> [!question] Le vocabulaire IA
+> Le vocabulaire IA
 
 ## A
 -  **AI Agents**      :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
