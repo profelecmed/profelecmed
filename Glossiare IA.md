@@ -1,7 +1,8 @@
 # IA
 
 ## A
-- **AI Agents <span style="color: #26B260">**      :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
+- <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+ **AI Agents <span style="color: #26B260">**      :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
 
 ## D 
 - **Deep Learning**    : C'est une méthode qui permet aux machines d'apprendre et de prendre des décisions en s'appuyant sur des réseaux de neurones artificiel.
