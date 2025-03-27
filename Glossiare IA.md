@@ -4,7 +4,7 @@
 - **AI Agents**        :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
 
 ## D 
-- **Deep Learning**
+- **Deep Learning**    : C'est une méthode qui permet aux machines d'apprendre et de prendre des décisions en s'appuyant sur des réseaux de neurones artificiel.
 
 ## L
 - **LML**              :  Large Language Mode
