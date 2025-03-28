@@ -36,6 +36,7 @@
 ### R
 - **RAG**          :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
 
-  
+### T
+- ** token**
 
  
