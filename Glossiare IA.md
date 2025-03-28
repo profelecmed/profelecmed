@@ -17,6 +17,9 @@
   *    Apprentissage non supervisé
   *    Apprentissage par renforcement , ici il y a des récompensant les bonnes décisions
 
+### P
+- **prompt**
+
 ### R
 - **RAG**          :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
 
