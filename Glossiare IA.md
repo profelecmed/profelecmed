@@ -9,7 +9,7 @@
 - [x] **Deep Learning**    : C'est une méthode qui permet aux machines d'apprendre et de prendre des décisions en s'appuyant sur des réseaux de neurones artificiel.
 
 ### L
-- **LML**              :  Large Language Mode
+- **LLM**              :  Large Language Mode
 
 ### M
 - [x] **ML**    Machine Learning  :  C'est un modèle capable de tirer des conclusion
