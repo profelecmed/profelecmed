@@ -25,7 +25,7 @@
   *    Apprentissage par renforcement , ici il y a des récompensant les bonnes décisions
 
 ### P
-- **prompt**
+- **prompt**           : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA 
 
 ### R
 - **RAG**          :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
