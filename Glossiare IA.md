@@ -5,8 +5,8 @@
 ### A
 - **AI**
   * **Bard** de Google
-  *  **Copilot ** Microsoft
-  * **GPT** de OpenAI , Générateur de texte
+  * **Copilot** Microsoft
+  * **Chat GPT** de OpenAI , Générateur de texte
 -  **AI Agents**      :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
 -  **Algorithme**
 
@@ -17,7 +17,7 @@
 - **Chatbot**         :  Agent de dialogue
 
 ### D 
-- [x] **Deep Learning**    : C'est une méthode qui permet aux machines d'apprendre et de prendre des décisions en s'appuyant sur des réseaux de neurones artificiel.
+- [x] **Deep Learning**    : C'est une méthode qui permet aux machines d'apprendre et de prendre des décisions en s'appuyant sur des **réseaux de neurones artificiel**.
 
 ### G
 - **GPT**               :  Generative Pre-trained Transformer , développé par OpenAI 
