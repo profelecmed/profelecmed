@@ -42,6 +42,7 @@
 - **RAG**          :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
 
 ### T
+- **température**       :  Cela détermine à quel point le modèle sera "créatif" avec ses réponses. (0 peu et 1 maximun)
 - ** token**
 
  
