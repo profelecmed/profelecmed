@@ -15,6 +15,9 @@
 ### D 
 - [x] **Deep Learning**    : C'est une méthode qui permet aux machines d'apprendre et de prendre des décisions en s'appuyant sur des réseaux de neurones artificiel.
 
+### G
+- **GPT**               :  Generative Pre-trained Transformer
+
 ### L
 - **LLM**              :  Large Language Mode
 
