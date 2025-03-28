@@ -5,7 +5,7 @@
 ### A
 - **AI**
   * **Bard** de Google
-  * **GPT** de OpenAI
+  * **GPT** de OpenAI , Générateur de texte
 -  **AI Agents**      :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
 -  **Algorithme**
 
