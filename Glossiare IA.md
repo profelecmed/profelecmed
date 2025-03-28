@@ -22,6 +22,9 @@
 ### G
 - **GPT**               :  Generative Pre-trained Transformer , développé par OpenAI 
 
+### J
+- **Jeu de données**
+
 ### L
 - **LLM**              :  Large Language Mode
 
