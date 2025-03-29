@@ -1,5 +1,7 @@
 # LIENS:
 
+###  A
+Jan                                       :    AI en local                                                  :   https://jan.ai/  
 ###  B
 BASE64                                    :    Décodage et Encodage                                         :   https://www.base64decode.org/fr/
 ###   G
