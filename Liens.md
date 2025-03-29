@@ -1,34 +1,34 @@
 # LIENS:
 
-### ...............................................                                                                                                                                                     B
+###  B
 BASE64                                    :    Décodage et Encodage                                         :   https://www.base64decode.org/fr/
-### ...............................................                                                                                                                                                     G
+###   G
 Google Recherche avancée                  :    Pour effectuer cette opération dans le champ de recherche    :   https://www.google.com/advanced_search  
-### ...............................................                                                                                                                                                     H
+###   H
 Home assisntant communauté francophone    :                                                                 :   https://forum.hacf.fr/ 
-### ...............................................                                                                                                                                                     I
+###   I
 IA                                        :    Comparateur d'IA                                             :   https://artificialanalysis.ai/ 
                                                Intelligence artificielle locale                             :   https://jan.ai/
-### ...............................................                                                                                                                                                     L
+###    L
 Linux distribution:
                                                Débian documentations                                        :    https://debian-facile.org/wiki
                                                Kali   documentation                                         :    https://www.kali.org/docs/
                                                Ubuntu documentations                                        :    https://doc.ubuntu-fr.org/
 Linux apprendre les commandes:                 Gameshell                                                    :    https://github.com/phyver/GameShell
-### ...............................................                                                                                                                                                     M
+###   M
 Mistral AI                                :    IA générative Française                                      :   https://auth.mistral.ai/ui/login?flow=09dfd2d8-7274-48e3-afef-19b128535c05
-### ...............................................                                                                                                                                                     N
+###    N
 
-### ...............................................                                                                                                                                                     O
+###   O
 OSINT Framework                           :    Ensemble de ressources pour l'OSINT                          :   https://osintframework.com/
-### ...............................................                                                                                                                                                     P
+###   P
 Padlet                                    :    Wall TICE Lycée de la Méditerranée                           :   https://padlet.com/francis_leyvastre/wall-tice-lyc-e-de-la-m-diterran-e-nqgxp19xd09
 PIX                                       :    Explorez à votre rythme 16 compétences numériques.           :   https://pix.org/fr/
 Proxy                                                                                                       :   https://proxysite.us/
-### ...............................................                                                                                                                                                    S
+###   S
 Scenari Topaze                            :    Permet de créer un site web interactif / scorm               :   https://doc.scenari.software/Topaze/fr/
 Speed test                                :    Permet d'obtenir Download et Upload en Mbps                  :   https://www.speedtest.net/?r=f
-### ...............................................                                                                                                                                                    W
+###   W
 Web / HTML/ CSS /JS                       :    Codage web en ligne                                          :   https://codepen.io/pen/
                                                Icons                                                        :   https://fonts.google.com/icons 
 
