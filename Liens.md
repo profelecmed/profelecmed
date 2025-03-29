@@ -1,6 +1,6 @@
-LIENS:
+# LIENS:
 
-...............................................                                                                                                                                                     B
+## ...............................................                                                                                                                                                     B
 BASE64                                    :    Décodage et Encodage                                         :   https://www.base64decode.org/fr/
 ...............................................                                                                                                                                                     G
 Google Recherche avancée                  :    Pour effectuer cette opération dans le champ de recherche    :   https://www.google.com/advanced_search  
