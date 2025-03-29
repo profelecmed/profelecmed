@@ -7,6 +7,7 @@
   * **Anthropic Claude**
   * **Bard** de Google
   * **Copilot** Microsoft
+  *  **DeepSeek** https://chat.deepseek.com
   * **Gemini** de Google
   * **Chat GPT** de OpenAI , Générateur de texte , il y a aussi DALL·E
   *  **Mistral AI**
