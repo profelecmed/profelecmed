@@ -52,6 +52,7 @@ Glossaire & Acronymes
                    - Débit ATM est mesuré au niveau du DSLAM
                    - Débit IP est mesuré au niveau de l'abonné.
  DEEE            :  Déchets d'Équipements Électriques et Électroniques
+ Diode           :  Composant électronique (dipole) qui laisse passer le courant électrique dans une seule direction (AK).
  DMZ             :  Demilitarized Zone, Zone démilitarisée, sous-réseau isolé à part
  Driver          :  Pilote de périphérique
  Docker          :  Permet de créer, déployer et exécuter des applications dans des conteneurs.
