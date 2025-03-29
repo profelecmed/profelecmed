@@ -9,6 +9,7 @@
   * **Copilot** Microsoft
   * **Gemini** de Google
   * **Chat GPT** de OpenAI , Générateur de texte , il y a aussi DALL·E
+  *  **Mistral AI**
 -  **AI Agents**      :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
 -  **Algorithme**
 
