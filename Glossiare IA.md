@@ -37,7 +37,7 @@
 - [x] **ML**    Machine Learning  :  C'est un modèle capable de tirer des conclusion
 - *    Apprentissage supervisé
   *    Apprentissage non supervisé
-  *    Apprentissage par renforcement , ici il y a des récompensant les bonnes décisions
+  *    Apprentissage par renforcement , ici il y a des récompensant les bonnes décisions, Reinforcement Learning  **RL**
 
 ### P
 - **prompt**           : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA 
