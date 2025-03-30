@@ -3,13 +3,13 @@
 
 
 ### A
-Advanced IP Scanner   :  Analyse le réseau et récupération d’adresses IP et MAC 
+- Advanced IP Scanner   :  Analyse le réseau et récupération d’adresses IP et MAC 
 ### B
-BalenaEtcher          :  Installer un OS en .iso sur une carte SD pour un raspberry PI
+- BalenaEtcher          :  Installer un OS en .iso sur une carte SD pour un raspberry PI
 ### D
-Dockge                :  Créer, modifier, démarrer, arrêter, redémarrer, supprimer un container DOCKER
-Docker                :  C'est un Hyperviseur de conteneurs  , https://docker-curriculum.com/
-Dsynchronize          :  C'est un logiciel de synchronisation de fichiers 
+- Dockge                :  Créer, modifier, démarrer, arrêter, redémarrer, supprimer un container DOCKER
+- Docker                :  C'est un Hyperviseur de conteneurs  , https://docker-curriculum.com/
+- Dsynchronize          :  C'est un logiciel de synchronisation de fichiers 
 ### E
 Everything            :  Outil permet d'indexer tous les fichiers du disque dur pour réaliser des recherches rapides
 ### F
