@@ -33,6 +33,8 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 ### My favorite Apps:
 ![Duolingo](https://github.com/profelecmed/profelecmed/blob/main/pictures/duolingoonline.png)    ![electodoc](https://github.com/profelecmed/profelecmed/blob/main/pictures/electrodoconlie.png)    ![networkscanner](https://github.com/profelecmed/profelecmed/blob/main/pictures/networkscanneronline.png)   
 
+----    
+
 ### My IA 
 
 ----    
