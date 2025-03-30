@@ -11,34 +11,34 @@
 - Docker                :  C'est un Hyperviseur de conteneurs  , https://docker-curriculum.com/
 - Dsynchronize          :  C'est un logiciel de synchronisation de fichiers 
 ### E
-Everything            :  Outil permet d'indexer tous les fichiers du disque dur pour réaliser des recherches rapides
+- Everything            :  Outil permet d'indexer tous les fichiers du disque dur pour réaliser des recherches rapides
 ### F
-Filezilla             :  Permet le transfert FTP exemple vers un site web 
-Filius                :  Logiciel de simulation de réseaux informatique
+- Filezilla             :  Permet le transfert FTP exemple vers un site web 
+- Filius                :  Logiciel de simulation de réseaux informatique
 ### G
-GLPI                  :  Gestion Libre de Parc Informatique , https://glpi-project.org/fr/
+- GLPI                  :  Gestion Libre de Parc Informatique , https://glpi-project.org/fr/
 ### K
-Kali linux            :  Os Linux avec des outils pour les professionnels de la cybersécurité
-KiCad                 :  Logiciel de conception de schémas électroniques et la conception de circuits imprimé , https://www.kicad.org/
-Kutty                 :  Emulateur de terminal et client SSH de type Putty avec des options.
+- Kali linux            :  Os Linux avec des outils pour les professionnels de la cybersécurité
+- KiCad                 :  Logiciel de conception de schémas électroniques et la conception de circuits imprimé , https://www.kicad.org/
+- Kutty                 :  Emulateur de terminal et client SSH de type Putty avec des options.
 ###   M
-Mu editor Python      :  Editeur Python
+- Mu editor Python      :  Editeur Python
 ###   P
-Packet Tracer         :  Logiciel de simulation de réseaux informatique de Cisco
-Portainer             :  C'est une interface Web pour la gestion de conteneurs docker   , https://www.portainer.io/
-Putty                 :  Emulateur de terminal et client SSH
+- bPacket Tracer         :  Logiciel de simulation de réseaux informatique de Cisco
+- Portainer             :  C'est une interface Web pour la gestion de conteneurs docker   , https://www.portainer.io/
+- Putty                 :  Emulateur de terminal et client SSH
 ###   R
-Rufus                 :   Permet de créer une clè USB bootable, "Reliable USB Formatting Utility"
+- Rufus                 :   Permet de créer une clè USB bootable, "Reliable USB Formatting Utility"
 ###   S
-SDformater            :  Permet de formater des carte SD
-spacedesk             :  Permet de dupliquer le bureau Windows sur l'écran d'une autre machine 
-SyncBackFree          :  Permet de synchroniser vos sauvegardes
+- SDformater            :  Permet de formater des carte SD
+- spacedesk             :  Permet de dupliquer le bureau Windows sur l'écran d'une autre machine 
+- SyncBackFree          :  Permet de synchroniser vos sauvegardes
 ###   V
-VS Code               :  Visual Studio Code, pour écrire et tester les programmes.
+- VS Code               :  Visual Studio Code, pour écrire et tester les programmes.
 ###    W
-Wireshark             :  Il analyse les paquets sur un réseau informatique
+- Wireshark             :  Il analyse les paquets sur un réseau informatique
 ###   Z
-Zenmap
+- Zenmap
 
 
 
