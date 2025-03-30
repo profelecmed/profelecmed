@@ -36,6 +36,7 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 ----    
 
 ### My IA 
+![Duolingo](https://github.com/profelecmed/profelecmed/blob/main/pictures/duolingoonline.png)  
 
 ----    
 
