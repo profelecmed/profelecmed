@@ -19,7 +19,7 @@ Filius                :  Logiciel de simulation de réseaux informatique
 GLPI                  :  Gestion Libre de Parc Informatique , https://glpi-project.org/fr/
 ### K
 Kali linux            :  Os Linux avec des outils pour les professionnels de la cybersécurité
-KiCad                 :  Logiciel de conception de schémas électroniques et la conception de circuits imprimé, https://www.kicad.org/
+KiCad                 :  Logiciel de conception de schémas électroniques et la conception de circuits imprimé , https://www.kicad.org/
 Kutty                 :  Emulateur de terminal et client SSH de type Putty avec des options.
 ###   M
 Mu editor Python      :  Editeur Python
