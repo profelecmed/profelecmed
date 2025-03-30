@@ -47,6 +47,6 @@
 
 ### T
 - **température**       :  Cela détermine à quel point le modèle sera "créatif" avec ses réponses. (0 peu et 1 maximun)
-- ** token**
-
+- **token**
+- **Training Data**    :  Ensemble de données utilisé pour "apprendre" à un modèle de Machine Learning ou de Deep Learning.
  
