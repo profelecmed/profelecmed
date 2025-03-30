@@ -70,6 +70,7 @@ EPI             :  Équipement de Protection individuelle (lunettes, gants, ...)
                     P2P : Fibre point à point, c'est à dire que chaque usager à une fibre dédiée. 
                     PON :  Passive optical Network, Fibre point-multipoint passive, Plusieurs usagers partagent une même fibre. 
 ---------------------------------------                                                                                                 G
+ G-code          :  C'est un langage de programmation numérique utilisé pour contrôler les machines-outils automatisées
  gateway         :  Passerelle , elle permet de relier deux réseaux , réseau local et le réseau Internet
  GND             :  Ground , c'est la masse, elle sert de point de référence.
  GPU             :  Graphics Processing Unit          
