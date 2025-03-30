@@ -39,6 +39,9 @@
   *    Apprentissage non supervisé
   *    Apprentissage par renforcement , ici il y a des récompensant les bonnes décisions, Reinforcement Learning  **RL**
 
+### N
+- **NLP**     Natural Language Processing , Il permet aux machines de comprendre, interpréter et générer du langage humain.
+
 ### P
 - **prompt**           : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA 
 
