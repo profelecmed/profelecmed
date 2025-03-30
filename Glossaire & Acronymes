@@ -63,6 +63,7 @@ e-SATA          :  external SATA
 EEPROM          :  Electricaly Erasable rogrammable ROM
 ---------------------------------------                                                                                                 F 
  firewall        :  Pare-feu il assure : Filtrage , authentification , gestion des droits, NAT
+ Flux            :  C'est un additif utile pour le brasage
  FTTH            :  Fiber to the home , On a 2 types d’architecture de ce réseau : le P2P et le PON.
                     P2P : Fibre point à point, c'est à dire que chaque usager à une fibre dédiée. 
                     PON :  Passive optical Network, Fibre point-multipoint passive, Plusieurs usagers partagent une même fibre. 
