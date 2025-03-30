@@ -1,4 +1,4 @@
-Glossaire & Acronymes
+## Glossaire & Acronymes
 
 1 Kio            :  1 Kio =1024 o 
 2FA              :  Authentification à 2 facteurs
@@ -8,7 +8,7 @@ Glossaire & Acronymes
 230 V CT~        :  Tension alternative en volt ; Dans les maisons elle est monophasée, domaine BT "Basse tension" (50< Un <= 1000V) 
 404              :  Nous indique une erreur, la page web n'est pas disponible mais le serveur répond.
 .dll             :  dynamic link library , Bibliothèque logicielle chargée dynamiquement en mémoire si besoin par le système.
----------------------------------------                                                                                                A
+###                                                                                                                                            A
  ACL             :  access control list
  AD              :  Active Directory
  AI Agents       :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
@@ -17,7 +17,7 @@ Glossaire & Acronymes
  ASCII           :  American Standard Code for Information Interchange. Cette table défini un code 8 bitspour les caractères du clavier.
  Asynchrone      :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
  Audit           :  Procédure de contrôle
----------------------------------------                                                                                                B
+###                                                                                                                                            B
  BDD             :  Base de données
  BIOS            :  Basic Input or Output System , sur les PC moderne c'est UEFI
  BLE             :  Bluetooth Low Energy
