@@ -43,7 +43,7 @@
 - **NLP**     Natural Language Processing , Il permet aux machines de comprendre, interpréter et générer du langage humain.
 
 ### P
-- **prompt**           : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA 
+- **prompt**           : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA , Ce sont les instructions
 
 ### R
 - **RAG**          :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
