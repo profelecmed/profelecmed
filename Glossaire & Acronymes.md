@@ -1,13 +1,13 @@
 ## Glossaire & Acronymes
 
-1 Kio            :  1 Kio =1024 o 
-2FA              :  Authentification à 2 facteurs
-4K               :  (UHD) Ultra Haute Définition 3840 x 2160
-10G EPON         :  10 Gb/s Ethernet Passive optical Network
-12V CT=          :  Tension Continue en volt ; Exemple: Batterie de démarrage, d'accessoires dans les véhicules. 
-230 V CT~        :  Tension alternative en volt ; Dans les maisons elle est monophasée, domaine BT "Basse tension" (50< Un <= 1000V) 
+- 1 Kio            :  1 Kio =1024 o 
+- 2FA              :  Authentification à 2 facteurs
+- 4K               :  (UHD) Ultra Haute Définition 3840 x 2160
+- 10G EPON         :  10 Gb/s Ethernet Passive optical Network
+- 12V CT=          :  Tension Continue en volt ; Exemple: Batterie de démarrage, d'accessoires dans les véhicules. 
+- 230 V CT~        :  Tension alternative en volt ; Dans les maisons elle est monophasée, domaine BT "Basse tension" (50< Un <= 1000V) 
 404              :  Nous indique une erreur, la page web n'est pas disponible mais le serveur répond.
-.dll             :  dynamic link library , Bibliothèque logicielle chargée dynamiquement en mémoire si besoin par le système.
+- .dll             :  dynamic link library , Bibliothèque logicielle chargée dynamiquement en mémoire si besoin par le système.
 ###                                                                                                                                            A
  ACL             :  access control list
  AD              :  Active Directory
