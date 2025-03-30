@@ -36,7 +36,7 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 ----    
 
 ### My IA 
-![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/pictures/lechatbymistral.png)
+![ia](https://github.com/profelecmed/profelecmed/blob/main/pictures/lechatbymistral.png)
 
 ----    
 
@@ -69,7 +69,7 @@ _**Edition 2024,**_  "Equipe PRYMZ 10ième sur 210 équipes" ,  CTF (Capture The
 _**Edition 2025,**_  2 Equipes : "Equipe PRYMZ** 138 sur 1290 équipes "  "Equipe FLAG-EUR 177 sur 1290 équipes "
 
 ----   
-![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/pictures/lechatbymistral.png)
+![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
 
 
 <!--
