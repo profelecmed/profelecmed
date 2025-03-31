@@ -31,6 +31,9 @@
 ### H
 - **hallucination**        :  C'est la génération d'une réponse inexacte par l'IA quand elle n'a pas les entrèes nécessaire pour répondre.
 
+### I
+- **inférence**            : C'est quand l'IA répond à une nouvelle question en utilisant tout ce qu'elle a apprise. 
+
 ### J
 - **Jeu de données**
 
