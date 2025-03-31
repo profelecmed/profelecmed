@@ -19,19 +19,20 @@
 - **Big Data**
 
 ### C
-- **Chatbot**         :  Agent de dialogue
+- **Chatbot**              :  Agent de dialogue
 
 ### D 
 - [x] **Deep Learning**    : C'est une méthode qui permet aux machines d'apprendre et de prendre des décisions en s'appuyant sur des **réseaux de neurones artificiel**.
 
 ### G
-- **GPT**               :  Generative Pre-trained Transformer , développé par OpenAI 
+- **GPT**                  :  Generative Pre-trained Transformer , développé par OpenAI
+- **GPU**                  :  Graphics Processing Unit , initialement utilisé pour lees graphiques des jeux vidéos.   
 
 ### J
 - **Jeu de données**
 
 ### L
-- **LLM**              :  Large Language Mode
+- **LLM**                  :  Large Language Mode
 
 ### M
 - [x] **ML**    Machine Learning  :  C'est un modèle capable de tirer des conclusion
@@ -43,13 +44,13 @@
 - **NLP**     Natural Language Processing , Il permet aux machines de comprendre, interpréter et générer du langage humain.
 
 ### P
-- **Prompt**           : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA , Ce sont les instructions
+- **Prompt**               : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA , Ce sont les instructions
 
 ### R
-- **RAG**          :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
+- **RAG**                  :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
 
 ### T
-- **température**      :  Cela détermine à quel point le modèle sera "créatif" avec ses réponses. (0 peu et 1 maximun)
-- **Token**            :  Unité de base en laquuelle le modéle découpe ppour le traitement.
-- **Training Data**    :  Ensemble de données utilisé pour "apprendre" à un modèle de Machine Learning ou de Deep Learning.
+- **température**          :  Cela détermine à quel point le modèle sera "créatif" avec ses réponses. (0 peu et 1 maximun)
+- **Token**                :  Unité de base en laquuelle le modéle découpe ppour le traitement.
+- **Training Data**        :  Ensemble de données utilisé pour "apprendre" à un modèle de Machine Learning ou de Deep Learning.
  
