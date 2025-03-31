@@ -32,7 +32,7 @@
 - **hallucination**        :  C'est la génération d'une réponse inexacte par l'IA quand elle n'a pas les entrèes nécessaire pour répondre.
 
 ### I
-- **inférence**            : C'est quand l'IA répond à une nouvelle question en utilisant tout ce qu'elle a apprise. 
+- **inférence**            : C'est quand l'IA répond à une nouvelle question en utilisant tout ce qu'elle a apprise à l'entrainement. 
 
 ### J
 - **Jeu de données**
