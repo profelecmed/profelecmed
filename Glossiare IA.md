@@ -47,7 +47,8 @@
   *    Apprentissage par renforcement , ici il y a des récompensant les bonnes décisions, Reinforcement Learning  **RL**
 
 ### N
-- **NLP**     Natural Language Processing , Il permet aux machines de comprendre, interpréter et générer du langage humain.
+- **NLP**                   : Natural Language Processing , Il permet aux machines de comprendre, interpréter et générer du langage humain.
+- **NPU**                   : neuronal Processing Units; C'est une puce spécialisée dans un PC pour faire de l'Ia sans passer par le cloud.    
 
 ### P
 - **Prompt**               : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA , Ce sont les instructions
