@@ -28,6 +28,9 @@
 - **GPT**                  :  Generative Pre-trained Transformer , développé par OpenAI
 - **GPU**                  :  Graphics Processing Unit , initialement utilisé pour lees graphiques des jeux vidéos.   
 
+### H
+- **hallucination**        :  C'est la génération d'une réponse inexacte par l'IA quand elle n'a pas les entrèes nécessaire pour répondre.
+
 ### J
 - **Jeu de données**
 
