@@ -43,13 +43,13 @@
 - **NLP**     Natural Language Processing , Il permet aux machines de comprendre, interpréter et générer du langage humain.
 
 ### P
-- **prompt**           : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA , Ce sont les instructions
+- **Prompt**           : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA , Ce sont les instructions
 
 ### R
 - **RAG**          :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
 
 ### T
-- **température**       :  Cela détermine à quel point le modèle sera "créatif" avec ses réponses. (0 peu et 1 maximun)
-- **token**
+- **température**      :  Cela détermine à quel point le modèle sera "créatif" avec ses réponses. (0 peu et 1 maximun)
+- **Token**            :  Unité de base en laquuelle le modéle découpe ppour le traitement.
 - **Training Data**    :  Ensemble de données utilisé pour "apprendre" à un modèle de Machine Learning ou de Deep Learning.
  
