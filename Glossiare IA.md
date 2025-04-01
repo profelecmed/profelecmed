@@ -12,6 +12,7 @@
   * **Chat GPT** de OpenAI , Générateur de texte , il y a aussi DALL·E
   *  **Mistral AI**
 - **AGI** Artificial General Intelligence , "Pour bientôt"
+-  **ASI** artificial superintelligence
 -  **AI Agents**      :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
 -  **Algorithme**
 
