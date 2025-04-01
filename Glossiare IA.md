@@ -11,8 +11,8 @@
   * **Gemini** de Google https://deepmind.google/technologies/gemini/
   * **Chat GPT** de OpenAI , Générateur de texte , il y a aussi DALL·E
   *  **Mistral AI**
-- **AGI** Artificial General Intelligence , "Pour bientôt"
--  **ASI** artificial superintelligence
+- **AGI** Artificial General Intelligence , Niveau d'une intelligence humaine, "Pour bientôt"
+-  **ASI** artificial superintelligence, Niveau supérieure à une intelligence humaine,
 -  **AI Agents**      :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
 -  **Algorithme**
 
