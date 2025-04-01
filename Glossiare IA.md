@@ -44,7 +44,7 @@
 - [x] **ML**    Machine Learning  :  C'est un modèle capable de tirer des conclusion
 - *    Apprentissage supervisé ,  Supervised Learning **SL**
   *    Apprentissage non supervisé
-  *    Apprentissage par renforcement , ici il y a des récompensant les bonnes décisions, Reinforcement Learning  **RL**
+  *    Apprentissage par renforcement , ici il y a des récompensant les bonnes décisions, Reinforcement Learning  **RL**, from human feedback **RLHF**
 
 ### N
 - **NLP**                   : Natural Language Processing , Il permet aux machines de comprendre, interpréter et générer du langage humain.
