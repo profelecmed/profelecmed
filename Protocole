@@ -47,6 +47,14 @@ TCP            :  Transport Control Protocol             : Transmission de donn�
                                      2  Internet
                                      1  Accès réseau
       Modèle OSI     : 7 Couches :   Open System Interconnexion 
+                                     7  Application
+                                     6  Présentation
+                                     5  Session 
+                                     4  Transport
+                                     3  Réseau
+                                     2  Liaison de données
+                                     1  Physique
+
 ...............................................                                                                                              U
 UDP            :  User Datagram Protocol                 : Transmission de datagrammes sans connection.
 ...............................................                                                                                              V
