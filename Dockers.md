@@ -7,3 +7,5 @@
 
 ### Les commandes de bases Docker Compose:
 - **docker-compose --version**
+- **docker-compose up** , pour déployer votre application (Démarre vos services et conteneurs).
+- **docker-compose down** , pour arrêter tous les services et conteneurs.
