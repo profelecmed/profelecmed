@@ -9,3 +9,6 @@
 - **docker-compose --version**
 - **docker-compose up** , pour déployer votre application (Démarre vos services et conteneurs).
 - **docker-compose down** , pour arrêter tous les services et conteneurs.
+- **docker-compose restart** , pour redémarrer
+- **docker-compose ps** , pour afficher les conteneurs en cours d'éxecution.
+-     
