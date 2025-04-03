@@ -8,20 +8,23 @@ docker-compose.yml c'est le fichier de construction des images Docker , Paramèt
 
 ## Les commandes de bases Docker Compose:
 
-    docker-compose --version
-Pour déployer votre application (Démarre vos services et conteneurs).
+- Pour connaitre la version:
 
-    docker-compose up
+        docker-compose --version
 
-Pour arrêter tous les services et conteneurs.
+- Pour déployer votre application (Démarre vos services et conteneurs):
+
+        docker-compose up
+
+- Pour arrêter tous les services et conteneurs:
     
-    docker-compose down
+        docker-compose down
 
-Pour redémarrer
+- Pour redémarrer: 
  
-    docker-compose restart
+        docker-compose restart
 
- Pour afficher les conteneurs en cours d'éxecution.
+ - Pour afficher les conteneurs en cours d'éxecution:
  
-    docker-compose ps
+        docker-compose ps
 
