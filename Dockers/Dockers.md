@@ -9,10 +9,16 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 ## Vocabulaire docker
 
 ### Dockerfile
-
 C'est un fichier texte contenant des instructionx afin de construire une image Docker.
 
+### Image Docker
+- Elle permet de créer un conteneur Docker avec (bibliothèques, dépendances,...) 
+
 ## Les commandes de bases Docker 
+
+- A partir de Dockerfile on crée une image.
+
+         docker build.
 
 - Créer et démarre un conteneur à partir d’une image.
 
