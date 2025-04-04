@@ -16,10 +16,10 @@ C'est un fichier texte contenant des instructionx afin de construire une image D
 
 ## Les commandes de bases Docker 
 
-- A partir de Dockerfile on crée une image.
+- A partir de Dockerfile on crée une image docker.
 
-         docker build.
-
+         docker build -t monimage .
+  
 - Créer et démarre un conteneur à partir d’une image.
 
          docker run hello-world
