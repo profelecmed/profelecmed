@@ -24,3 +24,7 @@ C'est un fichier texte contenant des instructionx afin de construire une image D
 
          docker run hello-world
 
+- Afficher toutes les commandes
+
+         docker ls -a
+
