@@ -57,6 +57,10 @@
 ### P
 - **Prompt**               : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA , Ce sont les instructions.
 - **Prompt engineering**   : C'est l'élaboration de requêtes précises et optimisées afin d’obtenir des réponses pertinentes en rapport avec notre sujet.
+- *  Le **rôle** que doit simuler l'IA , exemple un élève de terminale BAC PRO CIEL
+  *  Ce que l'IA doit **faire**
+  *  Mettre un **contexte**
+  *  Identifier et lui donner les **contraintes**
 
 ### R
 - **RAG**                  :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
