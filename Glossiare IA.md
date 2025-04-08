@@ -55,7 +55,8 @@
 - **NPU**                   : neuronal Processing Units; C'est une puce spécialisée dans un PC pour faire de l'Ia sans passer par le cloud.    
 
 ### P
-- **Prompt**               : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA , Ce sont les instructions
+- **Prompt**               : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA , Ce sont les instructions.
+- **Prompt engineering**   : C'est l'élaboration de requêtes précises et optimisées afin d’obtenir des réponses pertinentes en rapport avec notre sujet.
 
 ### R
 - **RAG**                  :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
