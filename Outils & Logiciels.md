@@ -48,4 +48,5 @@
                                Les licences OEM sont plus restrictives que les licences standart.
 
 ## Commandes :
-                              ctrl+f | Permet de rechercher un terme.
+                              ctrl+f      |   Permet de rechercher un terme.
+                              ctrl+L      |   Permet de mettre de fermer la séssion 
