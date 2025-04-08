@@ -19,7 +19,7 @@
 -  **Algorithme**
 
 ### B
-- **Biai**                 : C'est la distorsion due aux données d'entraînement biaisées.
+- **Biais**                 : C'est la distorsion due aux données d'entraînement biaisées; Le Biais de Confirmation  , culturel, de genre,... . 
 - **Big Data**
 
 ### C
