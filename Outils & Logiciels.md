@@ -46,3 +46,6 @@
                                Original Equipment Manufacturer
                                Les logiciels OEM sont liés à l'achat d'un matériel.
                                Les licences OEM sont plus restrictives que les licences standart.
+
+## Commandes :
+                              ctrl+f | Permet de rechercher un terme.
