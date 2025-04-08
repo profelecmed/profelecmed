@@ -7,7 +7,8 @@
   * **Anthropic Claude** https://www.anthropic.com/
   * **Bard** de Google
   * **Copilot** Microsoft https://copilot.microsoft.com/chats
-  *  **DeepSeek** https://chat.deepseek.com
+  * **Craiyon** Pour les dessin , https://www.craiyon.com/
+  * **DeepSeek** https://chat.deepseek.com
   * **Gemini** de Google https://deepmind.google/technologies/gemini/
   * **Chat GPT** de OpenAI , Générateur de texte , il y a aussi DALL·E
   *  **Mistral AI** Le chat , https://chat.mistral.ai/chat
