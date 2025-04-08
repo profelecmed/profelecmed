@@ -61,6 +61,8 @@
   *  Ce que l'IA doit **faire**
   *  Mettre un **contexte**
   *  Identifier et lui donner les **contraintes**
+  *  Préciser **la forme de la réponse** attendue
+  *  **Tester** votre prompt et **l’ajuster** si nécessaire 
 
 ### R
 - **RAG**                  :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
