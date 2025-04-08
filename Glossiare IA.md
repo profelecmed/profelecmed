@@ -60,6 +60,9 @@
 ### R
 - **RAG**                  :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
 
+### S
+- **Self-Attention**       :  C'est la pondération de l’importance de chaque mot dans une phrase afin de déterminer le sens.
+
 ### T
 - **température**          :  Cela détermine à quel point le modèle sera "créatif" avec ses réponses. (0 peu et 1 maximun)
 - **Token**                :  Unité de base en laquuelle le modéle découpe ppour le traitement.
