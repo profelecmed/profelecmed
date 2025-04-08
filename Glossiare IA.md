@@ -10,7 +10,7 @@
   * **Craiyon** Pour les dessin , https://www.craiyon.com/
   * **DeepSeek** https://chat.deepseek.com
   * **Gemini** de Google https://deepmind.google/technologies/gemini/
-  * **Chat GPT** de OpenAI , Générateur de texte , il y a aussi DALL·E
+  * **Chat GPT** de OpenAI , Générateur de texte https://chatgpt.com/ , il y a aussi DALL·E
   *  **Mistral AI** Le chat , https://chat.mistral.ai/chat
   *  **Perplexity** https://www.perplexity.ai/
 - **AGI** Artificial General Intelligence , Niveau d'une intelligence humaine, "Pour bientôt"
