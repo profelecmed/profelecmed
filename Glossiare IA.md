@@ -55,6 +55,7 @@
 - **NPU**                   : neuronal Processing Units; C'est une puce spécialisée dans un PC pour faire de l'Ia sans passer par le cloud.    
 
 ### O
+- **Overfitting**          : C'est quand le model s'est trop adapté aux données d'entraînement et qu'il a du mal à prendre en compte de nouvelle données.
 
 ### P
 - **Prompt**               : Requêtes textuelles adressées par les utilisateurs à des systèmes d’IA , Ce sont les instructions.
