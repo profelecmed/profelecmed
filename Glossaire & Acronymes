@@ -89,7 +89,7 @@ EPI             :  Équipement de Protection individuelle (lunettes, gants, ...)
  IT              :  Information Technology
 ---------------------------------------                                                                                                 L
  LAG             :  Link Aggregation Group  , X bande passante, redondance des liaisons entre deux périphériques 
- LAN             :  local area network
+ LAN             :  local area network , c'est un réseau local
  LPU             :  Language Processing Unit
  LSB             :  Less Significant Byte , bit de poids faible "par défaut c'est le bit le plus à droite" , voir aussi MSB
 ---------------------------------------                                                                                                 M
