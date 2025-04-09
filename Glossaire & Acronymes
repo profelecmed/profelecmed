@@ -119,6 +119,7 @@ Glossaire & Acronymes
  PID             :  Process IDentifier  , l'identifiant de processus ou PID est un code unique attribué à tout processus lors de son démarrage.
  plug-and-play   :  On branche et cela fonctionne.
  POE             :  Power over ethernet
+ Proxy           :  C'est une machine qui sert d'intermédiaire entre votre machine et Internet.
  pxe             :  Pre-boot eXecution Environment
 ---------------------------------------                                                                                                q 
  QoS             :  Quality of Service   hiérarchiser les applications et utilisateurs avec un ordre de priorité.
