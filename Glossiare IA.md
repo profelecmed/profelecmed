@@ -65,7 +65,8 @@
   *  Mettre un **contexte**
   *  Identifier et lui donner les **contraintes**
   *  Préciser **la forme de la réponse** attendue
-  *  **Tester** votre prompt et **l’ajuster** si nécessaire 
+  *  **Tester** votre prompt et **l’ajuster** si nécessaire
+- **Prompt Zero-shot prompting** VS **Prompt One-Shot Prompting**
 
 ### R
 - **RAG**                  :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
