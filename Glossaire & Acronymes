@@ -8,6 +8,7 @@ Glossaire & Acronymes
 230 V CT~        :  Tension alternative en volt ; Dans les maisons elle est monophasée, domaine BT "Basse tension" (50< Un <= 1000V) 
 404              :  Nous indique une erreur, la page web n'est pas disponible mais le serveur répond.
 .dll             :  dynamic link library , Bibliothèque logicielle chargée dynamiquement en mémoire si besoin par le système.
+.exe             :  C'est l’abréviation utilisé sous Windows pour indiquer un fichiier exécutable.
 ---------------------------------------                                                                                                A
  ACL             :  access control list
  AD              :  Active Directory
