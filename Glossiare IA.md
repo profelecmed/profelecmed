@@ -66,7 +66,8 @@
   *  Identifier et lui donner les **contraintes**
   *  Préciser **la forme de la réponse** attendue
   *  **Tester** votre prompt et **l’ajuster** si nécessaire
-- **Prompt Zero-shot prompting** VS **Prompt One-Shot Prompting**   : Réponse immédiate sans exemple VS Réponse à partir d'exemples  d'entraînement  
+- **Prompt Zero-shot prompting** VS **Prompt One-Shot Prompting**   : Réponse immédiate sans exemple VS Réponse à partir d'exemples  d'entraînement
+- **prompting de recherche**   : Fais une recherche sur internet pour savoir s'il existe d'autre elecmed
 
 ### R
 - **RAG**                  :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
