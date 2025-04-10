@@ -6,6 +6,7 @@ Jan                                       :    AI en local                      
 BASE64                                    :    Décodage et Encodage                                         :   https://www.base64decode.org/fr/
 
 ###   F
+framindmap                                :    Création de carte mentale                                    :   https://framindmap.org
 
 ###   G
 Google Recherche avancée                  :    Pour effectuer cette opération dans le champ de recherche    :   https://www.google.com/advanced_search  
