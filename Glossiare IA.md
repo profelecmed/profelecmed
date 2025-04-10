@@ -4,6 +4,7 @@
 
 ### A
 - **AI**
+  * **AnSu** C'est une Intelligence Artificielle (IA) conçue pour transformer l'expérience d'apprentissage en classe.
   * **Anthropic Claude** https://www.anthropic.com/
   * **Bard** de Google
   * **Copilot** Microsoft https://copilot.microsoft.com/chats
