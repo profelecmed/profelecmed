@@ -46,7 +46,7 @@ TCP            :  Transport Control Protocol             : Transmission de donn�
                                      3  Transport
                                      2  Internet
                                      1  Accès réseau
-      Modèle OSI     : 7 Couches :   Open System Interconnexion 
+      Modèle OSI     : 7 Couches :   Open Systems Interconnexion 
                                      7  Application
                                      6  Présentation
                                      5  Session 
