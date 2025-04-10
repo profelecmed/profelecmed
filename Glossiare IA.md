@@ -68,6 +68,7 @@
   *  **Tester** votre prompt et **l’ajuster** si nécessaire
 - **Prompt Zero-shot prompting** VS **Prompt One-Shot Prompting**   : Réponse immédiate sans exemple VS Réponse à partir d'exemples  d'entraînement
 - **prompting de recherche**   : Fais une recherche sur internet pour savoir s'il existe d'autre elecmed
+- **Prompt avec expansion du contexte**    :  La méthode QQOQPC (Qui ? Quoi ? Où ? Quand ? Pourquoi ? Comment ?) 
 
 ### R
 - **RAG**                  :  Retrieval Augmented Generation ,  génération augmentée par récupération ; Récupération d'informations pertinentes dans une base de données avec la génération de texte
