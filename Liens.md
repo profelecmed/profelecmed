@@ -4,6 +4,9 @@
 Jan                                       :    AI en local                                                  :   https://jan.ai/  
 ###  B
 BASE64                                    :    Décodage et Encodage                                         :   https://www.base64decode.org/fr/
+
+###   F
+
 ###   G
 Google Recherche avancée                  :    Pour effectuer cette opération dans le champ de recherche    :   https://www.google.com/advanced_search  
 ###   H
