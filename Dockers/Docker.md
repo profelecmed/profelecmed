@@ -8,9 +8,10 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 
  ## **Installation :**
 - Installer Docker Desktop installer.exe
-- Cocher la case ✔️ Use WSL 2 instead of Hyper-V
-   * Cela va faire aparaître Linux "Windows Subsystem for Linux" dans l'explorateur de document.
-- Cocher la case ✔️ ADD SHORTCUT TO DESKTO
+- Cocher les cases
+   * ✔️ Use WSL 2 instead of Hyper-V
+        ,  Cela va faire aparaître Linux "Windows Subsystem for Linux" dans l'explorateur de document.
+   * ✔️ ADD SHORTCUT TO DESKTO
 - Redémarrer le PC
 
 
