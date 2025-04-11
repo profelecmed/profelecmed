@@ -4,6 +4,7 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 
 - **Télécharger :** Docker Desktop (on Windows) https://docs.docker.com/desktop/setup/install/windows-install/
 
+
  ## **Installation :**
 - Installer Docker Desktop installer.exe
 - Cocher la case ✔️ Use WSL 2 instead of Hyper-V (Cela va Dans l'explorateur de document faire aparaître Linux "Windows Subsystem for Linux)
@@ -40,6 +41,8 @@ Vous êtes sortie d'ubuntu.
 
 - Dans le dossier faire **MAJ + Clic** droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
 
+
+
 ## Vocabulaire docker
 
 ### Dockerfile
@@ -49,6 +52,10 @@ C'est un fichier texte contenant des instructionx afin de construire une image D
 - Elle permet de créer un conteneur Docker avec (bibliothèques, dépendances,...) 
 
 ## Les commandes de bases Docker 
+
+- Pour obtenir de l'aide sur les commandes de docker.
+
+      docker --help
 
 - A partir de Dockerfile on crée une image docker.
 
