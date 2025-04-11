@@ -4,7 +4,7 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 
 - **Télécharger :** Docker Desktop (on Windows) https://docs.docker.com/desktop/setup/install/windows-install/
 
-- **Installionn :**
+ ## **Installionn :**
 - Installer Docker Desktop installer.exe
 - Cocher la case ✔️ Use WSL 2 instead of Hyper-V 
 - Cocher la case ✔️ AADD SHORTCUT TO DESKTO
