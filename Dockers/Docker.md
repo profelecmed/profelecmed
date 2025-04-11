@@ -17,7 +17,10 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
   
        Ouvrir le powershell
 
-       Docker run hello world
+       docker --version
+       
+       Docker run hello world  
+  Vous devez voir : Hello from docker !   ,   This message shows that your installation appears to be working correctly
 
 
 
