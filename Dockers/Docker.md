@@ -19,7 +19,7 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 
     docker --version
 
-  exemple : version 28.0.1    .... 
+Cette commande vous donnera des information sur la version de docker,   exemple : version 28.0.1    .... 
        
     Docker run hello-world  
  
@@ -27,11 +27,15 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 
     docker run -it ubuntu bah
 
-vous devez voir : root@fad23......:/#
+Vous devez voir : root@fad23......:/#
 
     ls
 
 la liste apparaît.
+
+    exit
+
+Vous êtes sortie d'ubuntu.
 
 
 - Dans le dossier faire **MAJ + Clic** droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
