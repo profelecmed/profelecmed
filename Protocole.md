@@ -1,8 +1,8 @@
-#66Protocoles:
+# Protocoles:
 
-...............................................                                                                                               A
+## A
 ARP            :  Address Resolution Protocol            : Permet d'obtenir par une requête l'adresse MAC correspondant à l’adresse IP.
-...............................................                                                                                               D
+## D
 DHCP           :  Dynamic Host Configuration Protocol.   : Configuration automatique des paramètres IP 
 DNS            :  Domain Name System                     : Association noms et IP
 ...............................................                                                                                               F
