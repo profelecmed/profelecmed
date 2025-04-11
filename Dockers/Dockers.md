@@ -5,15 +5,16 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 - **Télécharger :** Docker Desktop (on Windows) https://docs.docker.com/desktop/setup/install/windows-install/
 
 - **Installionn :**
-  #### Installer Docker Destok installer.exe
-  #### Cocher la case ✔️ Use WSL 2 instead of Hyper-V 
+       Installer Docker Destok installer.exe
+       Cocher la case ✔️ Use WSL 2 instead of Hyper-V 
 
 - **Test initial :**
 
 - Lancer le Docker Desktop
   
-- Ouvrir le powershell
--     Docker run hello world
+- Ouvrir le powershell :
+
+      Docker run hello world
 
 - Dans le dossier faire **MAJ + Clic** droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
 
