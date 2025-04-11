@@ -2,6 +2,9 @@
 
 C'est une plateforme qui permet de créer, de déployer et de gérer des applications dans des conteneurs.
 
+- Télécharger Docker Desktop (on Windows) https://docs.docker.com/desktop/setup/install/windows-install/
+
+
 - Lancez le Docker Desktop
 
 - Dans le dossier faire MAJ + Clic droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
