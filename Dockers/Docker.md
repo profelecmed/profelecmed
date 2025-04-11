@@ -21,11 +21,17 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 
   exemple : version 28.0.1    .... 
        
-    Docker run hello world  
+    Docker run hello-world  
  
   Vous devez voir : Hello from docker !   ,   This message shows that your installation appears to be working correctly
 
+    docker run -it ubuntu bah
 
+vous devez voir : root@fad23......:/#
+
+    ls
+
+la liste apparaît.
 
 
 - Dans le dossier faire **MAJ + Clic** droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
