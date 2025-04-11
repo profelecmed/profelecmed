@@ -39,8 +39,6 @@ la liste apparaît.
 Vous êtes sortie d'ubuntu.
 
 
-- Dans le dossier faire **MAJ + Clic** droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
-
 
 
 ## Vocabulaire docker
@@ -51,7 +49,12 @@ C'est un fichier texte contenant des instructionx afin de construire une image D
 ### Image Docker
 - Elle permet de créer un conteneur Docker avec (bibliothèques, dépendances,...) 
 
+### Conteneur docker
+- C'est une application produite à partir d'une image docker.
+
 ## Les commandes de bases Docker 
+
+- Dans le dossier faire **MAJ + Clic** droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
 
 - Pour obtenir de l'aide sur les commandes de docker.
 
