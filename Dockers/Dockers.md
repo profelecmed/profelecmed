@@ -2,8 +2,9 @@
 
 C'est une plateforme qui permet de créer, de déployer et de gérer des applications dans des conteneurs.
 
-- Télécharger Docker Desktop (on Windows) https://docs.docker.com/desktop/setup/install/windows-install/
+- **Télécharger** Docker Desktop (on Windows) https://docs.docker.com/desktop/setup/install/windows-install/
 
+- **Configuration :**
 
 - Lancez le Docker Desktop
 
