@@ -4,6 +4,7 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 
 - **Télécharger :** Docker Desktop (on Windows) https://docs.docker.com/desktop/setup/install/windows-install/
 
+---- 
 
  ## **Installation :**
 - Installer Docker Desktop installer.exe
@@ -39,7 +40,7 @@ la liste apparaît.
 Vous êtes sortie d'ubuntu.
 
 
-
+---- 
 
 ## Vocabulaire docker
 
