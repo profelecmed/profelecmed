@@ -4,11 +4,15 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 
 - **Télécharger :** Docker Desktop (on Windows) https://docs.docker.com/desktop/setup/install/windows-install/
 
+- **Installer :**
+-          Installer Docker Destok installer.exe
+-          Cocher la case ✔️ Use WSL 2 instead of Hyper-V 
+
 - **Configuration :**
 
-- Lancez le Docker Desktop
+- Lancer le Docker Desktop
 
-- Dans le dossier faire MAJ + Clic droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
+- Dans le dossier faire **MAJ + Clic** droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
 
 ## Vocabulaire docker
 
