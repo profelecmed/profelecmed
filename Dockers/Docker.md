@@ -65,6 +65,10 @@ C'est un fichier texte contenant des instructionx afin de construire une image D
 
          docker run hello-world
 
-- Afficher toutes les containeurs
+- Afficher toutes les images
+
+         docker images
+
+- Afficher tous les containeurs
 
          docker ps -a
