@@ -42,10 +42,11 @@ SSH            :  Secure Shell                           : Sessions , transfert 
 ## T
 Telnet         :  TErminaL NETwork protocol              : Attention transmission en clair!
 TCP            :  Transport Control Protocol             : Transmission de données fiable , détection et une correction d’erreurs
-      Modèle TCP/IP  : 4 Couches :   4  Application
-                                     3  Transport
-                                     2  Internet
-                                     1  Accès réseau
+      Modèle TCP/IP  : 4 Couches :  
+      * 4  Application
+      * 3  Transport
+      * 2  Internet
+      * 1  Accès réseau
       Modèle OSI     : 7 Couches :   Open Systems Interconnexion 
                                      7  Application
                                      6  Présentation
