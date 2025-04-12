@@ -1,21 +1,21 @@
 # Protocoles:
 
 ## A
-- ARP            :  Address Resolution Protocol            : Permet d'obtenir par une requête l'adresse MAC correspondant à l’adresse IP.
+- **ARP**            :  Address Resolution Protocol            : Permet d'obtenir par une requête l'adresse MAC correspondant à l’adresse IP.
 ## D
-- DHCP           :  Dynamic Host Configuration Protocol.   : Configuration automatique des paramètres IP 
-- DNS            :  Domain Name System                     : Association noms et IP
+- **DHCP**           :  Dynamic Host Configuration Protocol.   : Configuration automatique des paramètres IP 
+- **DNS**            :  Domain Name System                     : Association noms et IP
 ## F
-- FTP            :  File Transfer Protocol                 : Protocole de transfert de fichiers
+- **FTP**            :  File Transfer Protocol                 : Protocole de transfert de fichiers
 ##  H
-- HSRP           :  Hot Standby Router Protocol            : Protocole Cisco de gestion de routeurs avec un prioritaire 
+- **HSRP**           :  Hot Standby Router Protocol            : Protocole Cisco de gestion de routeurs avec un prioritaire 
 ## I
-- ICMP           :  Internet Control Message Protocol      : Détection des erreurs lors de transmission en TCP/IP, "Commande: ping"
-- IMAP           :  Internet Message Access Protocol       : Opposé au POP. Ici on consulte ses mails sur le serveur dirrectement.
-- IP             :  Internet Protocol                      : IPv4 ou IPv6
+- **ICMP**           :  Internet Control Message Protocol      : Détection des erreurs lors de transmission en TCP/IP, "Commande: ping"
+- **IMAP**           :  Internet Message Access Protocol       : Opposé au POP. Ici on consulte ses mails sur le serveur dirrectement.
+- **IP**             :  Internet Protocol                      : IPv4 ou IPv6
 ## L
-- LACP           :  Link Aggregation Control Protocol      : Niveau 2de OSI.
-- LDAP           :  Lightweight Directory Access Protocol  : Il est utilisé pour l’authentification des services d’annuaire, type AD
+- **LACP**           :  Link Aggregation Control Protocol      : Niveau 2de OSI.
+- **LDAP**           :  Lightweight Directory Access Protocol  : Il est utilisé pour l’authentification des services d’annuaire, type AD
 ## M
 - MQTT           :  Message Queuing Telemetry Transport    : Transmission de données IoT
 ## N
