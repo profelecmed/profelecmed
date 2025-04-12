@@ -40,15 +40,15 @@
 - **SPX**            :  Sequenced Packet Exchange              : Protocole de transmission qui est remplacé par TCP / IP.
 - **SSH**            :  Secure Shell                           : Sessions , transfert de fichiers de manière sécurisée
 ## T
-- Telnet         :  TErminaL NETwork protocol              : Attention transmission en clair!
-- TCP            :  Transport Control Protocol             : Transmission de données fiable , détection et une correction d’erreurs
-- Modèle TCP/IP  : 4 Couches :  
+- **Telnet**         :  TErminaL NETwork protocol              : Attention transmission en clair!
+- **TCP**            :  Transport Control Protocol             : Transmission de données fiable , détection et une correction d’erreurs
+- Modèle **TCP/IP**  : 4 Couches :  
   * 4  Application
   * 3  Transport
   * 2  Internet
   * 1  Accès réseau
   
-- Modèle OSI     : 7 Couches :   Open Systems Interconnexion 
+- Modèle **OSI**     : 7 Couches :   Open Systems Interconnexion 
    * 7  Application
    * 6  Présentation
    * 5  Session 
@@ -58,10 +58,10 @@
    * 1  Physique
 
 ## U
-- UDP            :  User Datagram Protocol                 : Transmission de datagrammes sans connection.
+- **UDP**            :  User Datagram Protocol                 : Transmission de datagrammes sans connection.
 ## V
-- VVRP           :  Virtual Router Redundancy Protocol     : Il utilise une adresse IP virtuelle référençant un groupe de routeurs.
-- VoIP           :  Voice over Internet Protocol           : Voix sur IP, utilisation pour la téléphonie
-- VVoIP          :  Voice and Video over Internet Protocol 
+- **VVRP**           :  Virtual Router Redundancy Protocol     : Il utilise une adresse IP virtuelle référençant un groupe de routeurs.
+- **VoIP**           :  Voice over Internet Protocol           : Voix sur IP, utilisation pour la téléphonie
+- **VVoIP**          :  Voice and Video over Internet Protocol 
 ## W
-- WireGuard      :  Protocole VPN                          : Autres (IPsec, OpenVPN)
+- **WireGuard**      :  Protocole VPN                          : Autres (IPsec, OpenVPN)
