@@ -58,7 +58,8 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 ## Vocabulaire docker
 
 ### Dockerfile
-C'est un fichier texte contenant des instructionx afin de construire une image Docker.
+- docker help
+- C'est un fichier texte contenant des instructionx afin de construire une image Docker.
 
 ### Image Docker
 - Elle permet de créer un conteneur Docker avec (bibliothèques, dépendances,...) 
