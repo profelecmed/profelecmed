@@ -12,6 +12,7 @@
 - Pour connaitre la version:
 
         docker-compose --version
+    Exemple : Docker Compose version V2.33.1-destokp.1
 
 - Pour déployer votre application (Démarre vos services et conteneurs):
 
