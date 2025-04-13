@@ -22,9 +22,11 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
   
    - Ouvrir le powershell , **MAJ + Clic**
 
-Cette commande vous donnera des information sur la version de docker,   exemple : version 28.0.1    .... 
+- Obtenir les informations sur la version de docker avec la commande version :
 
-    docker --version
+      docker --version
+exemple : version 28.0.1    .... 
+
 
 Vous devez voir : Hello from docker !   ,   This message shows that your installation appears to be working correctly
        
