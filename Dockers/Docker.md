@@ -40,7 +40,7 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
       docker run -it ubuntu bash
    Vous devez voir : root@fad23......:/#
 
-   Pour obtenir le aliste: 
+   Pour obtenir la liste: 
   
       ls
 
