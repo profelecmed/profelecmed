@@ -13,6 +13,7 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
    * ✔️ Use WSL 2 instead of Hyper-V
         ,  Cela va faire aparaître Linux "Windows Subsystem for Linux" dans l'explorateur de document.
    * ✔️ ADD SHORTCUT TO DESKTO
+- Cliquer afin de lancer l'installation de WSL si nécessaire.
 - Redémarrer le PC
 
 
