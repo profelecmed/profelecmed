@@ -39,6 +39,9 @@
 
 **Proxy**                                                                                                       :   https://proxysite.us/
 
+###Q
+**Qr code** : https://micetf.fr/qrcode/
+
 ###   S
 **Scenari Topaze**                            :    Permet de créer un site web interactif / scorm               :   https://doc.scenari.software/Topaze/fr/
 
