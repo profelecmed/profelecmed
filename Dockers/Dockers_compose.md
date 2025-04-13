@@ -4,7 +4,8 @@
 
 - Lancez le Docker Desktop
 
-- Dans le dossier faire MAJ + Clic droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
+- Dans le dossier faire **MAJ + Clic** droit puis cliquez sur **Ouvrir la fenêtre PowerShell ici** , Il faut être dans le bon répertoire!
+                  ...../.../.../monrépertoire#
 
 ## Les commandes de bases Docker Compose:
 
