@@ -25,13 +25,16 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 - Obtenir les informations sur la version de docker avec la commande version :
 
       docker --version
-exemple : version 28.0.1    .... 
+  exemple : version 28.0.1    .... 
 
 
-Vous devez voir : Hello from docker !   ,   This message shows that your installation appears to be working correctly
-       
-    Docker run hello-world  
+- test du conténeur Hello:
+         
+      Docker run hello-world  
  
+Vous devez voir : Hello from docker !   ,   This message shows that your installation appears to be working correctly
+
+
 Vous devez voir : root@fad23......:/#
 
     docker run -it ubuntu bash
