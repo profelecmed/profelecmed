@@ -31,7 +31,9 @@
 ###    N
 
 ###   O
-**OSINT Framework**                           :    Ensemble de ressources pour l'OSINT                          :   https://osintframework.com/
+**OSINT** :
+- OSINT Framework                           :    Ensemble de ressources pour l'OSINT                          :   https://osintframework.com/
+- Archive des sites web                     :   https://web.archive.org
 ###   P
 **Padlet**                                    :    Wall TICE Lycée de la Méditerranée                           :   https://padlet.com/francis_leyvastre/wall-tice-lyc-e-de-la-m-diterran-e-nqgxp19xd09
 
