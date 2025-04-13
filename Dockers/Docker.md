@@ -25,27 +25,29 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 - Obtenir les informations sur la version de docker avec la commande version :
 
       docker --version
-  exemple : version 28.0.1    .... 
+  Exemple : version 28.0.1    .... 
 
 
-- test du conténeur Hello:
+- test du conténeur Hello Word:
          
       Docker run hello-world  
  
-Vous devez voir : Hello from docker !   ,   This message shows that your installation appears to be working correctly
+   Vous devez voir : Hello from docker !   ,   This message shows that your installation appears to be working correctly
 
+- Test du conteneur ubuntu:
 
-Vous devez voir : root@fad23......:/#
+      docker run -it ubuntu bash
+   Vous devez voir : root@fad23......:/#
 
-    docker run -it ubuntu bash
-
-Pour obtenir le aliste: 
+   Pour obtenir le aliste: 
   
-    ls
+      ls
 
-la liste apparaît.
+   la liste apparaît. " bin boot dev etc home lib media opt root... sys tmp usr var"
 
-    exit
+   Por sortir de ubuntu
+  
+      exit
 
 Vous êtes sortie d'ubuntu.
 
