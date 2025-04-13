@@ -34,8 +34,11 @@
 **OSINT Framework**                           :    Ensemble de ressources pour l'OSINT                          :   https://osintframework.com/
 ###   P
 **Padlet**                                    :    Wall TICE Lycée de la Méditerranée                           :   https://padlet.com/francis_leyvastre/wall-tice-lyc-e-de-la-m-diterran-e-nqgxp19xd09
+
 **PIX**                                       :    Explorez à votre rythme 16 compétences numériques.           :   https://pix.org/fr/
+
 **Proxy**                                                                                                       :   https://proxysite.us/
+
 ###   S
 **Scenari Topaze**                            :    Permet de créer un site web interactif / scorm               :   https://doc.scenari.software/Topaze/fr/
 **Speed test**                                :    Permet d'obtenir Download et Upload en Mbps                  :   https://www.speedtest.net/?r=f
