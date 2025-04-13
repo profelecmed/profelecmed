@@ -29,7 +29,7 @@ Cette commande vous donnera des information sur la version de docker,   exemple 
  
   Vous devez voir : Hello from docker !   ,   This message shows that your installation appears to be working correctly
 
-    docker run -it ubuntu baSh
+    docker run -it ubuntu bash
 
 Vous devez voir : root@fad23......:/#
 
