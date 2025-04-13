@@ -1,6 +1,6 @@
 # Docker Compose
 
-**docker-compose.yml**, c'est le fichier de construction d'applocation multi-conteneurs (des images Docker , Paramètrages , Réseau, ...)
+**docker-compose.yml**, c'est le fichier de construction multi-conteneurs (des images Docker , Paramètrages , Réseau, ...)
 
 - Lancez le Docker Desktop
 
