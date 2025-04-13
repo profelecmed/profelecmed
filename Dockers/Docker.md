@@ -21,18 +21,20 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
   
    - Ouvrir le powershell , **MAJ + Clic**
 
+Cette commande vous donnera des information sur la version de docker,   exemple : version 28.0.1    .... 
+
     docker --version
 
-Cette commande vous donnera des information sur la version de docker,   exemple : version 28.0.1    .... 
+Vous devez voir : Hello from docker !   ,   This message shows that your installation appears to be working correctly
        
     Docker run hello-world  
  
-  Vous devez voir : Hello from docker !   ,   This message shows that your installation appears to be working correctly
+Vous devez voir : root@fad23......:/#
 
     docker run -it ubuntu bash
 
-Vous devez voir : root@fad23......:/#
-
+Pour obtenir le aliste: 
+  
     ls
 
 la liste apparaît.
