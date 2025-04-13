@@ -1,7 +1,7 @@
 # LIENS:
 
 ###  A
-**Jan**                                       :    AI en local                                                  :   https://jan.ai/  
+
 ###  B
 **BASE64**                                    :    Décodage et Encodage                                         :   https://www.base64decode.org/fr/
 
@@ -14,7 +14,10 @@
 **Home assisntant communauté francophone**    :                                                                 :   https://forum.hacf.fr/ 
 ###   I
 **IA**                                        :    Comparateur d'IA                                             :   https://artificialanalysis.ai/ 
-                                               Intelligence artificielle locale                             :   https://jan.ai/
+
+                                                  Intelligence artificielle locale                             :   https://jan.ai/
+### J
+**Jan**                                       :    AI en local                                                  :   https://jan.ai/  
 ###    L
 Linux distribution:
                                                Débian documentations                                        :    https://debian-facile.org/wiki
