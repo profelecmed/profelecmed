@@ -18,6 +18,7 @@ Il y a donc 65536 ports posibles.
 - 80     :   HTTP      " Web "
 - 110    :   POP3      " Réception de courrier "
 - 143    :   IMAP      " Réception de courrier "
+- 389    :   LDAP      ' Protocole interroger ou modifier les informations stockées dans l'annuaire AD"
 - 443    :   HTTPS     " http sécurisé par portions de SSL "
 - 554    :   RTPS      ' Protocole de streaming temps-réel, exemple pour camera IP"
 
