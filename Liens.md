@@ -6,7 +6,7 @@
 **BASE64**                                    :    Décodage et Encodage                                         :   https://www.base64decode.org/fr/
 
 ### C
-**Couleurs **                                 : Signification des couleurs                                     :  https://www.code-couleur.com/signification/index.html
+**Couleurs**                                 : Signification des couleurs                                     :  https://www.code-couleur.com/signification/index.html
 
 ###   F
 **framindmap**                                :    Création de carte mentale                                    :   https://framindmap.org
