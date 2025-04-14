@@ -6,7 +6,7 @@ Les ports sont codés sur 16 bits, les puissances de 2 sont : 1, 2, 4, 8, 16, 32
 Il y a donc 65536 ports posibles.
 
 ### Les ports 0 à 1023 sont les ports réservés.
-- 0     :             " Pour les protocoles TCP et UDP ce port est réservé.
+- 0      :             " Pour les protocoles TCP et UDP ce port est réservé.
 - 20     :   FTP       " Data "
 - 21     :   FTP       " Contrôle "
 - 22     :   SSH       " Remplace, de manière sécurisée, Telnet "
@@ -21,19 +21,19 @@ Il y a donc 65536 ports posibles.
 - 443    :   HTTPS     " http sécurisé par portions de SSL "
 - 554    :   RTPS      ' Protocole de streaming temps-réel, exemple pour camera IP
 
-Les ports 1024 à 49151 sont les ports enregistrés.
-1024 à 49151         " Ports enregistrés («Registered Ports») "
-1723   :   PPTP      " Point-to-Point Tunneling Protocol ", utilisation VPN
-3389   :   RDP       " Remote Desktop Protocol, protocole de bureau à distance "
-8123   :   Home Assistant
-8080   :             " Port utilisé par les proxy HTTP "
+###Les ports 1024 à 49151 sont les ports enregistrés.
+- 1024 à 49151         " Ports enregistrés («Registered Ports») "
+- 1723   :   PPTP      " Point-to-Point Tunneling Protocol ", utilisation VPN
+- 3389   :   RDP       " Remote Desktop Protocol, protocole de bureau à distance "
+- 8123   :   Home Assistant
+- 8080   :             " Port utilisé par les proxy HTTP "
 
-Les ports 49152 à 65535 sont les ports dynamiques et/ou privés.
-49152 à 65535        " Ports dynamiques et/ou privés («Dynamic and/or Private Ports») "
+### Les ports 49152 à 65535 sont les ports dynamiques et/ou privés.
+- 49152 à 65535        " Ports dynamiques et/ou privés («Dynamic and/or Private Ports») "
 
-....................................................................................................
+///
 
-Socket:
+## Socket:
 
 C'est la combinaison de l’adresse IP et du numéro de port.
 
