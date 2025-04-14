@@ -58,6 +58,8 @@
 
                   ping  adresse ip   |  Permet de tester le lien vers l'adresse IP cible. ( Packets: Sent = 4, Received = 4, Lost = 0)
 
+                  nmap               |  Permet de faire un mapping, nmap -p 80 192.168.1.40 ici on scanne le port 80 de l'adresse ip , 80/tcp closed http
+
 ## Licence d'exploitation OEM :  
                   Original Equipment Manufacturer
                   Les logiciels OEM sont liés à l'achat d'un matériel.
