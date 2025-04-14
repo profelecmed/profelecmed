@@ -21,7 +21,7 @@ Il y a donc 65536 ports posibles.
 - 443    :   HTTPS     " http sécurisé par portions de SSL "
 - 554    :   RTPS      ' Protocole de streaming temps-réel, exemple pour camera IP
 
-###Les ports 1024 à 49151 sont les ports enregistrés.
+### Les ports 1024 à 49151 sont les ports enregistrés.
 - 1024 à 49151         " Ports enregistrés («Registered Ports») "
 - 1723   :   PPTP      " Point-to-Point Tunneling Protocol ", utilisation VPN
 - 3389   :   RDP       " Remote Desktop Protocol, protocole de bureau à distance "
