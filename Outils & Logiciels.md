@@ -42,11 +42,6 @@
 
 
 
-## Licence d'exploitation OEM :  
-                               Original Equipment Manufacturer
-                               Les logiciels OEM sont liés à l'achat d'un matériel.
-                               Les licences OEM sont plus restrictives que les licences standart.
-
 ## Commandes clavier :
                               ctrl+a      |   Permet de tout s"lectionner 
                               ctrl+f      |   Permet de rechercher un terme.
@@ -54,4 +49,10 @@
 
 ## Commandes cmd
    Windows + R     
-   
+
+      ipconfig
+
+## Licence d'exploitation OEM :  
+                               Original Equipment Manufacturer
+                               Les logiciels OEM sont liés à l'achat d'un matériel.
+                               Les licences OEM sont plus restrictives que les licences standart.
