@@ -47,7 +47,7 @@
                                Les logiciels OEM sont liés à l'achat d'un matériel.
                                Les licences OEM sont plus restrictives que les licences standart.
 
-## Commandes :
+## Commandes clavier :
                               ctrl+a      |   Permet de tout s"lectionner 
                               ctrl+f      |   Permet de rechercher un terme.
                               ctrl+L      |   Permet de mettre de fermer la séssion 
