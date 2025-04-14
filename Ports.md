@@ -31,7 +31,7 @@ Il y a donc 65536 ports posibles.
 ### Les ports 49152 à 65535 sont les ports dynamiques et/ou privés.
 - 49152 à 65535        " Ports dynamiques et/ou privés («Dynamic and/or Private Ports») "
 
-///
+//
 
 ## Socket:
 
