@@ -56,6 +56,8 @@
 
                   arp -a             |  Permet d'afficher la table ARP ( IP et Mac )
 
+                  ping  adresse ip   |  Permet de tester le lien vers l'adresse IP cible. ( Packets: Sent = 4, Received = 4, Lost = 0)
+
 ## Licence d'exploitation OEM :  
                   Original Equipment Manufacturer
                   Les logiciels OEM sont liés à l'achat d'un matériel.
