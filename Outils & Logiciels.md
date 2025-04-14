@@ -43,16 +43,17 @@
 
 
 ## Commandes clavier :
-                              ctrl+a      |   Permet de tout s"lectionner 
-                              ctrl+f      |   Permet de rechercher un terme.
-                              ctrl+L      |   Permet de mettre de fermer la séssion 
+                  ctrl+a             |   Permet de tout s"lectionner 
+                  ctrl+f             |   Permet de rechercher un terme.
+                  ctrl+L             |   Permet de mettre de fermer la séssion 
 
 ## Commandes cmd
    Windows + R     
 
-                              ipconfig    |  Permet d'obtenir les informations sur les interfaces réseaux ( Adresses IP, masques de sous-réseau et passerelles par défaut)
+                  ipconfig           |  Permet d'obtenir les informations sur les interfaces réseau ( Adresses IP, masques de sous-réseau et passerelles par défaut)
+                  ipconfig /all      |  Permet d'obtenir des informations détaillées sur le réseau (Mac , DNS , ...)
 
 ## Licence d'exploitation OEM :  
-                               Original Equipment Manufacturer
-                               Les logiciels OEM sont liés à l'achat d'un matériel.
-                               Les licences OEM sont plus restrictives que les licences standart.
+                  Original Equipment Manufacturer
+                  Les logiciels OEM sont liés à l'achat d'un matériel.
+                  Les licences OEM sont plus restrictives que les licences standart.
