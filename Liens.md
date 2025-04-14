@@ -28,6 +28,7 @@
 
 ###   M
 **Mistral AI**                                :    IA générative Française                                      :   https://auth.mistral.ai/ui/login?flow=09dfd2d8-7274-48e3-afef-19b128535c05
+
 ###    N
 
 ###   O
@@ -48,6 +49,10 @@
 **Scenari Topaze**                            :    Permet de créer un site web interactif / scorm               :   https://doc.scenari.software/Topaze/fr/
 
 **Speed test**                                :    Permet d'obtenir Download et Upload en Mbps                  :   https://www.speedtest.net/?r=f
+
+### V
+Vérifier vos mails                            :    Permet de Vérifier si votre mail a des violations de données : https://haveibeenpwned.com/
+
 ###   W
 **Web / HTML/ CSS /JS**
 - Codage web en ligne                                          :   https://codepen.io/pen/
