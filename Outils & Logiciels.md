@@ -50,7 +50,7 @@
 ## Commandes cmd
    Windows + R     
 
-      ipconfig
+                              ipconfig    |  Permet d'obtenir les informations sur les interfaces réseaux ( Adresses IP, masques de sous-réseau et passerelles par défaut)
 
 ## Licence d'exploitation OEM :  
                                Original Equipment Manufacturer
