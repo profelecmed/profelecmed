@@ -17,6 +17,7 @@ Il y a donc 65536 ports posibles.
 - 68     :   DHCP      " Les clients DHCP utilisent ce pour envoyer des messages aux serveurs DHCP"
 - 80     :   HTTP      " Web "
 - 110    :   POP3      " Réception de courrier "
+- 123    :   NTP       ' protocole pour synchroniser les horloges"
 - 143    :   IMAP      " Réception de courrier "
 - 389    :   LDAP      ' Protocole interroger ou modifier les informations stockées dans l'annuaire AD"
 - 443    :   HTTPS     " http sécurisé par portions de SSL "
