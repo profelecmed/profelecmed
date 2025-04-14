@@ -13,18 +13,17 @@ Il y a donc 65536 ports posibles.
 - 23     :   Telnet    " Protocole de transport TCP "
 - 25     :   SMTP      " Envoi de courrier "
 - 53     :   DNS       " Domain Name System "
-- 67     :   DHCP      " Les serveurs DHCP écoutent sur ce port les messages entrants des clients DHCP
-- 68     :   DHCP      " Les clients DHCP utilisent ce pour envoyer des messages aux serveurs DHCP
+- 67     :   DHCP      " Les serveurs DHCP écoutent sur ce port les messages entrants des clients DHCP"
+- 68     :   DHCP      " Les clients DHCP utilisent ce pour envoyer des messages aux serveurs DHCP"
 - 80     :   HTTP      " Web "
-- 80 : <span style="color:yellow;">HTTP</span> Web
 - 110    :   POP3      " Réception de courrier "
 - 143    :   IMAP      " Réception de courrier "
 - 443    :   HTTPS     " http sécurisé par portions de SSL "
-- 554    :   RTPS      ' Protocole de streaming temps-réel, exemple pour camera IP
+- 554    :   RTPS      ' Protocole de streaming temps-réel, exemple pour camera IP"
 
 ### Les ports 1024 à 49151 sont les ports enregistrés.
 - 1024 à 49151         " Ports enregistrés («Registered Ports») "
-- 1723   :   PPTP      " Point-to-Point Tunneling Protocol ", utilisation VPN
+- 1723   :   PPTP      " Point-to-Point Tunneling Protocol ", utilisation VPN"
 - 3389   :   RDP       " Remote Desktop Protocol, protocole de bureau à distance "
 - 8123   :   Home Assistant
 - 8080   :             " Port utilisé par les proxy HTTP "
