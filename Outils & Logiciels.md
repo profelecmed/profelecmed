@@ -54,6 +54,8 @@
                   ipconfig           |  Permet d'obtenir les informations sur les interfaces réseau ( Adresses IP, masques de sous-réseau et passerelles par défaut)
                   ipconfig /all      |  Permet d'obtenir des informations détaillées sur le réseau (Mac , DNS , ...)
 
+                  arp -a             |  Permet d'afficher la table ARP ( IP et Mac )
+
 ## Licence d'exploitation OEM :  
                   Original Equipment Manufacturer
                   Les logiciels OEM sont liés à l'achat d'un matériel.
