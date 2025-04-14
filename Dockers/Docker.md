@@ -74,6 +74,10 @@ C'est une plateforme qui permet de créer, de déployer et de gérer des applica
 
       docker --help
 
+- Télécharger une image docker depuis un dépot "ici Kalilinux en version rolling release"
+
+         docker pull kalilinux/kali-rolling
+
 - A partir de Dockerfile on crée une image docker.
 
          docker build -t monimage .
