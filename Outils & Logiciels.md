@@ -51,3 +51,7 @@
                               ctrl+a      |   Permet de tout s"lectionner 
                               ctrl+f      |   Permet de rechercher un terme.
                               ctrl+L      |   Permet de mettre de fermer la séssion 
+
+## Commandes cmd
+   Windows + R     
+   
