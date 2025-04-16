@@ -10,3 +10,4 @@ sous windows:
 * Lancer Docker Descktop
 
 ## Etape 3
+* Ouvrir le powershell , MAJ + Clic
