@@ -17,4 +17,4 @@ sous windows:
   
 - Créer et démarre un conteneur à partir d’une image.
 
-         docker run hello-world
+         docker run monimage
