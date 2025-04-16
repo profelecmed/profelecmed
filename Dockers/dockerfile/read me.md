@@ -1,7 +1,9 @@
 # Dockerfile
 
 Un Dockerfile est un fichier texte écrit avec un des régles.
+
 C'est donc un fichier texte contenant des instructionx afin de construire une image Docker.
+
 
 ## Etape 1 
 * Créer un dossier sur le bureau
