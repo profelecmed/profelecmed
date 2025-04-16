@@ -1,5 +1,7 @@
 # Dockerfile
 
+Un Dockerfile est un fichier texte écrit avec un des régles.
+
 ## Etape 1 
 * Créer un dossier sur le bureau
 * Nommer le dossier sans espace,     Exemple **mon_dossier_perso_dockerfile**
