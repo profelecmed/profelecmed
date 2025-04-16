@@ -1,0 +1,22 @@
+# Utiliser l'image officielle Debian comme base
+FROM debian:latest
+
+# Mettre à jour les paquets et installer les outils nécessaires
+RUN apt-get update && apt-get install -y \
+    curl \
+    vim \
+    net-tools \
+    iputils-ping \
+    && apt-get clean
+
+# Définir un utilisateur non root (optionnel)
+RUN useradd -m -s /bin/bash serveruser
+
+# Définir le répertoire de travail
+WORKDIR /home/serveruser
+
+# Exposer un port si nécessaire (exemple : SSH)
+EXPOSE 22
+
+# Définir la commande par défaut
+CMD ["bash"]
