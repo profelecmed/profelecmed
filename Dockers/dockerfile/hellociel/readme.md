@@ -11,6 +11,10 @@ sous windows:
 
 ## Etape 3
 * Ouvrir le powershell , MAJ + Clic
+
+- A partir de Dockerfile on crée une image docker.
+
+         docker build -t hellociel .
   
 - Créer et démarre un conteneur à partir d’une image.
 
