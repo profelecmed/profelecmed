@@ -28,8 +28,9 @@ Il y a donc 65536 ports posibles.
 - 1024 à 49151         " Ports enregistrés («Registered Ports») "
 - 1723   :   PPTP      " Point-to-Point Tunneling Protocol ", utilisation VPN"
 - 3389   :   RDP       " Remote Desktop Protocol, protocole de bureau à distance "
-- 8123   :   Home Assistant
+- 8006   :   Interface web de Proxmox
 - 8080   :             " Port utilisé par les proxy HTTP "
+- 8123   :   Home Assistant
 
 ### Les ports 49152 à 65535 sont les ports dynamiques et/ou privés.
 - 49152 à 65535        " Ports dynamiques et/ou privés («Dynamic and/or Private Ports») "
