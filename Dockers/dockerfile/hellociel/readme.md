@@ -1,4 +1,4 @@
-Dockerfile
+Dockerfile hellociel
 
 Un Dockerfile est un fichier texte écrit avec un des régles.
 
@@ -19,10 +19,7 @@ Etape 3
 
     Ouvrir le powershell , MAJ + Clic
 
-    A partir de Dockerfile on crée une image docker.
-
-       docker build -t hellociel .
-
+   
 Créer et démarre un conteneur à partir d’une image.
 
    docker run monimage
