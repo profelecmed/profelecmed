@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersécurité</title>
+    <style>
+        body {
+            background-color: lightblue; /* Fond bleu clair */
+            color: white;
+            font-family: sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh; /* Assure que le footer reste en bas même si le contenu est court */
+        }
+
+        .shield-container {
+            background-color: green; /* Couleur verte du cadre */
+            border-radius: 10px; /* Bords arrondis pour simuler une forme */
+            padding: 20px;
+            margin: 20px auto;
+            width: fit-content; /* Ajuste la largeur au contenu */
+            position: relative; /* Pour positionner les pseudo-éléments du bouclier */
+        }
+
+        .shield-container::before {
+            content: '';
+            position: absolute;
+            top: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 50%;
+            height: 20px;
+            background-color: green;
+            border-radius: 10px 10px 0 0; /* Forme le haut du bouclier */
+        }
+
+        h1 {
+            color: white; /* Titre blanc à l'intérieur du cadre */
+            margin: 0;
+        }
+
+        .definition {
+            margin-top: 30px;
+            text-align: left;
+            background-color: rgba(0, 0, 0, 0.2); /* Légère transparence pour le fond du texte */
+            padding: 15px;
+            border-radius: 5px;
+        }
+
+        .links {
+            margin-top: 30px;
+        }
+
+        .links h2 {
+            color: white;
+        }
+
+        .links ul {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+        }
+
+        .links li {
+            margin-bottom: 10px;
+        }
+
+        .links a {
+            color: black; /* Les liens sont maintenant noirs */
+            text-decoration: none;
+            border-bottom: 1px solid black; /* Soulignement discret noir */
+            padding-bottom: 2px;
+            transition: color 0.3s ease;
+        }
+
+        .links a:hover {
+            color: darkgray; /* Couleur au survol légèrement plus claire */
+        }
+
+        .back-link {
+            margin-top: 30px;
+        }
+
+        .back-link a {
+            color: white;
+            text-decoration: none;
+            /* Suppression du style de texte pour l'image */
+            padding-bottom: 0; /* Ajustement du padding */
+            border-bottom: none; /* Suppression de la bordure */
+        }
+
+        .back-link a:hover {
+            /* Conservez ou modifiez l'effet au survol pour l'image si nécessaire */
+            opacity: 0.8; /* Légère transparence au survol */
+        }
+
+        .back-link img {
+            width: 50px; /* Ajustez la taille de l'image selon vos besoins */
+            height: auto;
+            vertical-align: middle; /* Aligne l'image verticalement avec le texte (s'il y en avait) */
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            width: 100%;
+            margin-top: auto; /* Pousse le footer vers le bas */
+        }
+    </style>
+</head>
+<body>
+    <div class="shield-container">
+        <h1>Cybersécurité</h1>
+    </div>
+
+    <div class="definition">
+        <h2>Définition</h2>
+        <p>La cybersécurité, également appelée sécurité informatique, englobe l'ensemble des techniques et des pratiques visant à protéger les systèmes informatiques, les réseaux, les programmes et les données contre les accès non autorisés, les utilisations abusives, les modifications, les destructions ou les divulgations.</p>
+    </div>
+
+    <div class="links">
+        <h2>Liens utiles sur les règles de la cybersécurité</h2>
+        <ul>
+            <li><a href="https://www.ssi.gouv.fr/" target="_blank">Site de l'ANSSI (Agence nationale de la sécurité des systèmes d'information)</a></li>
+            <li><a href="https://www.cnil.fr/" target="_blank">Site de la CNIL (Commission Nationale de l'Informatique et des Libertés)</a></li>
+            <li><a href="https://www.cybermalveillance.gouv.fr/" target="_blank">Cybermalveillance.gouv.fr : Assistance et prévention des risques numériques</a></li>
+            </ul>
+    </div>
+
+    <div class="back-link">
+        <a href="index.html"><img src="chemin/vers/votre/image_accueil.png" alt="Retour à l'accueil"></a>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 - Site du Bac Pro CIEL ➡️ Gemini & Elecmed</p>
+    </footer>
+</body>
+</html>
