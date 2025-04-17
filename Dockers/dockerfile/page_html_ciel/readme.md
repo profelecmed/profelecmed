@@ -22,6 +22,4 @@ sous windows:
          docker run -d -p 8080:80 htmlciel
 
 # Etape 4
-* Ouvrir l’url:
-
-      http://localhost:8080/
+* Ouvrir l’url:   http://localhost:8080/
