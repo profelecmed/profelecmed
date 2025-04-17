@@ -4,8 +4,9 @@
 * Créer un dossier sur le bureau
 * Nommer le dossier sans espace,     Exemple **htmlciel**
 * Copier vos fichiers
-   ** dockerfile
-   ** index.html
+  * dockerfile
+  * index.html
+  * cybersecurite.html
 
 ## Etape 2
 sous windows:
