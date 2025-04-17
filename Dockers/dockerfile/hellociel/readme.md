@@ -6,7 +6,7 @@ C'est donc un fichier texte contenant des instructionx afin de construire une im
 Etape 1
 
     Créer un dossier sur le bureau
-    Nommer le dossier sans espace, Exemple mon_dossier_perso_dockerfile
+    Nommer le dossier sans espace, Exemple hellociel
     Copier votre fichier dockerfile
 
 Etape 2
@@ -21,7 +21,7 @@ Etape 3
 
     A partir de Dockerfile on crée une image docker.
 
-       docker build -t monimage .
+       docker build -t hellociel .
 
 Créer et démarre un conteneur à partir d’une image.
 
