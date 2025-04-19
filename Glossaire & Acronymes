@@ -134,16 +134,16 @@ Glossaire & Acronymes
 ---------------------------------------                                                                                                q 
  QoS             :  Quality of Service   hiérarchiser les applications et utilisateurs avec un ordre de priorité.
 ---------------------------------------                                                                                                R
- RAID            :  Redundant Array of Independent Disks , méthode de stockage de données sur plusieurs disques durs RAID 0 1 5 10 ...
- RAM             :  Random Access Memory , "mémoire vive"
- Reverse         :  Etude pour découvrir comment cela a été fait.
- RFID            :  Radio Frequency Identification
- RGB             :  Red Green Blue
- RGPD            :  Règlement général sur la protection des données 
- RoHS            :  Restriction of Hazardous Substances , Exemple soudure sans plomb.
- Rolling release :  Ici les mise à jour sont continues et fréquentes sans attendre une version majeure de l'OS ou d'un logiciel en opposition à fixed releases.
- ROM             :  Read Only Memory
- Routeur         :  Il fait transiter des paquets d'une interface réseau vers une autre. Les routeurs opèrent au niveau de la couche 3. 
+ RAID                      :  Redundant Array of Independent Disks , méthode de stockage de données sur plusieurs disques durs RAID 0 1 5 10 ...
+ RAM                       :  Random Access Memory , "mémoire vive"
+ Reverse engineering       :  Etude pour découvrir comment cela a été fait.
+ RFID                      :  Radio Frequency Identification
+ RGB                       :  Red Green Blue
+ RGPD                      :  Règlement général sur la protection des données 
+ RoHS                      :  Restriction of Hazardous Substances , Exemple soudure sans plomb.
+ Rolling release           :  Ici les mise à jour sont continues et fréquentes sans attendre une version majeure de l'OS ou d'un logiciel en opposition à fixed releases.
+ ROM                       :  Read Only Memory
+ Routeur                   :  Il fait transiter des paquets d'une interface réseau vers une autre. Les routeurs opèrent au niveau de la couche 3. 
 ---------------------------------------                                                                                                S
  SI              :  Système d’Information
  SO-DIMM         :  small outline dual in-line memory module  , barrette de RAM Pc portable
