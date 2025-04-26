@@ -38,6 +38,7 @@ Glossaire & Acronymes
  CLI             :  Command line interface, C’est une Interface en ligne de commande
  Cloud computing :  informatique en nuage : Applications web, stockage et traitement de données en ligne, ressources dans le nuage !
  Cluster         :  Ensemble de serveurs interconnectés pouvant travailler ensemble comme une seule ressource informatique intégrée.
+ cmd             :  Invite de commande 
  CMS             :  Composants Montés en surface.
  Code
    BCD           :  Binary Coded Decima  (Exemple: 10 en décimal devient 0001 0000 en BCD)
