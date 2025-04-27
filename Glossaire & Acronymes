@@ -105,6 +105,7 @@ Glossaire & Acronymes
  LAG             :  Link Aggregation Group  , X bande passante, redondance des liaisons entre deux périphériques 
  LAN             :  local area network , c'est un réseau local
  Latence         :  C'est le délai entre l’envoi et la réception d’un paquet. C'est donc un retard.
+ LED             :  Light Emitting Diode ,  C'est un semi-conducteur émettant de la lumière lorsqu'il est parcouru par un courant électrique dans le sens Anode , Cathode.
  Logiciel libre  :  Il est possible de modifier le code source du logiciel.
  LPU             :  Language Processing Unit
  LSB             :  Less Significant Byte , bit de poids faible "par défaut c'est le bit le plus à droite" , voir aussi MSB
