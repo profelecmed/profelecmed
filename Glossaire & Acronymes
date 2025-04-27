@@ -89,7 +89,7 @@ Glossaire & Acronymes
  GND             :  Ground , c'est la masse, elle sert de point de référence.
  GPU             :  Graphics Processing Unit      
  GTL             :  Gaine Technique Logement
- GRUB            :  GRand Unified Bootloader , Programme pour le choix de démarrage dabs le cas d'un multiboot.
+ GRUB            :  GRand Unified Bootloader , Programme pour le choix de démarrage dans le cas d'un multi-boot.
 ---------------------------------------                                                                                                 H
  HDD             :  Hard Disk Drive
  HTML            :  HyperText Markup Language
