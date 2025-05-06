@@ -2,11 +2,15 @@
 
 ### Attribution
 
-- Router >
--        enable
+Router >
+       enable
 
-ou
-en  				                                                               mode commande privilégié.
+ou     en  				                                                               
+
+
+mode commande privilégié.
+
+
 La validation de cette commande entraîne souvent la demande d’un mot de passe.  Cisco Cisco
 Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « CTRL+Z »
 Router # configure terminal        ou   conf t                                                        mode de configuration globale.
