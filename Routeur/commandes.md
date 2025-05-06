@@ -24,13 +24,18 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
   conf t  				                                                               
 mode de configuration globale.
 
+-Router #
+
+     interface GigabitEthernet0/0/0  
+   
+  
+  
 
 
 
 
 
-
- Router (config) # interface GigabitEthernet0/0/0                       Remplacez par votre interface WAN
+ 
  Router (config) #  ip address dhcp
  Router (config) # no shutdown    					Active l’interface
 Router (config) # exit
