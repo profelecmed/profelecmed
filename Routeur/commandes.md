@@ -1,12 +1,13 @@
 # Commandes:
 
 ### Attribution
+                                                            
 
-* Router >
-*        enable
-         en  				                                                               
+- Router >
 
-
+      enable
+    Ou 
+  en  				                                                               
 mode commande privilégié.
 
 
