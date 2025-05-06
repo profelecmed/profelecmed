@@ -32,13 +32,5 @@ Router(config) #
    
   
   
-
-
-
-
-
  
- Router (config) #  ip address dhcp
- Router (config) # no shutdown    					Active l’interface
-Router (config) # exit
 
