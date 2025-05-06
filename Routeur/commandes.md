@@ -18,7 +18,9 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 -Router #
 
      configure terminal 
-    Ou 
+   
+  
+  ou
   conf t  				                                                               
 mode de configuration globale.
 
