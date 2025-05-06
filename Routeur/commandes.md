@@ -5,7 +5,7 @@
 
 Router >
 
-      enable
+    enable
    
   Ou 
   
@@ -22,13 +22,13 @@ Router #
      configure terminal 
    
   
-  ou
+  ou   
   conf t  				                                                               
 mode de configuration globale.
 
 Router #
 
-     interface GigabitEthernet0/0/0  
+    interface GigabitEthernet0/0/0  
    
   
   
