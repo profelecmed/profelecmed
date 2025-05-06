@@ -4,8 +4,7 @@
 
 * Router >
 *        enable
-
-ou     en  				                                                               
+         en  				                                                               
 
 
 mode commande privilégié.
