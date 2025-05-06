@@ -21,7 +21,7 @@ Router #
 
      configure terminal 
    
-    ou   
+  ou   
   
     conf t  				                                                               
 mode de configuration globale.
