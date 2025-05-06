@@ -3,11 +3,13 @@
 ### Attribution
                                                             
 
-- Router >
+Router >
 
       enable
-    Ou 
-  en  				                                                               
+   
+  Ou 
+  
+    en  				                                                               
 mode commande privilégié.
 
 
@@ -15,7 +17,7 @@ La validation de cette commande entraîne souvent la demande d’un mot de passe
 
 Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « CTRL+Z »
 
--Router #
+Router #
 
      configure terminal 
    
@@ -24,7 +26,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
   conf t  				                                                               
 mode de configuration globale.
 
--Router #
+Router #
 
      interface GigabitEthernet0/0/0  
    
