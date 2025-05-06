@@ -26,7 +26,7 @@ Router #
     conf t  				                                                               
 mode de configuration globale.
 
-Router #
+Router(config) #
 
     interface GigabitEthernet0/0/0  
    
