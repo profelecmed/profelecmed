@@ -53,9 +53,16 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
     ip address  192.168.1.1 255.255.255.0              
 
+Remùplacer l'adresse est le masque par les valeurs donnée par le FAI ou de votre access.
+
 ----
 ### AcCver l’interface
     no shutdown
+
+----
+###
+
+    exit
 
 ----
 ### Affiche les informations des interfaces
