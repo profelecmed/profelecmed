@@ -10,7 +10,7 @@ Router >
   Ou 
   
     en  				                                                               
-mode commande privilégié.
+Router #   est le mode commande privilégié.
 
 
 La validation de cette commande entraîne souvent la demande d’un mot de passe.  Cisco Cisco
