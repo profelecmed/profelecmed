@@ -36,12 +36,23 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 **Router(config) #**
 
-    interface GigabitEthernet0/0/0  
+    interface GigabitEthernet 0/0/0  
 
 - 0/0/0 pour le port combo WAN   ou  0/0/1 pour le port WAN dédié.
 - 0/1/0 à 0/1/3 pour les port LAN
 
-*(config-if)#* est le mode config interface 
+**(config-if)#** est le mode config interface 
+
+----
+
+*** Cas ou vous êtes en mode DHCP
+    
+    ip address dhcp
+
+*** Cas ou vous êtes en static
+
+    ip address  192.168.1.1 255.255.255.0              
+
 ----
 ### AcCver l’interface
     no shutdown
