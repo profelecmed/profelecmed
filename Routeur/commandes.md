@@ -1,8 +1,8 @@
 # Commandes:
 
-### Attribution Gigabit Ethernet Interfaces
+## Attribution Gigabit Ethernet Interfaces
                                                             
-
+#### Entrer en mode privilégié 
 Router >
 
     enable
