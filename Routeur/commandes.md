@@ -45,11 +45,13 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 ----
 
-*** Cas ou vous êtes en mode DHCP
+### Configurer une adresse
+
+1️⃣ Cas ou vous êtes en mode DHCP
     
     ip address dhcp
 
-*** Cas ou vous êtes en static
+2️⃣  Cas ou vous êtes en static
 
     ip address  192.168.1.1 255.255.255.0              
 
