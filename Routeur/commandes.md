@@ -58,11 +58,11 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 Remùplacer l'adresse est le masque par les valeurs donnée par le FAI ou de votre access.
 
 ----
-### AcCver l’interface
+### Activer l’interface
     no shutdown
 
 ----
-###
+###  Quitter le mode de configuration interface 
 
     exit
 
