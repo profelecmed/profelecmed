@@ -17,6 +17,8 @@ La validation de cette commande entraîne souvent la demande d’un mot de passe
 
 Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « CTRL+Z »
 
+-----
+
 #### Entrer en config globale 
 **Router #**
 
