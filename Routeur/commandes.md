@@ -2,7 +2,7 @@
 
 ## Attribution Gigabit Ethernet Interfaces
                                                             
-#### Entrer en mode privilégié 
+### Entrer en mode privilégié 
 **Router >**
 
     enable
@@ -19,7 +19,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 -----
 
-#### Entrer en config globale 
+### Entrer en config globale 
 **Router #**
 
      configure terminal 
@@ -32,9 +32,9 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 ----
 
-#### Entrer en config interface
+### Entrer en config interface
 
-*Router(config) #*
+**Router(config) #**
 
     interface GigabitEthernet0/0/0  
    
