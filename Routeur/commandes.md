@@ -38,6 +38,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
     interface GigabitEthernet0/0/0  
 
+0/0/0 pour le port combo WAN   ou  0/0/1 pour le port WAN dédié.
 ----
 
 ### Affiche les informations des interfaces
