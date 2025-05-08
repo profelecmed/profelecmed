@@ -40,7 +40,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 ----
 
-### Affiche les informaCons des interfaces
+### Affiche les informations des interfaces
 
     show ip interface brief
   
