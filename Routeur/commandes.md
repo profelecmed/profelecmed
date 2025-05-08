@@ -74,10 +74,12 @@ Remùplacer l'adresse est le masque par les valeurs donnée par le FAI ou de vot
 ----
 ### Sauvegarder votre configuration
 
-    Router# write memory
+ Router#
+
+    write memory
 
   ou
 
-    Router# copy running-config startup-config
+    running-config startup-config
  
 
