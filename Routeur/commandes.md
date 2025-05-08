@@ -39,7 +39,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
     interface GigabitEthernet 0/0/0  
 
 - 0/0/0 pour le port combo WAN   ou  0/0/1 pour le port WAN dédié.
-- 0/1/0 à 0/1/3 pour les port LAN
+- 0/1/0 à 0/1/3 pour les port LAN , ils fonctionnent comme un switch intégré.
 
 **(config-if)#** est le mode config interface 
 
