@@ -42,6 +42,8 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 - 0/1/0 à 0/1/3 pour les port LAN
 
 ----
+### AcCver l’interface
+    no shutdown
 
 ----
 ### Affiche les informations des interfaces
