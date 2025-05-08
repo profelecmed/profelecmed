@@ -3,14 +3,14 @@
 ## Attribution Gigabit Ethernet Interfaces
                                                             
 #### Entrer en mode privilégié 
-Router >
+**Router >**
 
     enable
    
   Ou 
   
     en  				                                                               
-Router #   est le mode commande privilégié.
+**Router #**   est le mode commande privilégié.
 
 
 La validation de cette commande entraîne souvent la demande d’un mot de passe.  Cisco Cisco
