@@ -30,6 +30,8 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 **Router(config) #** est le mode de configuration globale.
 
+----
+
 Router(config) #
 
     interface GigabitEthernet0/0/0  
