@@ -38,7 +38,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 **Router(config) #**
 
-    interface GigabitEthernet0/0/0  
+    interface GigabitEthernet0/1/0  
 
 - 0/0/0 pour le port combo WAN   ou  0/0/1 pour le port WAN dédié.
 
