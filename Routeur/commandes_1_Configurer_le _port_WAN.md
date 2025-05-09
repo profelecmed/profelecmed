@@ -48,7 +48,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 ### Configurer une adresse
 
-1️⃣ Cas ou vous êtes en mode DHCP
+1️⃣ Cas ou vous êtes en mode DHCP, permet d'obtenir l'adresse IP et la passerelle via DHCP
     
     ip address dhcp
 
