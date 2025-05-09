@@ -1,10 +1,16 @@
 # Accéder à l'Interface de Ligne de Commande (CLI):
 
-Connecter avec le câble console.
+## Connecter avec le câble console.
 
-Ouvrir le logiciel Putty.
+## Identifier le port
+Dans la console windows:
+    
+    mode
+
+## Ouvrir le logiciel Putty.
 
   Connection type : Sérial
+  
 
    * Vitesse : 9600 bauds
    * Bits de données : 8
