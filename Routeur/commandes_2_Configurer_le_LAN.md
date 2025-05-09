@@ -50,7 +50,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 ### Configurer une adresse
 
-    ip address  192.168.1.1 255.255.255.0              
+    ip address  192.168.100.1 255.255.255.0              
 
 
 
