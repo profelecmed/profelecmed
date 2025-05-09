@@ -1,6 +1,6 @@
-# Commandes:
+# Commandes 1:
 
-## Configurez le port WAN
+## Configurer le port WAN
                                                             
 ### Entrer en mode privilégié 
 Vous en mode utilisateur 
@@ -37,7 +37,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 **Router(config) #**
 
-    interface GigabitEthernet 0/0/0  
+    interface GigabitEthernet0/0/0  
 
 - 0/0/0 pour le port combo WAN   ou  0/0/1 pour le port WAN dédié.
 
