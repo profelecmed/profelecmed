@@ -34,7 +34,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 ----
 
-### Entrer en config interface
+### Entrer en configuration interface
 
 **Router(config) #**
 
