@@ -3,7 +3,7 @@
 ## Configurez le port WAN
                                                             
 ### Entrer en mode privilégié 
-Vous en mode utilisateur Routeur >
+Vous en mode utilisateur 
 **Router >**
 
     enable
@@ -20,7 +20,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 -----
 
-### Entrer en config globale 
+### Entrer en configuration globale 
 **Router #**
 
      configure terminal 
