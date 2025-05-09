@@ -55,8 +55,8 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 
 ----
-###  Marquer l'interface comme étant connectée au réseau externe/public WAN.
-     ip nat outside
+###  Marquer l'interface comme étant connectée au réseau interne LAN
+     ip nat inside
 
 ----
 ### Activer l’interface
