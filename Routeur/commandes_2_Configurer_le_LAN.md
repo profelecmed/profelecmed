@@ -41,7 +41,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
     interface GigabitEthernet0/1/0  
 
-- 0/0/0 pour le port combo WAN   ou  0/0/1 pour le port WAN dédié.
+0/1/0 à 0/1/3 pour les port LAN.
 
 
 **(config-if)#** est le mode config interface 
@@ -50,15 +50,9 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 ### Configurer une adresse
 
-1️⃣ Cas ou vous êtes en mode DHCP
-    
-    ip address dhcp
-
-2️⃣  Cas ou vous êtes en static
-
     ip address  192.168.1.1 255.255.255.0              
 
-Remùplacer l'adresse est le masque par les valeurs donnée par le FAI ou de votre access.
+
 
 ----
 ###  Marquer l'interface comme étant connectée au réseau externe/public WAN.
