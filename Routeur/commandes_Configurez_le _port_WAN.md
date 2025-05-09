@@ -3,6 +3,7 @@
 ## Configurez le port WAN
                                                             
 ### Entrer en mode privilégié 
+Vous en mode utilisateur Routeur >
 **Router >**
 
     enable
