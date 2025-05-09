@@ -2,7 +2,7 @@
 
 ## Configurer le port LAN
 Le routeur C1111-4P a un switch intégré (avec 4 ports LAN)
-0/1/0 à 0/1/3 pour les port LAN , ils fonctionnent comme un switch intégré.
+0/1/0 à 0/1/3 pour les port LAN.
                                                             
 ### Entrer en mode privilégié 
 Vous en mode utilisateur 
