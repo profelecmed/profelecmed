@@ -10,7 +10,7 @@ Dans la console windows:
 ## Ouvrir le logiciel Putty.
 
   Connection type : Sérial
-  
+  Mettre le port série identifier dans la console windows.
 
    * Vitesse : 9600 bauds
    * Bits de données : 8
