@@ -72,6 +72,11 @@ Remùplacer l'adresse est le masque par les valeurs donnée par le FAI ou de vot
     exit
 
 ----
+###  Quitter le mode de configuration  
+
+    exit
+
+----
 ### Affiche les informations des interfaces
 
     show ip interface brief
