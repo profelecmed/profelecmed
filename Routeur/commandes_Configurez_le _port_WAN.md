@@ -1,6 +1,6 @@
 # Commandes:
 
-## Attribution Gigabit Ethernet Interfaces
+## Configurez le port WAN
                                                             
 ### Entrer en mode privilégié 
 **Router >**
