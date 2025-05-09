@@ -59,6 +59,10 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 Remùplacer l'adresse est le masque par les valeurs donnée par le FAI ou de votre access.
 
 ----
+###  Marquer l'interface comme étant connectée au réseau externe/public WAN.
+     ip nat outside
+
+----
 ### Activer l’interface
     no shutdown
 
