@@ -60,8 +60,7 @@
 
                   nmap               |  Permet d'analyser les ports et de faire un mapping, Exemple : nmap -p 80 192.168.1.40 ici on scanne le port 80 de l'adresse ip , 80/tcp closed http
 
-
-mode
+                  mode.              
 Permet d'afficher les caractéristiques des ports com. 
 
 ## Licence d'exploitation OEM :  
