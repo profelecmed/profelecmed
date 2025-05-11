@@ -22,6 +22,7 @@
 - KiCad                 :  Logiciel de conception de schémas électroniques et la conception de circuits imprimé , https://www.kicad.org/
 - Kutty                 :  Emulateur de terminal et client SSH de type Putty avec des options.
 ###   M
+- MiniTool Partition Wizard  : Gestion de partitions pour disques
 - Mu editor Python      :  Editeur Python
 ###   P
 - bPacket Tracer         :  Logiciel de simulation de réseaux informatique de Cisco
