@@ -54,7 +54,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 
 2️⃣  Cas ou vous êtes en static
 
-    ip address  192.168.1.1 255.255.255.0              
+    ip address X.X.X.X  X.X.X.X              
 
 Remùplacer l'adresse est le masque par les valeurs donnée par le FAI ou de votre access.
 
