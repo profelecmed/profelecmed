@@ -1,5 +1,37 @@
 # Configuration du NAT
 
+### Entrer en mode privilégié 
+Vous en mode utilisateur 
+**Router >**
+
+    enable
+   
+  Ou 
+  
+    en  				                                                               
+**Router #**   est le mode commande privilégié.
+
+
+La validation de cette commande entraîne souvent la demande d’un mot de passe.  Cisco Cisco
+
+Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « CTRL+Z »
+
+-----
+
+### Entrer en configuration globale 
+**Router #**
+
+     configure terminal 
+   
+  ou   
+  
+    conf t  				                                                               
+
+**Router(config) #** est le mode de configuration globale.
+
+----
+
+   
     ip access-list standard NAT_ACL
 
     permit 192.168.100.0 0.0.0.255
