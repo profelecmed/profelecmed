@@ -65,6 +65,7 @@ Router#
 Router#
 
     Router# write memory
+    copy running-config startup-config
 
 
     
