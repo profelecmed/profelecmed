@@ -79,11 +79,13 @@ Router(config-if)#
 
 ----
 ###  Quitter le mode de configuration  
+Router(config) #
 
     exit
 
 ----
 ### Affiche les informations des interfaces
+*Router #
 
     show ip interface brief
 
