@@ -57,7 +57,7 @@ Router(config-if)#
 
     ip address X.X.X.X  X.X.X.X              
 
-Remùplacer l'adresse est le masque par les valeurs donnée par le FAI ou de votre access.
+Remùplacer l'adresse X.X.X.X  et le masque X.X.X.X par les valeurs données par le FAI ou de votre point d'access.
 
 ----
 ###  Marquer l'interface comme étant connectée au réseau externe/public WAN.
