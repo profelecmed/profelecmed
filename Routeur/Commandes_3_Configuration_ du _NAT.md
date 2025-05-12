@@ -30,12 +30,10 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 **Router(config) #** est le mode de configuration globale.
 
 ----
-### Configuration NAT
+### Configuration NAT Static
    
-    ip access-list standard NAT_ACL
+    ip access-list standard NAT_ACL permit 192.168.100.100 0.0.0.255
 
-    permit 192.168.100.0 0.0.0.255
-
-    ip nat inside source list NAT_ACL interface GigabitEthernet0/0/0 overload
+    ip nat inside source list NAT_ACL interface GigabitEthernet0/0/0/0 overload
 
     ip route 0.0.0.0 0.0.0.0 GigabitEthernet0/0/0
