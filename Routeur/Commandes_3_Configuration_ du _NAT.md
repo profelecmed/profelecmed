@@ -33,27 +33,36 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 **Router(config) #** est le mode de configuration globale.
 
 ----
-### Configuration NAT Static ,  Overload
+### Configuration NAT Static ,  Overload (PAT)
    
-Router(config)# 
-
 Créer une Access-List pouur autorisé le réseau 192.168.100.0/24 
+Router(config)# 
 
     ip access-list standard NAT_ACL permit 192.168.100.0 0.0.0.255
 
-Overload permet pour plusieurs équipement interne d'avoir internet àtravers le routeur.
+Configuration option Overload
+Elle permet pour plusieurs équipement interne d'avoir internet àtravers le routeur.
+Router(config)# 
 
-    ip nat inside source list NAT_ACL interface GigabitEthernet0/0/0/0 overload
+    ip nat inside source list NAT_ACL interface GigabitEthernet0/0/0 overload
+
+Créer une route par défaut pour internet
+Router(config)# 
 
     ip route 0.0.0.0 0.0.0.0 GigabitEthernet0/0/0
 
+Router(config)# 
+      
+    eznd
 -----
 #### Vérification du fonctionnement
+Router#
 
     show ip nat translations
 
 -----
 #### Sauvegarde de la configuratioin
+Router#
 
     Router# write memory
 
