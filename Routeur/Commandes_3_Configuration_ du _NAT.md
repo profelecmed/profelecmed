@@ -53,7 +53,7 @@ Router(config)#
 
 Router(config)# 
       
-    eznd
+    end
 -----
 #### Vérification du fonctionnement
 Router#
