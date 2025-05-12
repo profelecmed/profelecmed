@@ -63,6 +63,6 @@
 - **VRRP**           :  Virtual Router Redundancy Protocol     : Il utilise une adresse IP virtuelle référençant un groupe de routeurs.
 - **VoIP**           :  Voice over Internet Protocol           : Voix sur IP, utilisation pour la téléphonie
 - **VVoIP**          :  Voice and Video over Internet Protocol 
-_ **VTP**            :  
+- **VTP**            :  VLAN Trunking Protocol
 ## W
 - **WireGuard**      :  Protocole VPN                          : Autres (IPsec, OpenVPN)
