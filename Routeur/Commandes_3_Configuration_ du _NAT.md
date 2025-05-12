@@ -46,3 +46,16 @@ Overload permet pour plusieurs équipement interne d'avoir internet àtravers le
     ip nat inside source list NAT_ACL interface GigabitEthernet0/0/0/0 overload
 
     ip route 0.0.0.0 0.0.0.0 GigabitEthernet0/0/0
+
+-----
+#### Vérification du fonctionnement
+
+    show ip nat translations
+
+-----
+#### Sauvegarde de la configuratioin
+
+    Router# write memory
+
+
+    
