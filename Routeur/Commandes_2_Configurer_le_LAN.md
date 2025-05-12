@@ -49,7 +49,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 ----
 
 ### Configurer une adresse
-Router(config-if)
+Router(config-if)#
 
     ip address  192.168.100.1 255.255.255.0              
 
@@ -57,10 +57,14 @@ Router(config-if)
 
 ----
 ###  Marquer l'interface comme étant connectée au réseau interne LAN
+Router(config-if)#
+
      ip nat inside
 
 ----
 ### Activer l’interface
+Router(config-if)#
+
     no shutdown
 
 ----
