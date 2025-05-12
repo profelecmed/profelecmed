@@ -33,13 +33,15 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 **Router(config) #** est le mode de configuration globale.
 
 ----
-### Configuration NAT Static
+### Configuration NAT Static ,  Overload
    
 Router(config)# 
 
 Créer une Access-List pouur autorisé le réseau 192.168.100.0/24 
 
     ip access-list standard NAT_ACL permit 192.168.100.0 0.0.0.255
+
+Overload permet pour plusieurs équipement interne d'avoir internet àtravers le routeur.
 
     ip nat inside source list NAT_ACL interface GigabitEthernet0/0/0/0 overload
 
