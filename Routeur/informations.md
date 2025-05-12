@@ -6,4 +6,4 @@
 # Réseau
 
 WAN IP donnée en DHCP.
-LAN 
+LAN  IP 192.168.100.1/24 
