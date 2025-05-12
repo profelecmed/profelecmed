@@ -1,5 +1,8 @@
 # Configuration du NAT
 
+🚩 Vous devez avoir fait les étpaes Commandes_1 et Commandes_2 afin de configurer en premier les adressees Inside et outside.
+ ------
+
 ### Entrer en mode privilégié 
 Vous en mode utilisateur 
 **Router >**
