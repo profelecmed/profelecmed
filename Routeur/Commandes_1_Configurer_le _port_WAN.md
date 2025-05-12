@@ -47,6 +47,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 ----
 
 ### Configurer une adresse
+Router(config-if)#
 
 1️⃣ Cas ou vous êtes en mode DHCP, permet d'obtenir l'adresse IP et la passerelle via DHCP
     
@@ -60,14 +61,19 @@ Remùplacer l'adresse est le masque par les valeurs donnée par le FAI ou de vot
 
 ----
 ###  Marquer l'interface comme étant connectée au réseau externe/public WAN.
+Router(config-if)#
+
      ip nat outside
 
 ----
 ### Activer l’interface
+Router(config-if)#
+
     no shutdown
 
 ----
 ###  Quitter le mode de configuration interface 
+Router(config-if)#
 
     exit
 
