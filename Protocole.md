@@ -60,7 +60,7 @@
 ## U
 - **UDP**            :  User Datagram Protocol                 : Transmission de datagrammes sans connection.
 ## V
-- **VVRP**           :  Virtual Router Redundancy Protocol     : Il utilise une adresse IP virtuelle référençant un groupe de routeurs.
+- **VRRP**           :  Virtual Router Redundancy Protocol     : Il utilise une adresse IP virtuelle référençant un groupe de routeurs.
 - **VoIP**           :  Voice over Internet Protocol           : Voix sur IP, utilisation pour la téléphonie
 - **VVoIP**          :  Voice and Video over Internet Protocol 
 ## W
