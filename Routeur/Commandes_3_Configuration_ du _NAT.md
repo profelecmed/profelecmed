@@ -32,7 +32,7 @@ Par la suite pour revenir à ce niveau du mode commande, il suffira de taper « 
 ----
 ### Configuration NAT Static
    
-    ip access-list standard NAT_ACL permit 192.168.100.100 0.0.0.255
+    ip access-list standard NAT_ACL permit 192.168.100.0 0.0.0.255
 
     ip nat inside source list NAT_ACL interface GigabitEthernet0/0/0/0 overload
 
