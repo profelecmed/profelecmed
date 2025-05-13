@@ -41,8 +41,7 @@
 **Mistral AI**                                :    IA générative Française                                      :   https://auth.mistral.ai/ui/login?flow=09dfd2d8-7274-48e3-afef-19b128535c05
 
 ###    N
-**nperf** Permet d'obtenir Download et Upload en Mbps  
-https://www.nperf.com/fr/
+**nperf**                                     :     Permet d'obtenir Download et Upload en Mbps                 :   https://www.nperf.com/fr/
 
 ###   O
 **OSINT** :
