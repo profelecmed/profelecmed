@@ -1,6 +1,7 @@
 # LIENS:
 
 ###  A
+**AZERTY/QUERTY**                             :    Convertisseur QWERTY / AZERTY                                : https://html-et-caetera.com/azertyfy/
 
 ###  B
 **BASE64**                                    :    Décodage et Encodage                                         :   https://www.base64decode.org/fr/
