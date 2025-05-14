@@ -75,6 +75,10 @@ Il permet de packager des applications avec leurs dépendances.
 
       docker --help
 
+- Pour obtenir des informations sur votre docker.
+
+      docker info
+
 #### Commandes pour les images :
 
 - Télécharger une image docker depuis un dépot "ici Kalilinux en version rolling release"
