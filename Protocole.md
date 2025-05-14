@@ -22,6 +22,8 @@
     -    Adresses unicast & routables sur internet **2000::/3 à 3FFF**
     -    Adresses locales uniques **FC00::/7 et FDFF::/7.**
     -    Adressees locales lien , link-local     **fe80::/10**
+    -    Adresses multicast **FF00::/8**  , Adresses de groupes pour la communication multicast
+
 ## L
 - **LACP**           :  Link Aggregation Control Protocol      : Niveau 2de OSI.
 - **LDAP**           :  Lightweight Directory Access Protocol  : Il est utilisé pour l’authentification des services d’annuaire, type AD
