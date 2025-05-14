@@ -4,7 +4,10 @@
 qui comprennent plusieurs conteneurs.
 
 ### Dossier
-Il est constituer d'un fichier : **docker-compose.yml** , l'extension  **.yml** est pour un fichier **YAML** signifiant "Yet Another Markup Language", il regroupe les commandes pour lancer est configurer les différents conteneurs.
+Il est constituer de fichiers :
+- **docker-compose.yml** , l'extension  **.yml** est pour un fichier **YAML** signifiant "Yet Another Markup Language", il regroupe les commandes pour lancer est configurer les différents conteneurs.
+- **Dockerfile**
+- ....
 
 
 
