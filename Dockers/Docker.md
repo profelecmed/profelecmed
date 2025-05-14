@@ -55,7 +55,7 @@ Il permet de packager des applications avec leurs dépendances.
 
 ---- 
 
-## Vocabulaire docker
+## Terminologie docker
 
 ### Dockerfile
 - docker help
