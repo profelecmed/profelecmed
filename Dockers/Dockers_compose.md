@@ -3,14 +3,14 @@
 **docker-compose.yml**, c'est le fichier de construction multi-conteneurs (des images Docker , Paramètrages , Réseau, ...). Utiliser pour les applications
 qui comprennent plusieurs conteneurs.
 
-### Dossier
+## Dossier
 Il est constituer de fichiers :
 - **docker-compose.yml** , l'extension  **.yml** est pour un fichier **YAML** signifiant "Yet Another Markup Language", il regroupe les commandes pour lancer est configurer les différents conteneurs.
 - **Dockerfile**
 - ....
 
 
-
+## Début
 - Lancez le Docker Desktop
 
 - Dans le dossier faire **MAJ + Clic** droit puis cliquez sur **Ouvrir la fenêtre PowerShell ici** , Il faut être dans le bon répertoire!
