@@ -1,19 +1,20 @@
+ # Version de Docker Compose à utiliser
 version: '3.3'
 services:
 
-    #serveur de base de donnees
-    database:
-       image: 'mariadb:10.3'
+#serveur de base de donnees
+    database:  # Nom du premier service
+       image: 'mariadb:10.3' # Image Docker utilisée pour ce service
        container_name: database
        restart: always
-       environment:
+       environment: # Variables d'environnement
           - MYSQL_USER: user
           - MYSQL_PASSWORD: mypassword
           - MYSQL_DATABASE: my_database
           - MYSQL_ROOT_PASSWORD: rootpassword
         
        ports:
-           - '3306:3306'
+           - '3306:3306' # Mappage des ports
        volumes:
            - ${PWD}/mariadb/:/var/lib/mysql/
 
