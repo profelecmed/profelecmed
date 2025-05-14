@@ -102,3 +102,7 @@ Il permet de packager des applications avec leurs dépendances.
 - Démarrer un conteneur
 
          docker start hello-world
+
+- Supprimer un conteneur
+
+         docker rm hello-world
