@@ -19,6 +19,7 @@
 - **IP**             :  Internet Protocol                      : IPv4 ou IPv6
   - **IPv6** , La taille de l'adresse IPv6 est de 128 bits
     -    Adresse de bouclage      ::1
+    -    link-local     fe80::/10
 ## L
 - **LACP**           :  Link Aggregation Control Protocol      : Niveau 2de OSI.
 - **LDAP**           :  Lightweight Directory Access Protocol  : Il est utilisé pour l’authentification des services d’annuaire, type AD
