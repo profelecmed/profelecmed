@@ -36,6 +36,7 @@
 **Linux distribution**:
 - Débian documentations                                        :    https://debian-facile.org/wiki
 - Kali   documentation                                         :    https://www.kali.org/docs/
+- Mint                                                         :    https://linuxmint.com/
 - Ubuntu documentations                                        :    https://doc.ubuntu-fr.org/
 
 **Linux apprendre les commandes**:                 Gameshell                                                    :    https://github.com/phyver/GameShell
