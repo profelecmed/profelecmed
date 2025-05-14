@@ -98,3 +98,7 @@ Il permet de packager des applications avec leurs dépendances.
 - Arrêter un conteneur
 
          docker stop hello-world
+
+- Démarrer un conteneur
+
+         docker start hello-world
