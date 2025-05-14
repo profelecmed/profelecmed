@@ -93,7 +93,7 @@ Il permet de packager des applications avec leurs dépendances.
 
 - Supprimer une image
 
-   docker rmi hello-world
+         docker rmi hello-world
 
 
 - Afficher tous les conteneurs
