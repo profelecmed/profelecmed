@@ -18,6 +18,7 @@ application.
 ## Début
 - Lancez le Docker Desktop
 
+- Ouvrir le dossier contenant **docker-compose.yml**, 🚩 Il ne doit pas contenir d'espace, mettre un titre: titre_blabla_ok
 - Dans le dossier faire **MAJ + Clic** droit puis cliquez sur **Ouvrir la fenêtre PowerShell ici** , Il faut être dans le bon répertoire!
                   ...../.../.../monrépertoire#
 
