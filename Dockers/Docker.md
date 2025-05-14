@@ -1,6 +1,7 @@
 # Docker
 
 C'est une plateforme qui permet de créer, de déployer et de gérer des applications dans des conteneurs.
+Il permet de packager des applications avec leurs dépendances.
 
 - **Télécharger :** Docker Desktop (on Windows) https://docs.docker.com/desktop/setup/install/windows-install/
 
