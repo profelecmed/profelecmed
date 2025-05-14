@@ -29,6 +29,7 @@
 - **LDAP**           :  Lightweight Directory Access Protocol  : Il est utilisé pour l’authentification des services d’annuaire, type AD
 ## M
 - **MQTT**           :  Message Queuing Telemetry Transport    : Transmission de données IoT
+ -  Broker |  Clients  | Messages  
 ## N
 - **NDP**            : Neighbor Discovery Protocol             : Remplace ARPpour IPv6 et intègre des fonctions de sécurité.
 - **NTP**            :  Network Time Protocol                  : Protocole de synchronisation de réseau
