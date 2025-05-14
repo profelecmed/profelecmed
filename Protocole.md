@@ -18,8 +18,9 @@
 - **IMAP**           :  Internet Message Access Protocol       : Opposé au POP. Ici on consulte ses mails sur le serveur dirrectement.
 - **IP**             :  Internet Protocol                      : IPv4 ou IPv6
   - **IPv6** , La taille de l'adresse IPv6 est de 128 bits
-    -    Adresse de bouclage      ::1
-    -    Adressees locales lien , link-local     fe80::/10
+    -    Adresse de bouclage      **::1**
+    -    Adresses unicast & routable sur internet **2000::/3 à 3FFF**
+    -    Adressees locales lien , link-local     **fe80::/10**
 ## L
 - **LACP**           :  Link Aggregation Control Protocol      : Niveau 2de OSI.
 - **LDAP**           :  Lightweight Directory Access Protocol  : Il est utilisé pour l’authentification des services d’annuaire, type AD
