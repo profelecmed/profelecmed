@@ -20,7 +20,7 @@
   - **IPv6** , La taille de l'adresse IPv6 est de 128 bits
     -    Adresse de bouclage      **::1**    Localhost
     -    Adresses unicast & routables sur internet **2000::/3 à 3FFF**
-    -    
+    -    Adresses locales uniques **FC00::/7 et FDFF::/7.**
     -    Adressees locales lien , link-local     **fe80::/10**
 ## L
 - **LACP**           :  Link Aggregation Control Protocol      : Niveau 2de OSI.
