@@ -16,3 +16,11 @@ services:
            - '3306:3306'
        volumes:
            - ${PWD}/mariadb/:/var/lib/mysql/
+
+# attention à l'alignement!!!!
+    #client de la base de donnees
+    userclient:
+      image: 'mariadb:10.3'
+      container_name: 'userclient'
+      restart: 'no'
+      command: 'mysql -hdatabase -uuser -pmypassword my_database'
