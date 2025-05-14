@@ -9,6 +9,11 @@ Il est constituer de fichiers :
 - **Dockerfile**
 - ....
 
+## Vocabulaire
+- **Stack** , C'est un ensemble de services qui fonctionnent ensemble pour exécuter une
+application.
+- **Volume** , Permet de rendre les données du conteneur persistantes.
+
 
 ## Début
 - Lancez le Docker Desktop
