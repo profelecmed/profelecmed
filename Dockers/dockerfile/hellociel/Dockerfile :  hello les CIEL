@@ -1,3 +1,5 @@
+# Dockerfile :  hello les CIEL
+
 # Utilisation d'une image minimale basée sur Alpine
 FROM alpine:latest
 
