@@ -91,6 +91,10 @@ Il permet de packager des applications avec leurs dépendances.
 
          docker images
 
-- Afficher tous les containeurs
+- Afficher tous les conteneurs
 
          docker ps -a
+  
+- Arrêter un conteneur
+
+         docker stop hello-world
