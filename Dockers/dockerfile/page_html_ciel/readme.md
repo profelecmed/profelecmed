@@ -26,7 +26,9 @@ sous windows:
 * Ouvrir l’url:   http://localhost:8080/
 
 
-## Tests et remédiations
+
+
+# Tests et remédiations
 
 - Après la mise en service du site web Ciel que constatez vous ?
 - Modifier les éléments nécessaires pour le bon fonctionnement.
