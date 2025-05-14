@@ -61,10 +61,10 @@ Il permet de packager des applications avec leurs dépendances.
 - docker help
 - C'est un fichier texte contenant des instructionx afin de construire une image Docker.
 
-### Image Docker
+### 🖼️ Image Docker
 - Elle permet de créer un conteneur Docker avec (bibliothèques, dépendances,...) 
 
-### Conteneur docker
+### 🈴Conteneur docker
 - C'est une application produite à partir d'une image docker.
 
 ## Les commandes de bases Docker 
