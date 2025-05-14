@@ -91,6 +91,11 @@ Il permet de packager des applications avec leurs dépendances.
 
          docker images
 
+- Supprimer une image
+
+   docker rmi hello-world
+
+
 - Afficher tous les conteneurs
 
          docker ps -a
