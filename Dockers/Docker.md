@@ -75,6 +75,8 @@ Il permet de packager des applications avec leurs dépendances.
 
       docker --help
 
+#### Commandes pour les images :
+
 - Télécharger une image docker depuis un dépot "ici Kalilinux en version rolling release"
 
          docker pull kalilinux/kali-rolling
@@ -95,6 +97,8 @@ Il permet de packager des applications avec leurs dépendances.
 
          docker rmi hello-world
 
+
+#### Commandes pour les conteneurs :
 
 - Afficher tous les conteneurs
 
