@@ -7,9 +7,9 @@ services:
     image: mysql:5.7                         # Image Docker utilisée pour ce service, ici mysql:5.7  
     volumes:
       - db_data:/var/lib/mysql               # Lie le volume nommé 'db_data' au répertoire de données MySQL dans le conteneur
-    restart: always
+    restart: always                          # Redémarre automatiquement le conteneur en cas d'erreur
     environment:
-      MYSQL_ROOT_PASSWORD: somewordpress
+      MYSQL_ROOT_PASSWORD: motdepassehabituellab     # Définit le mot de passe de l'utilisateur root de MySQL, mettre notre mot de passe pour le lab.
       MYSQL_DATABASE: wordpress
       MYSQL_USER: wordpress
       MYSQL_PASSWORD: wordpress
