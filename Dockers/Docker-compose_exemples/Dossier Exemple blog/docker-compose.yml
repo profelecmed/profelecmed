@@ -22,9 +22,9 @@ services:
       - "8000:80"                                    # Expose le port 80 du conteneur sur le port 8000 de l'hôte
     restart: always                                  # Redémarre automatiquement le conteneur en cas d'erreur
     environment:
-      WORDPRESS_DB_HOST: db:3306
-      WORDPRESS_DB_USER: wordpress
-      WORDPRESS_DB_PASSWORD: wordpress
+      WORDPRESS_DB_HOST: db:3306                     # Indique à WordPress l'adresse et le port de la base de données MySQL (nom du service 'db' résolu par Docker)
+      WORDPRESS_DB_USER: wordpressuser               # Nom d'utilisateur pour se connecter à la base de données WordPress
+      WORDPRESS_DB_PASSWORD: motdepassehabituellab   # Mot de passe pour se connecter à la base de données WordPress , mettre notre mot de passe pour le lab.
       WORDPRESS_DB_NAME: wordpress
 volumes:
-  db_data: {}
+  db_data: {}                                        # Déclaration du volume nommé 'db_data' pour la persistance des données MySQL
