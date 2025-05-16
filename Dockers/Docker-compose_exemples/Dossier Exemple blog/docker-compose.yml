@@ -1,18 +1,18 @@
 # Exemple Docker-copmpse Blog wordpress
 
-version: "3.9"                               # Version de Docker Compose à utiliser
+version: "3.9"                                       # Version de Docker Compose à utiliser
 
 services:
-  db:                                        # Nom du premier service, ici une base de données
-    image: mysql:5.7                         # Image Docker utilisée pour ce service, ici mysql:5.7  
+  db:                                                # Nom du premier service, ici une base de données
+    image: mysql:5.7                                 # Image Docker utilisée pour ce service, ici mysql:5.7  
     volumes:
-      - db_data:/var/lib/mysql               # Lie le volume nommé 'db_data' au répertoire de données MySQL dans le conteneur
-    restart: always                          # Redémarre automatiquement le conteneur en cas d'erreur
+      - db_data:/var/lib/mysql                       # Lie le volume nommé 'db_data' au répertoire de données MySQL dans le conteneur
+    restart: always                                  # Redémarre automatiquement le conteneur en cas d'erreur
     environment:
       MYSQL_ROOT_PASSWORD: motdepassehabituellab     # Définit le mot de passe de l'utilisateur root de MySQL, mettre notre mot de passe pour le lab.
-      MYSQL_DATABASE: wordpress
-      MYSQL_USER: wordpress
-      MYSQL_PASSWORD: wordpress
+      MYSQL_DATABASE: wordpress                      # Crée une base de données nommée 'wordpress'
+      MYSQL_USER: wordpressuser                      # Crée un utilisateur MySQL nommé 'wordpressuser'
+      MYSQL_PASSWORD: motdepassehabituellab          # Définit le mot de passe de l'utilisateur , mettre notre mot de passe pour le lab.
 
   wordpress:
     depends_on:
