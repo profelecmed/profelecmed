@@ -1,13 +1,12 @@
 # Exemple Docker-copmpse Blog wordpress
 
-# Version de Docker Compose à utiliser
-version: "3.9"
+version: "3.9"                               # Version de Docker Compose à utiliser
 
 services:
-  db:                                        # Nom du premier service
-    image: mysql:5.7                         # Image Docker utilisée pour ce service
+  db:                                        # Nom du premier service, ici une base de données
+    image: mysql:5.7                         # Image Docker utilisée pour ce service, ici mysql:5.7  
     volumes:
-      - db_data:/var/lib/mysql
+      - db_data:/var/lib/mysql               # Lie le volume nommé 'db_data' au répertoire de données MySQL dans le conteneur
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: somewordpress
