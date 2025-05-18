@@ -6,6 +6,8 @@
 
 ✔️ Choisir les sites et dépôts officiels.
 
+✔️ Supprimer les logiciels et fonctionnalités obsolètes,
+
 ## Stratégie 3-2-1
 
 stratégie a mettre en place pour vos sauvegardes.
