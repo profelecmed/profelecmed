@@ -1,6 +1,6 @@
 # Cybersécurité 
 
-## stratégie 3-2-1
+## Stratégie 3-2-1
 
 stratégie a mettre en place pour vos sauvegardes.
 
@@ -10,7 +10,7 @@ stratégie a mettre en place pour vos sauvegardes.
 
 * copie hors site
 
-la strategie évolue, stratégie 3-2-1-1-0
+la strategie évolue, **stratégie 3-2-1-1-0**
 
 ✔️ **1** copie déconnectée 
 
