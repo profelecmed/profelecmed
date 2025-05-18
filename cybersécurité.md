@@ -1,6 +1,7 @@
 # Cybersécurité 
 
-#€ stratégie 3-2-1
+## stratégie 3-2-1
+
 stratégie a mettre en place pour vos sauvegardes.
 
 ✔️ Vos données en **3** copies (original + 2 backups)
@@ -8,3 +9,5 @@ stratégie a mettre en place pour vos sauvegardes.
 ✔️ **2** supports de sauvegardes
 
 ✔️ **1** copie hors site
+
+la strategie évolue, stratégie 3-2-1-1-1-0
