@@ -4,6 +4,8 @@
 
 ✔️ Autoriser que les mises à jour de sécurité s’installent automatiquement.
 
+✔️ Choisir les sites et dépôts officiels.
+
 ## Stratégie 3-2-1
 
 stratégie a mettre en place pour vos sauvegardes.
