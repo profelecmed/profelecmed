@@ -6,7 +6,7 @@
 
 ✔️ Choisir les sites et dépôts officiels.
 
-✔️ Supprimer les logiciels et fonctionnalités obsolètes,
+✔️ Supprimer les logiciels et fonctionnalités obsolètes.
 
 ## Stratégie 3-2-1
 
