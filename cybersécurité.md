@@ -2,6 +2,7 @@
 
 ## Mises à jour
 
+✔️ Autoriser que les mises à jour de sécurité s’installent automatiquement.
 
 ## Stratégie 3-2-1
 
