@@ -16,7 +16,7 @@ stratégie a mettre en place pour vos sauvegardes.
 
 ✔️ **2** supports de sauvegardes
 
-* copie hors site
+✔️ **1** copie hors site
 
 la strategie évolue, **stratégie 3-2-1-1-0**
 
