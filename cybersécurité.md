@@ -13,3 +13,5 @@ stratégie a mettre en place pour vos sauvegardes.
 la strategie évolue, stratégie 3-2-1-1-1-0
 
 ✔️ **1** copie déconnectée 
+
+✔️ Vérification des sauvegardes pour verifier qu'ilya **0** erreurs
