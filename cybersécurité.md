@@ -8,6 +8,8 @@ stratégie a mettre en place pour vos sauvegardes.
 
 ✔️ **2** supports de sauvegardes
 
-✔️ **1** copie hors site
+* copie hors site
 
 la strategie évolue, stratégie 3-2-1-1-1-0
+
+✔️ **1** copie déconnectée 
