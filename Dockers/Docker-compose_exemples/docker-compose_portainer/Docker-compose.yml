@@ -1,0 +1,12 @@
+version: '3'                                               # Version de Docker Compose à utiliser
+services:
+  portainer:                                               # Nom du premier service, ici portainers
+    image: portainer/portainer-ce                          # Image Docker utilisée pour ce service, ici portainer-ce 
+    ports:
+      - 9000:9000                                          # Expose le port 9000 du conteneur sur le port 9000 de l'hôte
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data
+    restart: always
+volumes:
+  portainer_data:
