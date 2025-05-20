@@ -1,3 +1,5 @@
+# Exemple Docker-copmpse pour portainer
+
 version: '3'                                               # Version de Docker Compose à utiliser
 services:
   portainer:                                               # Nom du premier service, ici portainers
