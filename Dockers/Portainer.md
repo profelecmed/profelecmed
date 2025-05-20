@@ -16,3 +16,4 @@
 * Dans votre navigateur
 
       http://localhost:9000
+Créer votre compte admin
