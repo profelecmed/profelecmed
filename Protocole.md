@@ -17,6 +17,8 @@
 - **ICMP**           :  Internet Control Message Protocol      : Détection des erreurs lors de transmission en TCP/IP, "Commande: ping"
 - **IMAP**           :  Internet Message Access Protocol       : Opposé au POP. Ici on consulte ses mails sur le serveur dirrectement.
 - **IP**             :  Internet Protocol                      : IPv4 ou IPv6
+  - **IPv4** , La taille de l'adresse IPv4 est de 32 bits
+    - IP/24 pour un masque 255.255.255.0
   - **IPv6** , La taille de l'adresse IPv6 est de 128 bits
     -    Adresse de bouclage      **::1**    Localhost
     -    Adresses unicast & routables sur internet **2000::/3 à 3FFF**
