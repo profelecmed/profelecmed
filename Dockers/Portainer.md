@@ -5,10 +5,11 @@
 ### Prérequis:
 
 - Installation de Docker
-- Installation de Portainer , utiliser le docker-compose dans le répertoire docker-compose_portainer
+- **Installation de Portainer** , utiliser le docker-compose dans le répertoire docker-compose_portainer
   - Pour déployer votre application (Démarre vos services et conteneurs):
 
-        docker-compose up
+        docker-compose up -d
+     -d afin d'éxécuter le conteneur en mode détaché.
 
 ### Accéder à l’interface web Portainer en local
 
