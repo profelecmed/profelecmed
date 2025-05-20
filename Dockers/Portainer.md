@@ -22,4 +22,4 @@ Créer votre compte admin , mettre notre mot de passe pour le lab pour l'adminst
 
 -  Cliquez sur **Environnement-related** puis **Environnements**
 -  Cliquez sur le docker **local** , il apparaît le menu image doicker **local**
--  Cliquez sur **Templates**
+-  Cliquez sur **Templates** puis choisir votre application à installer par exemple **Gitlab CE**
