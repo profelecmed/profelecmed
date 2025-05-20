@@ -35,7 +35,7 @@ Glossaire & Acronymes
  CE3M            :  Compatibilité ÉlectroMagnétique
  Chipset         :  Les chipsets sont des puces électroniques soudées sur la carte mère.
  CI              :  Circuit intégré
- CIDR            :  Classless Inter-Domain Routing
+ CIDR            :  Classless Inter-Domain Routing   /24 pour  255.255.255.0
  CLI             :  Command line interface, C’est une Interface en ligne de commande
  Cloud computing :  informatique en nuage : Applications web, stockage et traitement de données en ligne, ressources dans le nuage !
  Cluster         :  Ensemble de serveurs interconnectés pouvant travailler ensemble comme une seule ressource informatique intégrée.
