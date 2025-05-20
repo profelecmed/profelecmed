@@ -6,3 +6,9 @@
 
 - Installation de Docker
 - Installation de Portainer
+
+### Accéder à l’interface web Portainer en local
+
+* Dans votre navigateur
+
+      http://localhost:9000
