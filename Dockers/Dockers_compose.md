@@ -1,6 +1,6 @@
 # Docker Compose
 
-**docker-compose.yml**, c'est le fichier de construction multi-conteneurs (des images Docker , Paramètrages , Réseau, ...). Utiliser pour les applications
+**docker-compose.yml**, c'est le fichier de construction **multi-conteneurs** (des images Docker , Paramètrages , Réseau, ...). Utiliser pour les applications
 qui comprennent plusieurs conteneurs.
 
 ## Dossier
