@@ -16,4 +16,4 @@
 * Dans votre navigateur
 
       http://localhost:9000
-Créer votre compte admin
+Créer votre compte admin , mettre notre mot de passe pour le lab pour l'adminstrateur.
