@@ -7,6 +7,6 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - portainer_data:/data
-    restart: always
+    restart: always                                        # Redémarre automatiquement le conteneur en cas d'erreur
 volumes:
   portainer_data:
