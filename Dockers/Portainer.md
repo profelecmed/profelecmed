@@ -9,7 +9,7 @@
   - Pour déployer votre application (Démarre vos services et conteneurs):
 
         docker-compose up -d
-     -d afin d'éxécuter le conteneur en mode détaché.
+     **-d** afin d'éxécuter le conteneur en mode détaché.
 
 ### Accéder à l’interface web Portainer en local
 
