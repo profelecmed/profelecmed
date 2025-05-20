@@ -20,6 +20,6 @@ Créer votre compte admin , mettre notre mot de passe pour le lab pour l'adminst
 
 #### Utilisations
 
--  Cliquez **Environnement-related** puis **Environnements**
--  Cliquez sur le docker local , il apparaît le menu image doicker **local**
--  
+-  Cliquez sur **Environnement-related** puis **Environnements**
+-  Cliquez sur le docker **local** , il apparaît le menu image doicker **local**
+-  Cliquez sur **Templates**
