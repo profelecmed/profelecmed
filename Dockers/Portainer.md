@@ -1,3 +1,3 @@
 # Portainer
 
- Portainer permet de déploier, de gérer et la surveiller vos conteneurs avec une interface graphique.
+ Portainer permet dedéployer, de gérer et de surveiller vos conteneurs avec une interface graphique.
