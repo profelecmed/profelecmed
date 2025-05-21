@@ -23,6 +23,10 @@
 
 ✔️ Différents et complexe
 
+👍 **Gestionnaire de mots de passe**
+
+👍 **Double authentification**
+
 ## Sauvegarde : Stratégie 3-2-1
 
 stratégie a mettre en place pour vos sauvegardes.
