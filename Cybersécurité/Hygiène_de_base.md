@@ -17,6 +17,9 @@
 
 ✔️ Supprimer les logiciels et fonctionnalités obsolètes.
 
+## Mots de passe ≠ Passoire
+
+
 ## Sauvegarde : Stratégie 3-2-1
 
 stratégie a mettre en place pour vos sauvegardes.
