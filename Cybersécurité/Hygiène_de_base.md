@@ -19,6 +19,9 @@
 
 ## Mots de passe ≠ Passoire
 
+✔️ Changer les Mdp par défaut
+
+✔️
 
 ## Sauvegarde : Stratégie 3-2-1
 
