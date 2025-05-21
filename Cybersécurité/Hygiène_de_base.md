@@ -23,7 +23,7 @@
 
 ✔️ Différents et complexe
 
-👍 **Gestionnaire de mots de passe**
+✔️ Gestionnaire de mots de passe
 
 👍 **Double authentification**
 
