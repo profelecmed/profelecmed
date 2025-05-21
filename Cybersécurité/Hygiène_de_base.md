@@ -21,7 +21,7 @@
 
 ✔️ Changer les Mdp par défaut
 
-✔️
+✔️ Différents et complexe
 
 ## Sauvegarde : Stratégie 3-2-1
 
