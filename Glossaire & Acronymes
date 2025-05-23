@@ -21,7 +21,7 @@ Glossaire & Acronymes
  Asynchrone      :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
  Audit           :  Procédure de contrôle
 ---------------------------------------                                                                                                B
- Base64          :  Système d'encodage (26 lettres majuscules et 26 minuscule de A à Z, 10 chiffres de 0 à 9 , symboles + et / voici un exemple : **bGVzX2NpZWxfc29udF9sZXNfbWVpbGxldXI=**
+ Base64          :  Système d'encodage (26 lettres majuscules et 26 minuscule de A à Z, 10 chiffres de 0 à 9 , symboles + et / voici un exemple : bGVzX2NpZWxfc29udF9sZXNfbWVpbGxldXI=
  BDD             :  Base de données
  BIOS            :  Basic Input or Output System , sur les PC moderne c'est UEFI
  BLE             :  Bluetooth Low Energy
