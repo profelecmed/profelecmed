@@ -63,6 +63,9 @@
 
                   mode               |   Permet d'afficher les caractéristiques des ports com. 
 
+                  netstat -a         |   Cette commande affichera tous les ports en écoute sur votre PC ainsi que les connexions actives.
+
+
 ## Licence d'exploitation OEM :  
                   Original Equipment Manufacturer
                   Les logiciels OEM sont liés à l'achat d'un matériel.
