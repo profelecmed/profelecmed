@@ -65,6 +65,8 @@
 
                   netstat -a         |  Permet afficher tous les ports en écoute sur votre PC ainsi que les connexions actives.
 
+                  nslookup           |  Permet de diagnostiquer les problèmes liés au DNS
+
 
 ## Licence d'exploitation OEM :  
                   Original Equipment Manufacturer
