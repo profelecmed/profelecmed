@@ -1,5 +1,21 @@
 # Protocoles:
 
+- Modèle **TCP/IP**  : 4 Couches :  
+  * 4  Application
+  * 3  Transport
+  * 2  Internet
+  * 1  Accès réseau
+  
+- Modèle **OSI**     : 7 Couches :   Open Systems Interconnexion 
+   * 7  Application
+   * 6  Présentation
+   * 5  Session 
+   * 4  Transport
+   * 3  Réseau
+   * 2  Liaison de données
+   * 1  Physique
+
+
 ## A
 - **ARP**            :  Address Resolution Protocol            : Permet d'obtenir par une requête l'adresse MAC correspondant à l’adresse IP.
 ## D
