@@ -69,6 +69,7 @@
 - **Spanning-Tree**  :                                         : créer un chemin logique unique dans une architecture redondante.
 - **SPX**            :  Sequenced Packet Exchange              : Protocole de transmission qui est remplacé par TCP / IP.
 - **SSH**            :  Secure Shell                           : Sessions , transfert de fichiers de manière sécurisée
+- **SSL**            :  Secure Sockets Layer                   : Voir maintenant le protocole TLS.
 ## T
 - **Telnet**         :  TErminaL NETwork protocol              : Attention transmission en clair!
 - **TCP**            :  Transport Control Protocol             : Transmission de données fiable , détection et une correction d’erreurs
