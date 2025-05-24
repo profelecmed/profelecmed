@@ -72,20 +72,8 @@
 ## T
 - **Telnet**         :  TErminaL NETwork protocol              : Attention transmission en clair!
 - **TCP**            :  Transport Control Protocol             : Transmission de données fiable , détection et une correction d’erreurs
-- Modèle **TCP/IP**  : 4 Couches :  
-  * 4  Application
-  * 3  Transport
-  * 2  Internet
-  * 1  Accès réseau
-  
-- Modèle **OSI**     : 7 Couches :   Open Systems Interconnexion 
-   * 7  Application
-   * 6  Présentation
-   * 5  Session 
-   * 4  Transport
-   * 3  Réseau
-   * 2  Liaison de données
-   * 1  Physique
+- **TLS**            :  (Transport Layer Security              : Successeur du protocole SSL il a pour objectif le Chiffrement , l'authentification et la vérificatin de l'intégrité
+
 
 ## U
 - **UDP**            :  User Datagram Protocol                 : Transmission de datagrammes sans connection.
