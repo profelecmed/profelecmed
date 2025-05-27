@@ -19,7 +19,7 @@ Il permet de packager des applications avec leurs dépendances.
 
 ## **Test initial :**
 
-  - Lancer le Docker Desktop
+  - Lancer le **Docker Desktop**
   
    - Ouvrir le powershell , **MAJ + Clic**
 
