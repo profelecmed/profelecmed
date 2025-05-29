@@ -86,6 +86,6 @@ Router(config-if)#
 
   ou
 
-    running-config startup-config
+    copy running-config startup-config
  
 
