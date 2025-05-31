@@ -3,6 +3,13 @@ Exegol est une alternative a Kalilinux
 
 ## Pré-requis
 Voir la partie Dockers pour mise en place de docker sur votre machine.
+- Avoir pyhton3
+
+      python3 --version
+  
+  exemple ok : Python 3.13.3
+
+  si ce n'est pas le cas sous windows on peut l'installer avec Microsoft Store : Python3.13
 
 
 ## Commandes
