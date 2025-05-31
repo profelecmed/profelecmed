@@ -19,5 +19,6 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
 | ad |  ~40.0GB |
 |  full | ~51.7GB | 
 |  ight | ~17.4GB |
-|   sint | ~12.2GB |
+|   osint | ~12.2GB |
 
+Select an image by its name : exemple **osint**
