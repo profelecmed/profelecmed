@@ -11,6 +11,7 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
     exegol install
 
 Available images
+
 ┌───────────┬─────────┬───────────────┐
 │ Image tag │ Size    │ Status        │
 ├───────────┼─────────┼───────────────┤
