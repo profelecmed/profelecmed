@@ -12,7 +12,8 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
 
 ### Available images
 
-- Image tag , Size
+|    Image tag    |   Size |
+ |:-:    |:-:    |
 - nightly , ~51.9GB
 - web ,  ~24.7GB 
 - ad ,  ~40.0GB 
