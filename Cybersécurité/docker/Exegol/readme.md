@@ -1,4 +1,4 @@
-# Exegol 
+exegol install# Exegol 
 Exegol est une alternative a Kalilinux
 
 ## Pré-requis
@@ -16,9 +16,12 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
     python3 -m pip install exegol
 
 
-si pas à jour ,  A new release of pip is available: 24.3.1 -> 25.1.1
+🚩 si pas à jour ,  A new release of pip is available: 24.3.1 -> 25.1.1
 
       python.exe -m pip install --upgrade pip
+
+
+installation exegol
 
     exegol install
 
