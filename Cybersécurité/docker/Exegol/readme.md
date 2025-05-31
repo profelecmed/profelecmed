@@ -12,11 +12,11 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
 
 Available images
 
-- Image tag      │    Size
-- nightly        │ ~51.9GB
-- web       │ ~24.7GB 
-- ad        │ ~40.0GB 
--  full      │ ~51.7GB 
--  ight     │ ~17.4GB 
--   sint     │ ~12.2GB 
+- Image tag , Size
+- nightly , ~51.9GB
+- web ,  ~24.7GB 
+- ad ,  ~40.0GB 
+-  full , ~51.7GB 
+-  ight , ~17.4GB 
+-   sint , ~12.2GB 
 
