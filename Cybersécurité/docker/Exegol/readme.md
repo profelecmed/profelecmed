@@ -12,14 +12,11 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
 
 Available images
 
-┌───────────┬─────────┬───────────────┐
-│ Image tag │ Size    │ Status        │
-├───────────┼─────────┼───────────────┤
-│ nightly   │ ~51.9GB │ Not installed │
-│ web       │ ~24.7GB │ Not installed │
-│ ad        │ ~40.0GB │ Not installed │
-│ full      │ ~51.7GB │ Not installed │
-│ light     │ ~17.4GB │ Not installed │
-│ osint     │ ~12.2GB │ Not installed │
-└───────────┴─────────┴───────────────┘
+- Image tag      │    Size
+- nightly        │ ~51.9GB
+- web       │ ~24.7GB 
+- ad        │ ~40.0GB 
+-  full      │ ~51.7GB 
+-  ight     │ ~17.4GB 
+-   sint     │ ~12.2GB 
 
