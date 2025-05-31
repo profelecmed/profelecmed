@@ -21,4 +21,5 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
 |  ight | ~17.4GB |
 |   osint | ~12.2GB |
 
-Select an image by its name : exemple **osint**
+Select an image by its name : 
+- exemple **osint**
