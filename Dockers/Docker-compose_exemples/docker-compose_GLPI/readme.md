@@ -9,12 +9,12 @@
    - 000-default.conf
 - Dans le dossier faire MAJ + Clic droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
 
-## Etape 1
+## Etape 1 :
 - Pour déployer votre application (Démarre vos services et conteneurs):
 
         docker-compose up
 
-## Etape 2
+## Etape 2 :
 * Ouvrir l’url:   http://localhost/index.php
 
 ## Etape3 :
