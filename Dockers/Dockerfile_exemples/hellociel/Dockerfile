@@ -1,6 +1,7 @@
 # Dockerfile :  hello les CIEL
+# Fichier de personnalisation de l'image
 
-# Utilisation d'une image minimale basée sur Alpine
+# Sert à spécifier l'image de basée qui va être utilisé ici c'est l'image de Alpine
 FROM alpine:latest
 
 # Création d'un script de test avec le message modifié
