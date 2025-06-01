@@ -9,6 +9,7 @@ Application GLPI pour la gestion de parc informatique.
    - docker-compose.yml
    - Dockerfile
    - 000-default.conf
+   - init_glpi.sh
 - Dans le dossier faire MAJ + Clic droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
 
 ## Etape 1 :
