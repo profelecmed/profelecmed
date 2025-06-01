@@ -1,0 +1,28 @@
+version: '3.8'  # Spécifie la version du format Docker Compose utilisé.
+
+services:  # Début de la définition des services.
+
+  web:  # Nom du service web (Apache + PHP).
+    build: . # Utilisation du Dockerfile du répertoire courant
+    container_name: glpi_web  # Nom personnalisé pour le conteneur
+    ports:
+      - "80:80"  # Mapping des ports: le port 80 du conteneur est mappé sur le port 80 de l'hôte.
+    depends_on:
+      - db  # Ce service dépend du service 'db', donc 'db' est lancé en premier.
+    restart: always  # Politique de redémarrage : redémarre toujours le conteneur si celui-ci s'arrête.
+
+  db:  # Nom du service de base de données (MariaDB).
+    image: mariadb:11.2  # Image Docker à utiliser pour ce service
+    container_name: glpi_db  # Nom personnalisé pour le conteneur
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword  # Mot de passe pour l'utilisateur 'root' de MySQL.
+      MYSQL_DATABASE: glpidb  # Nom de la base de données à créer automatiquement.
+      MYSQL_USER: glpiuser  # Nom de l'utilisateur MySQL à créer.
+      MYSQL_PASSWORD: glpipassword  # Mot de passe pour l'utilisateur MySQL.
+    volumes:
+      - glpi_db:/var/lib/mysql
+      # Création d'un volume pour la persistance des données de la bdd.
+    restart: always  # Politique de redémarrage : redémarre toujours le conteneur si celui-ci s'arrête.
+
+volumes:  # Début de la définition des volumes Docker.
+  glpi_db:  # Nom du volume Docker pour la persistance des données de MariaDB.
