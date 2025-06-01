@@ -1,6 +1,8 @@
 # GLPI
 Application GLPI pour la gestion de parc informatique.
-
+On va créer 2 conteneurs.
+* glpi_web
+* glpi_db
 
 ## Prérequis:
 - Créer un dossier sur le bureau
