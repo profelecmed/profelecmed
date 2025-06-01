@@ -1,6 +1,9 @@
 # GLPI
 
 ## Prérequis:
+- Créer un dossier sur le bureau
+- Nommer le dossier sans espace, Exemple htmlciel
+- Copier vos fichiers
 - Dans le dossier faire MAJ + Clic droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
 
 ## Etape 1
