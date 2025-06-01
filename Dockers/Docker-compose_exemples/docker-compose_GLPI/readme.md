@@ -17,3 +17,6 @@
 ## Etape 2
 * Ouvrir l’url:   http://localhost/index.php
 
+## Etape3 :
+* Changement du mot de passe.
+   * Noter le mot de passe administrateur du lab    
