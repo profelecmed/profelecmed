@@ -2,7 +2,7 @@
 
 ## Prérequis:
 - Créer un dossier sur le bureau
-- Nommer le dossier sans espace, Exemple htmlciel
+- Nommer le dossier sans espace, Exemple docker_compose_glpi
 - Copier vos fichiers
 - Dans le dossier faire MAJ + Clic droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
 
