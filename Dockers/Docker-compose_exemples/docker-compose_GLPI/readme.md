@@ -15,4 +15,5 @@
         docker-compose up
 
 ## Etape 2
-* Ouvrir l’url:   http://localhost:8080/
+* Ouvrir l’url:   [http://localhost:8080/](http://localhost/index.php
+)
