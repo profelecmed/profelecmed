@@ -4,9 +4,9 @@
 - Créer un dossier sur le bureau
 - Nommer le dossier sans espace, Exemple docker_compose_glpi
 - Copier vos fichiers
-          - docker-compose.yml
-          - Dockerfile
-          - 000-default.conf
+   - docker-compose.yml
+   - Dockerfile
+   - 000-default.conf
 - Dans le dossier faire MAJ + Clic droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
 
 ## Etape 1
