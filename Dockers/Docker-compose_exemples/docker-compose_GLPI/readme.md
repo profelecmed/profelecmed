@@ -14,10 +14,12 @@
 ## Etape 1 :
 - Pour déployer votre application (Démarre vos services et conteneurs):
 
-        docker-compose up
+        docker-compose up --build -d
 
 ## Etape 2 :
 * Ouvrir l’url:   http://localhost/index.php
+* identifiant : glpi
+* mot de passe : glpi
 
 ## Etape3 :
 * Changement du mot de passe.
