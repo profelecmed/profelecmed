@@ -20,6 +20,7 @@ Application GLPI pour la gestion de parc informatique.
 * Ouvrir l’url:   http://localhost/index.php
 * identifiant : glpi
 * mot de passe : glpi
+* init_glpi.sh
 
 ## Etape3 :
 * Changement du mot de passe.
