@@ -41,5 +41,7 @@ Select an image by its name :
 - exemple **osint**
 - exegol install osint
 
-### informations sur les images et container 
+#### informations sur les images et container 
 - exegol info
+
+- exegol start democontener osint
