@@ -40,3 +40,6 @@ installation exegol
 Select an image by its name : 
 - exemple **osint**
 - exegol install osint
+
+### informations sur les images et container 
+- exegol info
