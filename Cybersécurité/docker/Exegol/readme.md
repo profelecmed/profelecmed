@@ -48,3 +48,7 @@ Select an image by its name :
 Son nom est democonteneur
 
 - exegol start democonteneur osint
+
+on peut avoir un environnement graphique. 
+
+- exegol start democonteneur osint --desktop
