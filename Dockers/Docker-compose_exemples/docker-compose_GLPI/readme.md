@@ -1,6 +1,7 @@
 # GLPI
 
 ## Prérequis:
+- Dans le dossier faire MAJ + Clic droit puis cliquez sur Ouvrir la fenêtre PowerShell ici
 
 ## Etape 1
 - Pour déployer votre application (Démarre vos services et conteneurs):
