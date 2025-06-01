@@ -39,3 +39,4 @@ installation exegol
 
 Select an image by its name : 
 - exemple **osint**
+- exegol install osint
