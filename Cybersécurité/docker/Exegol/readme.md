@@ -44,4 +44,7 @@ Select an image by its name :
 #### informations sur les images et container 
 - exegol info
 
-- exegol start democontener osint
+#### créer un nouveau conteneur
+Son nom est democonteneur
+
+- exegol start democonteneur osint
