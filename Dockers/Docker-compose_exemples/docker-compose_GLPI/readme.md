@@ -1,5 +1,5 @@
 # GLPI
-
+Application glpi pour la gestion de parc informatique.
 
 
 ## Prérequis:
