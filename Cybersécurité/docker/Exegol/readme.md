@@ -1,4 +1,4 @@
-exegol install
+2exegol install
 # Exegol 
 Exegol est une alternative a Kalilinux
 
@@ -52,3 +52,5 @@ Son nom est democonteneur
 on peut avoir un environnement graphique. 
 
 - exegol start democonteneur osint --desktop
+
+On aura un lien vers localhost et un port. ainsi que l'id et mdp
