@@ -21,6 +21,7 @@ On va créer 2 conteneurs.
 
 ## Etape 2 :
 * Ouvrir l’url:   http://localhost/index.php
+* Se reconnecter.
 * Identifiant : glpi
 * Mot de passe : glpi
 
