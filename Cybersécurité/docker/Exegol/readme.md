@@ -153,10 +153,9 @@ Son nom est democonteneurgraph
 
  Container summary
 
-│             Name │ exegolcontainerosint1               │
+│  Name │ exegolcontainerosint1    │
 |:-:    |:-:    |
-│            Image │ osint - v.3.1.6 (Up to date)          │
-├──────────────────┼───────────────────────────────────────┤
+│   Image │ osint - v.3.1.6 (Up to date)      │
 │      Credentials │ root : g5yg2jBNqoLz7Ye0Dmf8pFUFqyDFhk │
 │   Remote Desktop │ Off 🪓                                │
 │      Console GUI │ On ✔ ()                               │
@@ -167,7 +166,7 @@ Son nom est democonteneurgraph
 │    Shell logging │ Off 🪓                                │
 │       Privileged │ Off ✔                                 │
 │        Workspace │ Dedicated (/workspace)                │
-└──────────────────┴───────────────────────────────────────┘
+
 
 On aura un lien vers localhost et un port. ainsi que l'id et mdp
 
