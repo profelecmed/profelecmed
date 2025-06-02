@@ -150,3 +150,5 @@ Son nom est democonteneurgraph
 
 
 On aura un lien vers localhost et un port. ainsi que l'id et mdp
+
+http://localhost/index.php
