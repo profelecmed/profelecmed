@@ -152,8 +152,9 @@ Son nom est democonteneurgraph
 |  full | ~51.7GB | Not installed |
 
  Container summary
-┌──────────────────┬───────────────────────────────────────┐
+
 │             Name │ exegolcontainerosint1               │
+|:-:    |:-:    |
 │            Image │ osint - v.3.1.6 (Up to date)          │
 ├──────────────────┼───────────────────────────────────────┤
 │      Credentials │ root : g5yg2jBNqoLz7Ye0Dmf8pFUFqyDFhk │
