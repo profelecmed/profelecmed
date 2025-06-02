@@ -9,7 +9,7 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
   
   Exemple ok : Python 3.13.3
 
-  🚩 Si ce n'est pas le cas sous windows on peut l'installer avec Microsoft Store : Python3.13
+  🚩 Si ce n'est pas le cas sous windows on peut l'installer avec Microsoft Store : Python3.13 ou https://www.python.org/downloads/?lang=fr
 
 - Avoir pip
 
