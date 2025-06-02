@@ -28,7 +28,7 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
 
   🚩 si pas installé : https://git-scm.com/downloads/win
   
-  Exemple ok : 
+  Exemple ok : git version 2.49.0.windows.1
 
 - Avoir docker
 
