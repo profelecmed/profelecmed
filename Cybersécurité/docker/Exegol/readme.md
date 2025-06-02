@@ -37,7 +37,7 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
   Exemple ok : Docker version 28.0.1, build 068a01e
 
 
-## 1 Commandes
+## 1 installation exegol
     python3 -m pip install exegol
 
 
@@ -88,6 +88,10 @@ Select an image by its name :
 
 ✖️ ici pas encore de conteneurs
 
+
+
+## 2 installation image exegol
+
 ### installer une nouvelle image
 
       exegol install osint
@@ -110,13 +114,18 @@ Select an image by its name :
 
 ✖️ ici pas encore de conteneurs
 
-#### créer un nouveau conteneur
+## 3 Création conteneurs exegol
+
+Conteneurs exegol en CLI ou environnement graphique
+
+#### créer un nouveau conteneur en cli
 Son nom est democonteneur
 
-- exegol start democonteneur osint
+      exegol start democonteneur osint
 
-on peut avoir un environnement graphique. 
+#### créer un nouveau conteneur avec environnement graphique
+Son nom est democonteneurgraph
 
-- exegol start democonteneur osint --desktop
+      exegol start democonteneurgraph osint --desktop
 
 On aura un lien vers localhost et un port. ainsi que l'id et mdp
