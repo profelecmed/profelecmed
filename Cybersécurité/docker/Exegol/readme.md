@@ -132,10 +132,10 @@ Son nom est democonteneurgraph
       exegol start democonteneurosintgraph osint --desktop
 
 - do you want exegol install one automaticaly ubuntu ? [Y:n]
-- Choisir Y
+      - Choisir Y
 
 - Enter new UNIX username:
-- Choisir patron
+      - Choisir patron
 
 
 |    Image tag    |   Size | Status |
