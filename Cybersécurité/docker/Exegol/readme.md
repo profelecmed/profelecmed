@@ -123,13 +123,15 @@ Conteneurs exegol en CLI ou environnement graphique
 
 Son nom est democonteneur
 
-      exegol start democonteneur osint
+      exegol start democonteneurosint osint
 
 #### 3.2 Créer un nouveau conteneur avec environnement graphique
 
 Son nom est democonteneurgraph
 
-      exegol start democonteneurgraph osint --desktop
+      exegol start democonteneurosintgraph osint --desktop
+
+- do you want exegol install ubuntu , choisir Y
 
 |    Image tag    |   Size | Status |
 |:-:    |:-:    |:-:    |
