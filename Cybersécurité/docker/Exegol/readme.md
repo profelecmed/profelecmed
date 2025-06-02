@@ -78,12 +78,12 @@ Select an image by its name :
 
 |    Image tag    |   Size | Status |
 |:-:    |:-:    |:-:    |
+|  light | ~17.4GB | Up to date (V.3..6) |
 | nightly | ~51.9GB | Not installed |
 | web |  ~24.7GB | Not installed |
 | ad |  ~40.0GB | Not installed |
 |  full | ~51.7GB | Not installed |
-|  light | ~17.4GB | installed |
-|   osint | ~12.2GB| Not installed |
+|   osint | ~12.2GB| installed |
 
 ✖️ ici pas encore de conteneurs
 
@@ -105,12 +105,13 @@ Select an image by its name :
 
 |    Image tag    |   Size | Status |
 |:-:    |:-:    |:-:    |
+|  light | ~17.4GB | Up to date (V.3..6) |
+|   osint | ~12.2GB| Up to date (V.3..6) |
 | nightly | ~51.9GB | Not installed |
 | web |  ~24.7GB | Not installed |
 | ad |  ~40.0GB | Not installed |
 |  full | ~51.7GB | Not installed |
-|  light | ~17.4GB | installed |
-|   osint | ~12.2GB| installed |
+
 
 ✖️ ici pas encore de conteneurs
 
@@ -132,13 +133,12 @@ Son nom est democonteneurgraph
 
 |    Image tag    |   Size | Status |
 |:-:    |:-:    |:-:    |
+|  light | ~17.4GB | Up to date (V.3..6) |
+|   osint | ~12.2GB| Up to date (V.3..6) |
 | nightly | ~51.9GB | Not installed |
 | web |  ~24.7GB | Not installed |
 | ad |  ~40.0GB | Not installed |
 |  full | ~51.7GB | Not installed |
-|  light | ~17.4GB | installed |
-|   osint | ~12.2GB| installed |
-
 
 
 
