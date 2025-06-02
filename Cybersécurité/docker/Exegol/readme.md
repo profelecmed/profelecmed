@@ -73,7 +73,7 @@ Select an image by its name :
 
       exegol info
 
-   * version 14.3.11
+   * version v4.3.11
 
 
 |    Image tag    |   Size | Status |
