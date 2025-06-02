@@ -24,6 +24,13 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
 
       python.exe -m pip install --upgrade pip
 
+- Avoir docker
+
+      docker --version
+  
+  Exemple ok : Docker version 28.0.1, build 068a01e
+
+
 ## Commandes
     python3 -m pip install exegol
 
