@@ -118,14 +118,28 @@ Select an image by its name :
 
 Conteneurs exegol en CLI ou environnement graphique
 
-#### créer un nouveau conteneur en cli
+#### 3.1 Créer un nouveau conteneur en cli
+
 Son nom est democonteneur
 
       exegol start democonteneur osint
 
-#### créer un nouveau conteneur avec environnement graphique
+#### 3.2 Créer un nouveau conteneur avec environnement graphique
+
 Son nom est democonteneurgraph
 
       exegol start democonteneurgraph osint --desktop
+
+|    Image tag    |   Size | Status |
+|:-:    |:-:    |:-:    |
+| nightly | ~51.9GB | Not installed |
+| web |  ~24.7GB | Not installed |
+| ad |  ~40.0GB | Not installed |
+|  full | ~51.7GB | Not installed |
+|  light | ~17.4GB | installed |
+|   osint | ~12.2GB| installed |
+
+
+
 
 On aura un lien vers localhost et un port. ainsi que l'id et mdp
