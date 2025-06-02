@@ -55,12 +55,12 @@ installation exegol
 | web |  ~24.7GB |
 | ad |  ~40.0GB |
 |  full | ~51.7GB | 
-|  ight | ~17.4GB |
+|  light | ~17.4GB |
 |   osint | ~12.2GB |
 
 Select an image by its name : 
-- exemple **osint**
-- exegol install osint
+- exemple **light**
+- exegol install light
 
 #### Vérification installation exegol
 
@@ -75,6 +75,10 @@ Select an image by its name :
       exegol info
 
    * version 14.3.11
+
+### installer une nouvelle image
+
+      exegol install osint
 
 #### créer un nouveau conteneur
 Son nom est democonteneur
