@@ -157,7 +157,7 @@ Son nom est democonteneurgraph
 |    Name    |   exegolcontainerosint1 |
 |    Image    |   osint - v.3.1.6 (Up to date) |
 |:-:    |:-:    |
-|  Credential | root : MHOyLSkabjL5kRcnf2nO2O2aAZdNC3 | 
+|  Credentials | root : MHOyLSkabjL5kRcnf2nO2O2aAZdNC3 | 
 |   Remote Desktop     |   [On ✔](http://localhost:51023) |
 
 
