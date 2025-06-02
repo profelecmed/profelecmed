@@ -1,4 +1,3 @@
-2exegol install
 # Exegol 
 Exegol est une alternative a Kalilinux
 
