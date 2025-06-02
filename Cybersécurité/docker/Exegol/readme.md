@@ -70,7 +70,7 @@ Select an image by its name :
 
       python3 -m site --user-site
 
-#### informations sur les images et container 
+#### informations sur les images et conteneur 
 
       exegol info
 
@@ -85,6 +85,8 @@ Select an image by its name :
 |  full | ~51.7GB | Not installed |
 |  light | ~17.4GB | installed |
 |   osint | ~12.2GB| Not installed |
+
+✖️ ici pas encore de conteneurs
 
 ### installer une nouvelle image
 
