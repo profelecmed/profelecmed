@@ -74,7 +74,7 @@ Select an image by its name :
 
       exegol info
 
-      * version 14.3.11
+   * version 14.3.11
 
 #### créer un nouveau conteneur
 Son nom est democonteneur
