@@ -92,6 +92,24 @@ Select an image by its name :
 
       exegol install osint
 
+#### informations sur les images et conteneur 
+
+      exegol info
+
+   * version 14.3.11
+
+
+|    Image tag    |   Size | Status |
+|:-:    |:-:    |:-:    |
+| nightly | ~51.9GB | Not installed |
+| web |  ~24.7GB | Not installed |
+| ad |  ~40.0GB | Not installed |
+|  full | ~51.7GB | Not installed |
+|  light | ~17.4GB | installed |
+|   osint | ~12.2GB| installed |
+
+✖️ ici pas encore de conteneurs
+
 #### créer un nouveau conteneur
 Son nom est democonteneur
 
