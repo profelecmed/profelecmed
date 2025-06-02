@@ -71,7 +71,10 @@ Select an image by its name :
       python3 -m site --user-site
 
 #### informations sur les images et container 
-- exegol info
+
+      exegol info
+
+      * version 14.3.11
 
 #### créer un nouveau conteneur
 Son nom est democonteneur
