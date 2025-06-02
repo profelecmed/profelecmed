@@ -131,7 +131,8 @@ Son nom est democonteneurgraph
 
       exegol start democonteneurosintgraph osint --desktop
 
-- do you want exegol install ubuntu , choisir Y
+- do you want exegol install one automaticaly ubuntu ? [Y:n]
+- Choisir Y
 
 |    Image tag    |   Size | Status |
 |:-:    |:-:    |:-:    |
