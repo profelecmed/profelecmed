@@ -2,7 +2,7 @@
 # Exegol 
 Exegol est une alternative a Kalilinux
 
-## Pré-requis
+## 0 Pré-requis
 Voir la partie Dockers pour mise en place de docker sur votre machine.
 - Avoir pyhton3
 
@@ -37,7 +37,7 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
   Exemple ok : Docker version 28.0.1, build 068a01e
 
 
-## Commandes
+## 1 Commandes
     python3 -m pip install exegol
 
 
@@ -75,6 +75,14 @@ Select an image by its name :
       exegol info
 
    * version 14.3.11
+  |    Image tag    |   Size | Status |
+ |:-:    |:-:    |:-:    |
+| nightly | ~51.9GB | Not installed |
+| web |  ~24.7GB | Not installed |
+| ad |  ~40.0GB | Not installed |
+|  full | ~51.7GB | Not installed |
+|  light | ~17.4GB | installed |
+|   osint | ~12.2GB| Not installed |
 
 ### installer une nouvelle image
 
