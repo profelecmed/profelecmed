@@ -46,6 +46,10 @@ installation exegol
 
     exegol install
 
+### Lancer exegol
+
+      python -m exegol start
+
 ### Available images
 
 |    Image tag    |   Size |
