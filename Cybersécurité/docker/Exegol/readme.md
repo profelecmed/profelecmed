@@ -154,21 +154,13 @@ Son nom est democonteneurgraph
  Container summary
 
 |    Name    |   exegolcontainerosint1 |
+|    Image    |   osint - v.3.1.6 (Up to date) |
 |:-:    |:-:    |
 |  Credential | root : MHOyLSkabjL5kRcnf2nO2O2aAZdNC3 | 
+|   Remote Desktop     |   [On ✔](http://localhost:51023) |
 
 
-│   Image │ osint - v.3.1.6 (Up to date)      │
-│      Credentials │ root : g5yg2jBNqoLz7Ye0Dmf8pFUFqyDFhk │
-│   Remote Desktop │ Off 🪓                                │
-│      Console GUI │ On ✔ ()                               │
-│          Network │ bridge                                │
-│         Timezone │ On ✔                                  │
-│ Exegol resources │ On ✔ (/opt/resources)                 │
-│     My resources │ On ✔ (/opt/my-resources)              │
-│    Shell logging │ Off 🪓                                │
-│       Privileged │ Off ✔                                 │
-│        Workspace │ Dedicated (/workspace)                │
+
 
 
 On aura un lien vers localhost et un port. ainsi que l'id et mdp
