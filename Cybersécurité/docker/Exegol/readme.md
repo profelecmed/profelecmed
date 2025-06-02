@@ -56,6 +56,9 @@ Select an image by its name :
 - exemple **osint**
 - exegol install osint
 
+#### Vérification exegol
+- python3 -m pip show exegol
+
 #### informations sur les images et container 
 - exegol info
 
