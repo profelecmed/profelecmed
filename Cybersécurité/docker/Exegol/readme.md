@@ -18,8 +18,7 @@ Voir la partie Dockers pour mise en place de docker sur votre machine.
   
   Exemple ok : pip 25.1.1
 
-  🚩 Si ce n'est pas le cas sous windows on peut l'installer avec Microsoft Store : Python3.13
-
+  🚩 Si ce n'est pas le cas 
 
 ## Commandes
     python3 -m pip install exegol
