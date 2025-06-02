@@ -93,7 +93,8 @@ Select an image by its name :
 ## 2 installation image exegol
 
 ### installer une nouvelle image
-
+- exemple image **osint**
+  
       exegol install osint
 
 #### informations sur les images et conteneur 
