@@ -75,8 +75,10 @@ Select an image by its name :
       exegol info
 
    * version 14.3.11
-  |    Image tag    |   Size | Status |
- |:-:    |:-:    |:-:    |
+
+
+|    Image tag    |   Size | Status |
+|:-:    |:-:    |:-:    |
 | nightly | ~51.9GB | Not installed |
 | web |  ~24.7GB | Not installed |
 | ad |  ~40.0GB | Not installed |
