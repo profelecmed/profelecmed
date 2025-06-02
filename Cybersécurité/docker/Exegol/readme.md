@@ -134,6 +134,10 @@ Son nom est democonteneurgraph
 - do you want exegol install one automaticaly ubuntu ? [Y:n]
 - Choisir Y
 
+- Enter new UNIX username:
+- Choisir patron
+
+
 |    Image tag    |   Size | Status |
 |:-:    |:-:    |:-:    |
 |  light | ~17.4GB | Up to date (V.3..6) |
