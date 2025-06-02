@@ -59,6 +59,10 @@ Select an image by its name :
 #### Vérification installation exegol
 
       python3 -m pip show exegol
+      
+#### Trouver le chemin d'accès
+
+      python3 -m site --user-site
 
 #### informations sur les images et container 
 - exegol info
