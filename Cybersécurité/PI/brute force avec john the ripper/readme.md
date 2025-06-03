@@ -2,18 +2,19 @@
 
 ##### Support : Raspberry Pi
 
-## Prérequis :
+### Prérequis :
 
-### Mettre à jour le système.
+#### Mettre à jour le système.
 
-Ouvrit le terminal:
+* Ouvrit le terminal:
 
-Télécharge les dernières informations sur les paquets
+* Télécharge les dernières informations sur les paquets
 
-    sudo apt update
+       sudo apt update
 
-Télécharge et installe les nouvelles versions des paquets 
+* Télécharge et installe les nouvelles versions des paquets 
 
-    sudo apt upgrade
+        sudo apt upgrade
 
-## Installer le démon **Snap**
+### Installer le démon **Snap**
+
