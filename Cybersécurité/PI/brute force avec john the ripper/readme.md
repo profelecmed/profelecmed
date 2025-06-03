@@ -2,5 +2,13 @@
 
 ##### Support : Raspberry Pi
 
-### Prérequis :
+## Prérequis :
 
+### Mettre à jour le système.
+
+Ouvrit le terminal:
+
+    sudo apt update
+
+    sudo apt upgrade
+    
