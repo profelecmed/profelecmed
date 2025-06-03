@@ -8,8 +8,11 @@
 
 Ouvrit le terminal:
 
+Télécharge les dernières informations sur les paquets
+
     sudo apt update
 
+Télécharge et installe les nouvelles versions des paquets 
 
     sudo apt upgrade
 
