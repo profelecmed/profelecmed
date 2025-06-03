@@ -28,3 +28,7 @@ Redémarrer
 
        sudo snap install john-the-ripper
 
+### Vérifier l'installation de **John the Ripper**
+
+       john --version
+
