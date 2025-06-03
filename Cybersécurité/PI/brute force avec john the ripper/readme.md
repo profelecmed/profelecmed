@@ -24,11 +24,13 @@ Redémarrer
 
        sudo reboot
 
-### Installer le snapd de **John the Ripper**
+#### Installer le snapd de **John the Ripper**
 
        sudo snap install john-the-ripper
 
-### Vérifier l'installation de **John the Ripper**
+#### Vérifier l'installation de **John the Ripper**
 
        john --version
+
+
 
