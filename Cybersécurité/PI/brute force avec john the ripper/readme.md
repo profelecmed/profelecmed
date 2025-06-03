@@ -10,5 +10,6 @@ Ouvrit le terminal:
 
     sudo apt update
 
+
     sudo apt upgrade
     
