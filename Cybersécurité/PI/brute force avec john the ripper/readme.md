@@ -12,4 +12,5 @@ Ouvrit le terminal:
 
 
     sudo apt upgrade
-    
+
+## Installer le démon **Snap**
