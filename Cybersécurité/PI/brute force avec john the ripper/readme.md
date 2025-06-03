@@ -16,7 +16,7 @@ Support : Raspberry Pi
 
         sudo apt upgrade
 
-### Installer le démon **Snap**
+#### Installer le démon **Snap**
 
        sudo apt install snapd
 
