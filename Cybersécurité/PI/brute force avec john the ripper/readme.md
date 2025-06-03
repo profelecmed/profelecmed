@@ -1,8 +1,8 @@
 # brute force avec john the ripper
 
-##### Support : Raspberry Pi
+Support : Raspberry Pi
 
-### Prérequis :
+## Prérequis :
 
 #### Mettre à jour le système.
 
@@ -17,4 +17,14 @@
         sudo apt upgrade
 
 ### Installer le démon **Snap**
+
+       sudo apt install snapd
+
+Redémarrer
+
+       sudo reboot
+
+### Installer le snapd de **John the Ripper**
+
+       sudo snap install john-the-ripper
 
