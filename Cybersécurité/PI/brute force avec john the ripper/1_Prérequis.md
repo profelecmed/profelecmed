@@ -31,7 +31,8 @@ où est-il installé ?
        which john
 
 Réponse possible si installé : /usr/bin/john
-       john --version
+       
+       apt list --installed | grep john
 
 
 
