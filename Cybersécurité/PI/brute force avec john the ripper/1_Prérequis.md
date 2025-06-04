@@ -26,6 +26,11 @@ Redémarrer
 
 #### Vérifier l'installation de **John the Ripper**
 
+où est-il installé ?
+
+       which john
+
+Réponse possible si installé : /usr/bin/john
        john --version
 
 
