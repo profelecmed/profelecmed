@@ -33,6 +33,10 @@ où est-il installé ?
 Réponse possible si installé : /usr/bin/john
        
        apt list --installed | grep john
+Réponse possbile : john/stable,now 1.9.0-1 armhf [installé]
 
+Voir les informations **John the Ripper**:
+
+       apt show john
 
 
