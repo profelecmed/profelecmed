@@ -45,4 +45,7 @@ Copier le fichier Secret.7é dans le répertoire dirjohn
 
 Ouvrir un terminal:
 se rendre dans le répertoire dirjohn sur le bureau
+faire ls et virifier qu'il il a bien le ficher Secret.7z
+7z2john Secret.7z > Secret.txt
+faire ls et virifier qu'il il a bien le ficher Secret.txt
 
