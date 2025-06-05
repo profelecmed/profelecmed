@@ -26,4 +26,8 @@ Vous devez découvrir les informations contenues dans le fichier Secret.7z
        apt show john
 Si cela ne fonctionne pas vous devez voir la partie 1 Prérequis
 
+Créer sur le Desktop un répertoire dirjohn
 
+Télécharger le fichier Secret.7Z
+
+Copier le fichier Secret.7é dans le répertoire dirjohn
