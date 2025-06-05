@@ -19,11 +19,19 @@ Vous devez découvrir les informations contenues dans le fichier Secret.7z
 
 -----
 
-## Prérequis :
+## Prérequis 1 :
 
 #### Vérifier l'installation de **John the Ripper**
 
        apt show john
+
+## Prérequis  :
+
+#### Vérifier l'installation de **Seven zip 7zr**
+
+       apt show p7zip-full
+
+
 Si cela ne fonctionne pas vous devez voir la partie 1 Prérequis
 
 Créer sur le Desktop un répertoire dirjohn
