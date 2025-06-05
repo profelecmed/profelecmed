@@ -32,7 +32,7 @@ Si cela ne fonctionne pas vous devez voir la partie 1 Prérequis
 
 #### Vérifier l'installation de **Seven zip 7zr**
 
-       apt show p7zip-full
+       apt show p7zip
 
 
 Si cela ne fonctionne pas vous devez voir la partie 1 Prérequis
