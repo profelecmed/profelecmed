@@ -25,7 +25,10 @@ Vous devez découvrir les informations contenues dans le fichier Secret.7z
 
        apt show john
 
-## Prérequis  :
+Si cela ne fonctionne pas vous devez voir la partie 1 Prérequis
+
+
+## Prérequis 2 :
 
 #### Vérifier l'installation de **Seven zip 7zr**
 
