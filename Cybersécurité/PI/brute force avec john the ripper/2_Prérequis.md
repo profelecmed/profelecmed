@@ -1,42 +1,26 @@
+# Prérequis 2:
 
-Mettre à jour le système.
+#### Mettre à jour le système.
 
-Ouvrit le terminal:
+* Ouvrit le terminal:
 
-Télécharge les dernières informations sur les paquets
+* Télécharge les dernières informations sur les paquets
 
- sudo apt update
+       sudo apt update
 
-Télécharge et installe les nouvelles versions des paquets
+* Télécharge et installe les nouvelles versions des paquets 
 
-  sudo apt upgrade
+        sudo apt upgrade
 
-Installer le démon Snap
 
-   sudo apt install snapd
+#### Installer **7z**
 
-Redémarrer
+       sudo snap install p7zip-full
 
-   sudo reboot
+#### Vérifier l'installation de **7z**
 
-Installer le snapd de John the Ripper
+Voir les informations **John the Ripper**:
 
-   sudo snap install john-the-ripper
-
-Vérifier l'installation de John the Ripper
-
-où est-il installé ?
-
-   which john
-
-Réponse possible si installé : /usr/bin/john
-
-   apt list --installed | grep john
-
-Réponse possbile : john/stable,now 1.9.0-1 armhf [installé]
-
-Voir les informations John the Ripper:
-
-   apt show john
+       apt show p7zip
 
 
