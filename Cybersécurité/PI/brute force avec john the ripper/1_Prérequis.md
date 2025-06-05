@@ -1,4 +1,4 @@
-# 1 Prérequis :
+# Prérequis 1:
 
 #### Mettre à jour le système.
 
