@@ -42,3 +42,7 @@ Créer sur le Desktop un répertoire dirjohn
 Télécharger le fichier Secret.7Z
 
 Copier le fichier Secret.7é dans le répertoire dirjohn
+
+Ouvrir un terminal:
+se rendre dans le répertoire dirjohn sur le bureau
+
