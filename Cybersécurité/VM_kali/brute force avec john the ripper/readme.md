@@ -54,6 +54,9 @@ Vous devez obtenir une version avec l'extension jumbo , exemple John the Ripper 
 
 * #### Extraire le fichier **Secret.zip** avec **7z**
 
+Normalement on vous demande de **Entrer un mot de passe** , ❌ Vous ne connaissez pas ce mot de passe.
+
+* On va extraire le hash du mot de passe de Secret.7z qui est une archive 7z chiffrée et le rediriger vers un fichier texte.
 
        7z2john Secret.7z > Secret.txt
 
