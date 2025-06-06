@@ -35,7 +35,10 @@ Rendez-vous dans le répertoire **kalisecret** sur le bureau avec les commande p
 
 vérifier qu'il y a bien le fichier à craker : Secret.7z
 
-7z2john Secret.7z > Secret.txt
+       7z2john Secret.7z > Secret.txt
+
+On obtient le hash
+
 faire ls et virifier qu'il il a bien le ficher Secret.txt
 
 
