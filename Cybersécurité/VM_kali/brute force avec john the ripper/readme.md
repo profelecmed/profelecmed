@@ -54,7 +54,7 @@ Vous devez obtenir une version avec l'extension jumbo , exemple John the Ripper 
 
 * #### Extraire le fichier **Secret.zip** avec **7z**
 
-Normalement on vous demande de **Entrer un mot de passe** , ❌ Vous ne connaissez pas ce mot de passe.
+Normalement on vous demande d'**Entrer un mot de passe** , ❌ Vous ne connaissez pas ce mot de passe.
 
 * On va extraire le hash du mot de passe de Secret.7z qui est une archive 7z chiffrée et le rediriger vers un fichier texte.
 
@@ -70,7 +70,7 @@ on obtient le hash  : Secret.7z:$7z$2$19$0$$16$e56..............................
 
 Un hachage est une empreinte numérique d'un mot de passe.
 
-* Utilisaion d’un dictionnaire perso  passwords_top.txt
+* Utilisaion d’un dictionnaire perso afin de gagner du temps sur la recherche du mot de passe avec notre dictionnaire **passwords_top.txt**
 
        john --wordlist=passwords_top.txt Secret.txt
 
