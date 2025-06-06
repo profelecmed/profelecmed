@@ -1,6 +1,9 @@
 # brute force avec john the ripper
 
-Support : VM avec Kalilinux
+Support : 
+
+* VM avec Kalilinux
+*  john the ripper en mode jumbo
 
 ### Mise en situation :
 Votre société Ciel_Pentester vient de réaliser un audit sur la société XX afin d’identifier la surface d’attaque. Après une cartographie complète, il apparaît des informations sensibles. 
