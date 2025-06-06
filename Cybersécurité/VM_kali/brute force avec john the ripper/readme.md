@@ -23,6 +23,11 @@ Vous devez découvrir les informations contenues dans le fichier Secret.7z
 -----
 
 ## Prérequis 1 :
+* Sur le bureau créer un répertoire **kalisecret**
+* Copier à partir de notre github le fichier **Secret.èZ** ,  se ficher contient un mot de passe.
+* Copier à partir de notre github le fichier **passwords_top.txt**
+
+## Prérequis 2 :
 
 #### Vérifier l'installation de **John the Ripper**
 
