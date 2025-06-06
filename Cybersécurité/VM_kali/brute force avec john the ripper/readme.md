@@ -24,14 +24,9 @@ Vous devez découvrir les informations contenues dans le fichier Secret.7z
 #### Vérifier l'installation de **John the Ripper**
 
 Ouvrir un terminal:
-se rendre dans le répertoire dirjohn sur le bureau
-faire ls et virifier qu'il il a bien le ficher Secret.7z
-pour connaître toutes les commandes disponible 
 
        john
-S'il n'y a pas la commande voulue exemple 7z2john
 
-       sudo apt install git build-essential libssl-dev zlib1g-dev libbz2-dev libpcap-dev pkg-config yasm
 
 7z2john Secret.7z > Secret.txt
 faire ls et virifier qu'il il a bien le ficher Secret.txt
