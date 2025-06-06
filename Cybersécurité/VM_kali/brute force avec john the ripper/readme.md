@@ -62,15 +62,15 @@ Normalement on vous demande d'**Entrer un mot de passe** , ❌ Vous ne connaisse
 
 * Faire ls et vérifier qu'il il a bien le ficher **Secret.txt**
 
-* on va voir se que contient le fichier **Secret.txt**
+* on va voir ce que contient le fichier **Secret.txt**
 
          Cat Secret.txt
 
-on obtient le hash  : Secret.7z:$7z$2$19$0$$16$e56...............................................................
+On obtient le hash  : Secret.7z:$7z$2$19$0$$16$e56...............................................................
 
 Un hachage est une empreinte numérique d'un mot de passe.
 
-* Utilisaion d’un dictionnaire perso afin de gagner du temps sur la recherche du mot de passe avec notre dictionnaire **passwords_top.txt**
+* Utilisation d’un dictionnaire perso afin de gagner du temps sur la recherche du mot de passe. Notre dictionnaire perso est le fichier **passwords_top.txt**
 
        john --wordlist=passwords_top.txt Secret.txt
 
