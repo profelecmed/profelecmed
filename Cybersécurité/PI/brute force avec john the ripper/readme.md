@@ -56,3 +56,4 @@ S'il n'y a pas la commande voulue exemple 7z2john
 7z2john Secret.7z > Secret.txt
 faire ls et virifier qu'il il a bien le ficher Secret.txt
 
+Ici le problème nous n'avons pas installer john avec jumbo
