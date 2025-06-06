@@ -31,6 +31,9 @@ Vous devez obtenir une version avec l'extension jumbo , exemple John the Ripper 
 
 ## Méthode
 
+Rendez-vous dans le répertoire **kalisecret** sur le bureau avec les commande pwd , ls , cd .. , cd répertoire ,...
+
+vérifier qu'il y a bien le fichier à craker : Secret.7z
 
 7z2john Secret.7z > Secret.txt
 faire ls et virifier qu'il il a bien le ficher Secret.txt
