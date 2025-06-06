@@ -2,7 +2,7 @@
 
 Support : 
 
-* VM avec Kalilinux
+* Kalilinux (par exemple en VM)
 *  john the ripper en mode jumbo
 
 ### Mise en situation :
