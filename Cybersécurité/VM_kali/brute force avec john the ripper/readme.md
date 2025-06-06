@@ -1,6 +1,6 @@
 # brute force avec john the ripper
 
-Support : Raspberry Pi
+Support : VM avec Kalilinux
 
 ### Mise en situation :
 Votre société Ciel_Pentester vient de réaliser un audit sur la société XX afin d’identifier la surface d’attaque. Après une cartographie complète, il apparaît des informations sensibles. 
@@ -22,26 +22,6 @@ Vous devez découvrir les informations contenues dans le fichier Secret.7z
 ## Prérequis 1 :
 
 #### Vérifier l'installation de **John the Ripper**
-
-       apt show john
-
-Si cela ne fonctionne pas vous devez voir la partie 1 Prérequis
-
-
-## Prérequis 2 :
-
-#### Vérifier l'installation de **Seven zip 7zr**
-
-       apt show p7zip
-
-
-Si cela ne fonctionne pas vous devez voir la partie 1 Prérequis
-
-Créer sur le Desktop un répertoire dirjohn
-
-Télécharger le fichier Secret.7Z
-
-Copier le fichier Secret.7é dans le répertoire dirjohn
 
 Ouvrir un terminal:
 se rendre dans le répertoire dirjohn sur le bureau
