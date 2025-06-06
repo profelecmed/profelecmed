@@ -27,6 +27,10 @@ Ouvrir un terminal:
 
        john
 
+Vous devez obtenir une version avec l'extension jumbo , exemple John the Ripper 1.9.0-jumbo-1 ....
+
+## Méthode
+
 
 7z2john Secret.7z > Secret.txt
 faire ls et virifier qu'il il a bien le ficher Secret.txt
