@@ -17,10 +17,5 @@
 
        sudo snap install p7zip-full
 
-#### Vérifier l'installation de **7z**
-
-Voir les informations **John the Ripper**:
-
-       apt show p7zip
 
 
