@@ -29,7 +29,7 @@ Vous devez découvrir les informations contenues dans le fichier Secret.7z
 
 ## Prérequis 2 :
 
-#### Installer 7z si nécessiare
+* Installer 7z si nécessiare
 Se reporter à 2_Prérequis
 
 
