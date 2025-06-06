@@ -30,6 +30,7 @@ Vous devez découvrir les informations contenues dans le fichier Secret.7z
 ## Prérequis 2 :
 
 * Installer 7z si nécessiare
+  
 Se reporter à 2_Prérequis
 
 
@@ -42,6 +43,8 @@ Ouvrir un terminal:
        john
 
 Vous devez obtenir une version avec l'extension jumbo , exemple John the Ripper 1.9.0-jumbo-1 ....
+
+-----
 
 ## Méthode
 
