@@ -1,4 +1,4 @@
-# brute force avec john the ripper
+# Brute force avec john the ripper
 
 Support : 
 
@@ -60,7 +60,7 @@ Normalement on vous demande de **Entrer un mot de passe** , ❌ Vous ne connaiss
 
        7z2john Secret.7z > Secret.txt
 
-* Faire ls et vérifier qu'il il a bien le ficher Secret.txt
+* Faire ls et vérifier qu'il il a bien le ficher **Secret.txt**
 
 * on va voir se que contient le fichier **Secret.txt**
 
