@@ -54,14 +54,24 @@ Un hachage est une empreinte numérique d'un mot de passe.
   Attendre quelles secondes.... please wait
 
   réponse attendue:
+  
 Using default input encoding: UTF-8
+
 Loaded 1 password hash (7z, 7-Zip archive encryption [SHA256 256/256 AVX2 8x AES])
+
 Cost 1 (iteration count) is 524288 for all loaded hashes
+
 Cost 2 (padding size) is 2 for all loaded hashes
+
 Cost 3 (compression type) is 2 for all loaded hashes
+
 Cost 4 (data length) is 14 for all loaded hashes
+
 Will run 4 OpenMP threads
+
 Press 'q' or Ctrl-C to abort, almost any other key for status
+
 **........mdp.......**               (Secret.7z)   
+
 
 
