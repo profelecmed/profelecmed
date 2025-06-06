@@ -43,4 +43,11 @@ Vous devez obtenir une version avec l'extension jumbo , exemple John the Ripper 
 
          Cat Secret.txt
 
-On obtient le hash
+on obtient le hash  : Secret.7z:$7z$2$19$0$$16$e56...............................................................
+
+Un hachage est une empreinte numérique d'un mot de passe.
+
+* Utilisaion d’un dictionnaire perso  passwords_top.txt
+
+       john --wordlist=passwords_top.txt Secret.txt
+
