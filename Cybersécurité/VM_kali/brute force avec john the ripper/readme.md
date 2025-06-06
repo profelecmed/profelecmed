@@ -29,6 +29,12 @@ Vous devez découvrir les informations contenues dans le fichier Secret.7z
 
 ## Prérequis 2 :
 
+#### Installer 7z si nécessiare
+Se reporter à 2_Prérequis
+
+
+## Prérequis 3 :
+
 #### Vérifier l'installation de **John the Ripper**
 
 Ouvrir un terminal:
@@ -42,6 +48,9 @@ Vous devez obtenir une version avec l'extension jumbo , exemple John the Ripper 
 * Rendez-vous dans le répertoire **kalisecret** sur le bureau avec les commande pwd , ls , cd .. , cd répertoire ,...
 
 * Vérifier qu'il contient le fichier à craker : **Secret.7z**
+
+* #### Extraire le fichier **Secret.zip** avec **7z**
+
 
        7z2john Secret.7z > Secret.txt
 
