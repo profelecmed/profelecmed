@@ -37,7 +37,7 @@ Vous devez obtenir une version avec l'extension jumbo , exemple John the Ripper 
 
        7z2john Secret.7z > Secret.txt
 
-* Faire ls et virifier qu'il il a bien le ficher Secret.txt
+* Faire ls et vérifier qu'il il a bien le ficher Secret.txt
 
 * on va voir se que contient le fichier **Secret.txt**
 
