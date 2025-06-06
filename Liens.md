@@ -35,7 +35,7 @@
 ###    L
 **Linux distribution**:
 - Débian documentations                                        :    https://debian-facile.org/wiki
-- DietPi                                                       :    https://dietpi.com/
+- DietPi                                                       :    https://dietpi.com/                  :   DietPi is an extremely lightweight Debian-based OS
 - Kali   documentation                                         :    https://www.kali.org/docs/
 - Mint                                                         :    https://linuxmint.com/
 - Ubuntu documentations                                        :    https://doc.ubuntu-fr.org/
