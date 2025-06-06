@@ -76,9 +76,7 @@ Un hachage est une empreinte numérique d'un mot de passe.
 
   Attendre quelles secondes.... please wait
 
->[!réponse attendue:
-]
-> 
+>[!réponse attendue:]
 
 > Using default input encoding: UTF-8
 
@@ -93,7 +91,6 @@ Un hachage est une empreinte numérique d'un mot de passe.
 > Cost 4 (data length) is 14 for all loaded hashes
 
 > Will run 4 OpenMP threads
-
 > Press 'q' or Ctrl-C to abort, almost any other key for status
 
 **........mdp.......**               (Secret.7z)   
