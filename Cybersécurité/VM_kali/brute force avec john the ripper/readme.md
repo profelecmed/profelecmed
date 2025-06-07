@@ -100,3 +100,5 @@ réponse attendue:
 * #### Extraire le fichier **Secret.zip** avec **7z**
 
 Normalement on vous demande d'**Entrer un mot de passe** , ✔️ Vous connaissez maintenant le mot de passe **........mdp.......**   .
+
+vOUS POUVEZ LIRE LEZ MESSAGE SECRET : ..............................................
