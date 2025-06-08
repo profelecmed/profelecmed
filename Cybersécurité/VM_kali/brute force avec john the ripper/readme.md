@@ -102,3 +102,6 @@ réponse attendue:
 Normalement on vous demande d'**Entrer un mot de passe** , ✔️ Vous connaissez maintenant le mot de passe **........mdp.......**   .
 
 VOUS POUVEZ LIRE LE MESSAGE SECRET : ..............................................
+
+> [!NOTE]
+> Si le mot de passe n'est pas découvert vous pouver utiliser d'autres dictionnaires, allez voir Liste_dictionnaire.md
