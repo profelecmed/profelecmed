@@ -84,5 +84,5 @@
 - **VVoIP**          :  Voice and Video over Internet Protocol 
 - **VTP**            :  VLAN Trunking Protocol
 ## W
-- **WinRM**          :  Windows Remote Management              :  
+- **WinRM**          :  Windows Remote Management              : Service Microsoft qui permet la gestion à distance sécurisée des serveurs Windows 
 - **WireGuard**      :  Protocole VPN                          : Autres (IPsec, OpenVPN)
