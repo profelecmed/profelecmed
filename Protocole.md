@@ -84,4 +84,5 @@
 - **VVoIP**          :  Voice and Video over Internet Protocol 
 - **VTP**            :  VLAN Trunking Protocol
 ## W
+- **WinRM**          :  Windows Remote Management              :  
 - **WireGuard**      :  Protocole VPN                          : Autres (IPsec, OpenVPN)
