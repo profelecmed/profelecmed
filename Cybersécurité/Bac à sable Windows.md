@@ -17,8 +17,8 @@ Support :
 * Panneau de configuration
 * Programmes
 * Activer ou désactiver des fonctionnalités Windows
-* Si ce n'est pas déjà fait , 
-* Bac à sable Windows
+* Si ce n'est pas déjà fait , Activer ✅ la virtualisation (Intel VT-x / AMD-V).
+* Activer le ✅ Bac à sable Windows
 
 -----
 
