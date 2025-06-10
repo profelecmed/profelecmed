@@ -1,3 +1,4 @@
+7zip
 # Bac à sable Windows
 ## Windows Sandbox
 
@@ -20,6 +21,18 @@ Support :
 * Démarrer
 * Tous
 * Windows Sandbox
+
+-----
+
+### Test
+Dans la Sanbox:
+* Ouvrir
+* Télécharger 7 zip
+* Installer 7 zip
+
+Dans votre propre windows 
+* il n'y a pas le chier télécharge de 7 zip
+* Il n'est pas installé
 
 -----
 
