@@ -7,6 +7,6 @@ public class Program
     public static void Main()
     {
         // Affichage du message "Hello World" dans la console
-        Console.WriteLine("Hello World");
+        Console.WriteLine("Hello les CIEL");
     }
 }
