@@ -21,4 +21,6 @@ Support :
 * Tous
 * Windows Sandbox
 
+-----
+
 Lien : https://learn.microsoft.com/fr-fr/windows/security/application-security/application-isolation/windows-sandbox/
