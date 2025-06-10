@@ -21,7 +21,8 @@ Nous avons récupéré toutes ses informations et nous les avons placées dans u
 Vous devez découvrir les informations contenues dans le fichier Secret.7z
 
 -----
-
+Une **attaque par brute force** teste un grand nombre de combinaisons pour trouver le bon mot de passe.
+Ici nous allons utiliser une variante de l'attaque brute force, **attaque par dictionnaire**
 ## Prérequis 1 :
 * Sur le bureau créer un répertoire **kalisecret**
 * Copier à partir de notre github le fichier **Secret.7Z** ,  🚩 Il faut un mot de passe pour ouvrir ce fichier zippé..
