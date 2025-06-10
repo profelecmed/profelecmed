@@ -1,4 +1,3 @@
-7zip
 # Bac à sable Windows
 ## Windows Sandbox
 
@@ -39,8 +38,9 @@ Dans la Sanbox:
 
 Dans votre propre windows 
 * il n'y a pas le fiuchier dans les téléchargemennt de 7 zip
-* Il n'est pas installé non plus
+* Il n'est pas installé non plus !
 
+  Nous sommes bien sur des systèmes isolés.
 -----
 
 Lien : https://learn.microsoft.com/fr-fr/windows/security/application-security/application-isolation/windows-sandbox/
