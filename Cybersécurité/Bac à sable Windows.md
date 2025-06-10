@@ -19,6 +19,7 @@ Support :
 * Activer ou désactiver des fonctionnalités Windows
 * Si ce n'est pas déjà fait , Activer ✅ la virtualisation (Intel VT-x / AMD-V).
 * Activer le ✅ Bac à sable Windows
+* Redémarrer maintenant.
 
 -----
 
@@ -32,7 +33,7 @@ Support :
 
 ### Test
 Dans la Sanbox:
-* Ouvrir
+* Windows démarrer
 * Télécharger 7 zip
 * Installer 7 zip
 
