@@ -17,6 +17,9 @@
 
 **Docker Hub**                               : Dépot officiel : https://hub.docker.com/
 
+### E
+**excalidraw**                               : Créer des schémas en ligne   :    https://excalidraw.com/
+
 ###   F
 **framindmap**                                :    Création de carte mentale                                    :   https://framindmap.org
 
