@@ -4,8 +4,8 @@
 C'est une VM isolée de Windows à l’intérieur même de votre propre Windows.
 On peut l'utiliser pour tester des programmes.
 
-Support : 
-*   Windows Pro
+Windows disposant de cette fonctionnalité: 
+* Windows Pro
 * 	Windows Entreprise
 * 	Windows Éducation
 
@@ -32,13 +32,12 @@ Support :
 
 ### Test
 Dans la Sanbox:
-* Windows démarrer
 * Télécharger 7 zip
 * Installer 7 zip
 
 Dans votre propre windows 
-* il n'y a pas le fiuchier dans les téléchargemennt de 7 zip
-* Il n'est pas installé non plus !
+* 👍 il n'y a pas le fichier dans les téléchargements de 7 zip
+* 👍 Il n'est pas installé non plus !
 
   Nous sommes bien sur des systèmes isolés.
 -----
