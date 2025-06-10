@@ -12,7 +12,13 @@ Support :
 
 -----
 
-### Installation
+### Activer la fonctionnalité Sandbox
+
+* Panneau de configuration
+* Programmes
+* Activer ou désactiver des fonctionnalités Windows
+* Si ce n'est pas déjà fait , 
+* Bac à sable Windows
 
 -----
 
