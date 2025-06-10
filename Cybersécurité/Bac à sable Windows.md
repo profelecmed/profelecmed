@@ -9,7 +9,11 @@ Support :
 * 	Windows Entreprise
 * 	Windows Éducation
 
+-----
+
 ### Installation
+
+-----
 
 ### Lancement
 
