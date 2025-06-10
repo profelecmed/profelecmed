@@ -5,6 +5,7 @@ C'est une VM isolée de Windows à l’intérieur même de votre propre Windows.
 On peut l'utiliser pour tester des programmes.
 
 Windows disposant de cette fonctionnalité: 
+
 * Windows Pro
 * 	Windows Entreprise
 * 	Windows Éducation
