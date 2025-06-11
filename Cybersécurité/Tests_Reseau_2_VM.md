@@ -12,6 +12,10 @@ VirtualBox fournit jusqu’à huit cartes Ethernet PCI virtuelles pour chaque ma
 
 Ici nous allons utiliser uniquement : 
 * adapter1
-* adapteur2
+* adapter2
 
+
+### Réglage pour la VM debian
+* Reseau , mode expert
+    * 
   
