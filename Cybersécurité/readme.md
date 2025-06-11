@@ -6,7 +6,7 @@ Pour bien commenver voir **Hygiène_de_base**
 
 #### VM Kalilinux
 
-#### VM Metasploit2
+#### VM Metasploitable2
 
 
 >[!TIP]
