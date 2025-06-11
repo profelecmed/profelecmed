@@ -19,6 +19,9 @@ Elle est intentionnellement vulnérable afin de pouvoir tester des attaques.
  with username **msfadmin** and password **msfadmin**.
 🚩 Le clavier est en querty
 
+### Tests:
+
+   ifconfig
 
 -----
 
