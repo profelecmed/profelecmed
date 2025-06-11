@@ -16,7 +16,10 @@ Ici nous allons utiliser uniquement :
 
 VirtualBox offre plusieurs modes d'interface résea (NAT , interne, ....
 
-Nous allons utiliser dans notre exemple **Réseau privée hôte**, ici Pas d'accès à Internet pour les VMs.
+Nous allons utiliser dans notre exemple **Réseau privée hôte**
+* 🚩 ici Pas d'accès à Internet pour les VMs.
+* Il y a communication entre VL.
+* Il y a communication interne avec l'hôte et le localhost.
 
 ### Réglage pour la VM debian :
 * Reseau , mode expert
