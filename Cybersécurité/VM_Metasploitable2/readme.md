@@ -26,6 +26,10 @@ Elle est intentionnellement vulnérable afin de pouvoir tester des attaques.
   
 🚩 Le clavier est en querty
 
+Pour obtenir un clavier Français
+
+    sudo loadkeys fr
+
 ## Tests:
 
 Déterminer l'adresse IP:
