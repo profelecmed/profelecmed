@@ -3,7 +3,7 @@
 C'est une machine virtuelle pour votre LAB sur la cybersécurité, elle est basée sur Linux.
 Elle est intentionnellement vulnérable afin de pouvoir tester des attaques. 
 
-Création de la VM sosu VirtualBox:
+### Création de la VM sosu VirtualBox:
 
 * Nouvelle
 * Name and Operating System
@@ -11,4 +11,5 @@ Création de la VM sosu VirtualBox:
   * Type : Linux
   * Subtype : Debian
 * Hard Disk :
-* 
+*  Use an existing Virtual Hard Disk File
+ *  Ajouter  : Sélectionner le chemin pour Metasploitable.vmdk 
