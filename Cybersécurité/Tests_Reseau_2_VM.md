@@ -17,5 +17,16 @@ Ici nous allons utiliser uniquement :
 
 ### Réglage pour la VM debian
 * Reseau , mode expert
-    * 
+    * Activer adapter 1
+       * Mode d'acces réseau : **Réseau privée hôte**
+       * Mode Promiscuité: **Allow All**
+       * Câble branché
+
+### Réglage pour la VM debian
+* Reseau , mode expert
+    * Activer adapter 1
+       * Mode d'acces réseau : **Réseau privée hôte**
+       * Mode Promiscuité: **Allow All**
+       * Câble branché
+
   
