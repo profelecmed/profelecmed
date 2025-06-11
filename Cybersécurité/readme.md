@@ -9,4 +9,7 @@ Pour bien commenver voir **Hygiène_de_base**
 #### VM Metasploit2
 
 
-<! Astuce
+>[!TIP]
+>
+>Bac à sable
+
