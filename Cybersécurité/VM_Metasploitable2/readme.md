@@ -18,3 +18,9 @@ Elle est intentionnellement vulnérable afin de pouvoir tester des attaques.
 
  with username **msfadmin** and password **msfadmin**.
 🚩 Le clavier est en querty
+
+
+-----
+
+Metasploitable 2 Exploitability Guide
+https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/
