@@ -21,8 +21,20 @@ Elle est intentionnellement vulnérable afin de pouvoir tester des attaques.
 
 ### Tests:
 
+Déterminer l'adresse IP:
+
     ifconfig
 
+Plus moderne
+
+    ip a
+adresse IP : 10.0.2. XX
+
+Ensuite la table de routage
+
+    route
+
+La passerelle est 10.0.2. YY
 -----
 
 Metasploitable 2 Exploitability Guide
