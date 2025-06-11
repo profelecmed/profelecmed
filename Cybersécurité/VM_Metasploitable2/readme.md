@@ -13,3 +13,7 @@ Elle est intentionnellement vulnérable afin de pouvoir tester des attaques.
 * Hard Disk :
 *  Use an existing Virtual Hard Disk File
  *  Ajouter  : Sélectionner le chemin pour Metasploitable.vmdk 
+
+### Démarrage
+
+ with username msfadmin and password msfadmin.
