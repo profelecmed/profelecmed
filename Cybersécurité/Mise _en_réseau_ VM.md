@@ -14,6 +14,9 @@ Ici nous allons utiliser uniquement :
 * adapter1
 * adapter2
 
+VirtualBox offre plusieurs modes d'interface résea (NAT , interne, ....
+
+Nous allons utiliser dans notre exemple **Réseau privée hôte**, ici Pas d'accès à Internet pour les VMs.
 
 ### Réglage pour la VM debian :
 * Reseau , mode expert
