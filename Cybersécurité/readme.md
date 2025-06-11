@@ -15,6 +15,11 @@ Pour bien commenver voir **Hygiène_de_base**
 
 ------
 
+### Mise en place:
+
+* Mise en réseau de vos machines virtuelles  https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/Mise%20_en_r%C3%A9seau_%20VM.md
+------
+
 ### EXEMPLES CYBER :
 
 #### Craquer le mot de passe d'un fichier zip:
