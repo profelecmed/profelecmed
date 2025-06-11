@@ -48,9 +48,6 @@ Ensuite la table de routage
 La passerelle est 10.0.2. YY
 
 -----
-
->[!INPORTANT]
->
 > Metasploitable 2 Exploitability Guide
 >
 > https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/
