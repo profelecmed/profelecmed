@@ -3,6 +3,11 @@
 C'est une machine virtuelle pour votre LAB sur la cybersécurité, elle est basée sur Linux.
 Elle est intentionnellement vulnérable afin de pouvoir tester des attaques. 
 
+* Se rendre sur le site  :  https://sourceforge.net/projects/metasploitable/
+* Télécharger
+
+
+
 ### Création de la VM sosu VirtualBox:
 
 * Nouvelle
