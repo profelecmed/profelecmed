@@ -8,7 +8,7 @@ Elle est intentionnellement vulnérable afin de pouvoir tester des attaques.
 
 
 
-### Création de la VM sosu VirtualBox:
+## Création de la VM sosu VirtualBox:
 
 * Nouvelle
 * Name and Operating System
@@ -19,12 +19,12 @@ Elle est intentionnellement vulnérable afin de pouvoir tester des attaques.
 *  Use an existing Virtual Hard Disk File
  *  Ajouter  : Sélectionner le chemin pour Metasploitable.vmdk 
 
-### Démarrage
+## Démarrage
 
  with username **msfadmin** and password **msfadmin**.
 🚩 Le clavier est en querty
 
-### Tests:
+## Tests:
 
 Déterminer l'adresse IP:
 
