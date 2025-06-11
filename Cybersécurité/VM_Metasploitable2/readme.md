@@ -21,7 +21,9 @@ Elle est intentionnellement vulnérable afin de pouvoir tester des attaques.
 
 ## Démarrage
 
- with username **msfadmin** and password **msfadmin**.
+* username **msfadmin**
+* password **msfadmin**.
+  
 🚩 Le clavier est en querty
 
 ## Tests:
