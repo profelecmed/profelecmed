@@ -16,9 +16,18 @@ Ici nous allons utiliser uniquement :
 
 VirtualBox offre plusieurs modes d'interface résea (NAT , interne, ....
 
+| Mode Réseau       | Accès Internet (VM -> Externe) | Accès Externe (Externe -> VM) | Communication VM <-> Hôte | Communication VM <-> VM (même hôte) |
+| :---------------- | :----------------------------- | :---------------------------- | :------------------------ | :---------------------------------- |
+| **NAT** | Oui                            | Non (sauf port forwarding)    | Unidirectionnel (Hôte -> VM non direct) | Non (isolées)                       |
+| **Accès par pont** | Oui                            | Oui                           | Oui                       | Oui                                 |
+| **Réseau interne** | Non                            | Non                           | Non                       | Oui                                 |
+| **Privé hôte** | Non                            | Non                           | Oui                       | Oui                                 |
+| **Réseau NAT** | Oui                            | Non (sauf port forwarding)    | Oui                       | Oui                                 |
+
+
 Nous allons utiliser dans notre exemple **Réseau privée hôte**
 * 🚩 ici Pas d'accès à Internet pour les VMs.
-* Il y a communication entre VL.
+* Il y a communication entre VM.
 * Il y a communication interne avec l'hôte et le localhost.
 
 ### Réglage pour la VM debian :
