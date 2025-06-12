@@ -21,15 +21,17 @@ Ici on va scanner pour trouver les ports ouverts de la VM2.
 
     nmap 192.168.2.XX
 
-Starting Nmap 7.95 (https://nmap.org) at ....
-
-....
-
-....
-
-21/tcp   open  ftp
-
-**XX**/tcp   open  ssh
-
-80/tcp    open http
-
+réponse attendue:
+>
+> Starting Nmap 7.95 (https://nmap.org) at ....
+>
+> ....
+>
+> ....
+>
+> 21/tcp   open  ftp
+>
+> **XX**/tcp   open  ssh
+>
+> 80/tcp    open http
+>
