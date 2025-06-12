@@ -16,13 +16,13 @@ Ici nous allons utiliser uniquement :
 
 VirtualBox offre plusieurs modes d'interface résea (NAT , interne, ....
 
-| Réseau       | VM -> Externe | Externe -> VM | VM <-> Hôte | VM <-> VM |
-| :---------------- | :----------------------------- | :---------------------------- | :------------------------ | :---------------------------------- |
+| Réseau       | VM -> Externe | Externe -> VM | VM <-> Hôte | VM <-> VM  Remarques |
+| :---------------- | :----------------------------- | :---------------------------- | :------------------------ | :---------------------------------- |   |
 | **NAT** | Oui                            | Non    | Hôte -> VM  | Non                      |
-| **Accès par pont** | Oui                            | Oui                           | Oui                       | Oui                                 |
-| **Réseau interne** | Non                            | Non                           | Non                       | Oui                                 |
-| **Privé hôte** | Non                            | Non                           | Oui                       | Oui                                 |
-| **Réseau NAT** | Oui                            | Non    | Oui                       | Oui                                 |
+| **Accès par pont** | Oui                            | Oui                           | Oui                       | Oui                                 |   |
+| **Réseau interne** | Non                            | Non                           | Non                       | Oui                                 |   |
+| **Privé hôte** | Non                            | Non                           | Oui                       | Oui                                 |   |
+| **Réseau NAT** | Oui                            | Non    | Oui                       | Oui                                 |   |
 
 
 Nous allons utiliser dans notre exemple **Réseau privée hôte**
