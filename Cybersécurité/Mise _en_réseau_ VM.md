@@ -11,8 +11,8 @@ Quand vous créez une machine virtuelle la première fois, VirtualBox active par
 VirtualBox fournit jusqu’à huit cartes Ethernet PCI virtuelles pour chaque machine virtuelle.
 
 Ici nous allons utiliser uniquement : 
-* adapter1
-* adapter2
+* ✅ **adapter1**
+* ✅ **adapter2**
 
 VirtualBox offre plusieurs modes d'interface résea (NAT , interne, ....
 
