@@ -10,6 +10,9 @@ Support:
 Le réseau :
 * Nous allons utiliser dans notre exemple Réseau privée hôte
 
+
+Ici on va scanner le réseau pour trouver l'adresse Ip de la VM2.
+
 ### Détrminer votre adresse IP:
 
     ip a
