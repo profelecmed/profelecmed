@@ -13,3 +13,11 @@ mdp
 
     apt install ufw
 
+Ajoutez une règle pour autoriser les connexions SSH :
+
+    ufw allow 22/tcp
+
+ufw enable
+
+
+ ufw status
