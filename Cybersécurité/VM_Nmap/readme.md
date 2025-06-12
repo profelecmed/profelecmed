@@ -24,6 +24,7 @@ Exemple on va obtenir 192.168.2.10
     nmap -v -sb 192.168.2.0/24
 
 On obtient: 
+
 ✖️ Nmap scan report for 192.100.2.2 [host down]
 
 ✖️  Nmap scan report for 192.100.2.2 [host down]
