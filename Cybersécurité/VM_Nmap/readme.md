@@ -1,9 +1,12 @@
 # Nmpa
 
 Support:
-VM1 : Kalolinux
-VM2 : Metsploitable
 
+* VM1 : Kalolinux-
+* VM2 : Metsploitable
+
+Le réseau :
+* Nous allons utiliser dans notre exemple Réseau privée hôte
 
 ### Détrminer votre adresse IP:
 
