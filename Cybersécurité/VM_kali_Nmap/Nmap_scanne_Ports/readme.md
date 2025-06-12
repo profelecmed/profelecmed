@@ -35,3 +35,5 @@ réponse attendue:
 >
 > 80/tcp    open http
 >
+
+Nous avons donc trouver les ports ouverts pour notre deuxième machine, VM Metsploitable.  Le port XX pour le ssh.
