@@ -16,7 +16,7 @@ Ici nous allons utiliser uniquement :
 
 VirtualBox offre plusieurs modes d'interface résea (NAT , interne, ....
 
-| Mode Réseau       | Accès Internet (VM -> Externe) | Accès Externe (Externe -> VM) | Communication VM <-> Hôte | Communication VM <-> VM (même hôte) |
+| Réseau       | VM -> Externe | Externe -> VM | VM <-> Hôte | VM <-> VM |
 | :---------------- | :----------------------------- | :---------------------------- | :------------------------ | :---------------------------------- |
 | **NAT** | Oui                            | Non (sauf port forwarding)    | Unidirectionnel (Hôte -> VM non direct) | Non (isolées)                       |
 | **Accès par pont** | Oui                            | Oui                           | Oui                       | Oui                                 |
