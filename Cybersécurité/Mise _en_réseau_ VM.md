@@ -18,7 +18,7 @@ VirtualBox offre plusieurs modes d'interface résea (NAT , interne, ....
 
 | Réseau       | VM -> Externe | Externe -> VM | VM <-> Hôte | VM <-> VM  Remarques |
 | :---------------- | :----------------------------- | :---------------------------- | :------------------------ | :---------------------------------- |   |
-| **NAT** | Oui                            | Non    | Hôte -> VM  | Non                      |
+| **NAT** | Oui                            | Non    | Hôte -> VM  | Non                      |   |
 | **Accès par pont** | Oui                            | Oui                           | Oui                       | Oui                                 |   |
 | **Réseau interne** | Non                            | Non                           | Non                       | Oui                                 |   |
 | **Privé hôte** | Non                            | Non                           | Oui                       | Oui                                 |   |
