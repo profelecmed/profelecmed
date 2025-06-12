@@ -18,11 +18,11 @@ VirtualBox offre plusieurs modes d'interface résea (NAT , interne, ....
 
 | Réseau       | VM -> Externe | Externe -> VM | VM <-> Hôte | VM <-> VM |
 | :---------------- | :----------------------------- | :---------------------------- | :------------------------ | :---------------------------------- |
-| **NAT** | Oui                            | Non (sauf port forwarding)    | Unidirectionnel (Hôte -> VM non direct) | Non                      |
+| **NAT** | Oui                            | Non    | Hôte -> VM  | Non                      |
 | **Accès par pont** | Oui                            | Oui                           | Oui                       | Oui                                 |
 | **Réseau interne** | Non                            | Non                           | Non                       | Oui                                 |
 | **Privé hôte** | Non                            | Non                           | Oui                       | Oui                                 |
-| **Réseau NAT** | Oui                            | Non (sauf port forwarding)    | Oui                       | Oui                                 |
+| **Réseau NAT** | Oui                            | Non    | Oui                       | Oui                                 |
 
 
 Nous allons utiliser dans notre exemple **Réseau privée hôte**
