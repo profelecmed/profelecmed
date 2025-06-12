@@ -20,7 +20,7 @@ VirtualBox offre plusieurs modes d'interface résea (NAT , interne, ....
 | :---------------- | :----------------------------- | :---------------------------- | :------------------------ | :---------------------------------- |  :----------------  |
 | **NAT** | Oui                            | Non    | Hôte -> VM  | Non                      |   |
 | **Accès par pont** | Oui                            | Oui                           | Oui                       | Oui                                 |   |
-| **Réseau interne** | Non                            | Non                           | Non                       | Oui                                 |   |
+| **Réseau interne** | Non                            | Non                           | Non                       | Oui                                 |  Configurer une d'elle en serveur DHCP pour avoir des IP de façon automatique |
 | **Privé hôte** | Non                            | Non                           | Oui                       | Oui                                 |   |
 | **Réseau NAT** | Oui                            | Non    | Oui                       | Oui                                 |   |
 
