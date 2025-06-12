@@ -24,13 +24,13 @@ Exemple on va obtenir 192.168.2.10
     nmap -v -sb 192.168.2.0/24
 
 On obtient: 
-Nmap scan report for 192.100.2.2 [host down]
+✖️ Nmap scan report for 192.100.2.2 [host down]
 
-Nmap scan report for 192.100.2.2 [host down]
+✖️  Nmap scan report for 192.100.2.2 [host down]
 
-...
+✖️ ...
 
 
-Nmap scan report for 192.100.2.XX host is up 
+✔️ Nmap scan report for 192.100.2.XX **host is up**
 
 Nous avons donc trouver notre deuxième machine, VM Metsploitable.  **192.100.2.XX**
