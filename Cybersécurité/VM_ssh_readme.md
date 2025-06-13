@@ -14,6 +14,18 @@ Vérification si la commande est disponible:
 
 * Si elle retourne le chemin alors elle est déjà installé.  /usr/bin/ssh
 
+
+# installer openssh-server
+
+mise à jour des dépot
+
+    apt update
+
+installatopn openssh-serveur
+    
+    apt install openssh-server
+
+
 lancer la VM
 
 Connection id et mdp
