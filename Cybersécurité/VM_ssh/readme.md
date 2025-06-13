@@ -70,7 +70,7 @@ ouvrit un terminal
 
 mdp
 
-    apt idpatron@192.168.56.XX
+    ssh idpatron@192.168.56.XX
 
 Exemple vous êtes connecté  ✔️  id@debian:
 
