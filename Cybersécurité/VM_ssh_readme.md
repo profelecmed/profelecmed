@@ -37,22 +37,13 @@ installatopn openssh-serveur
     apt install openssh-server
 
 
-lancer la VM
-
-Connection id et mdp
+## lancer la connexion ssh à partir de la VM Kalilinux 
 
 ouvrit un terminal
 
     su
+
 mdp
 
-    apt install ufw
+    apt id@192.168.56.XX
 
-Ajoutez une règle pour autoriser les connexions SSH :
-
-    ufw allow 22/tcp
-
-ufw enable
-
-
- ufw status
