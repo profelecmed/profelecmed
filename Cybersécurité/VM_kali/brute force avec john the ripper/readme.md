@@ -20,7 +20,7 @@ Le N°2 est nommé …….  Il est encore plus intéressant car il contient un f
 Nous avons récupéré toutes ses informations et nous les avons placées dans un fichier zippé Pentesting.7z
 
 ### Objectif :
-Vous devez découvrir les informations contenues dans le fichier Secret.7z
+.✨ Vous devez découvrir les informations contenues dans le fichier Secret.7z
 
 -----
 Une **attaque par brute force** teste un grand nombre de combinaisons pour trouver le bon mot de passe.
