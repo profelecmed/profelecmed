@@ -7,6 +7,11 @@ Support :
 * VM Kalilinux avec utilisation de **Hydra**
 * VM Debian 12
 
+Réseau :
+
+Le réseau doit être en **Accès par pont**
+https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_Mise%20_en_r%C3%A9seau_.md
+
 ### Mise en situation :
 >  Votre société Ciel_Pentester vient de réaliser un audit sur la société XX afin d’identifier la surface d’attaque.
 >
