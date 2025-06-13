@@ -39,6 +39,20 @@ Lancer Hydra sous Kalilinux
 
     hydra -l idpatron -p /usr/share/wordlists/rockyou.txt -u -e s ssh://192.168.56.XX
 
+Détails de la commande
+>
+> -l Ici un identifiant unique à tester
+>
+> -p /../../.. Nous donne le chemin du répertoire qui contient le dictionnaire.
+>
+>Ici le dictionnaire est rockyou.txt
+>
+>-u
+>-e
+>s
+> 
+
+
 Réponse :
 >
 > hydra ....
