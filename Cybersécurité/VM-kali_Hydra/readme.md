@@ -48,6 +48,10 @@ Réponse :
 >[22][ssh] host: 192.168.56.XX  login: ippatron  password: mdpdepatron
 >
 
+Nous avons bien trouvé notre mot de passe : **mdpdepatron** qui est lié à l'utilisateur **idpatron**
+
+On va faire un test de connection
+
 
 > [!NOTE]
 > Si le mot de passe n'est pas découvert vous pouver utiliser d'autres dictionnaires, allez voir Liste_dictionnaire.md
