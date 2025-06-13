@@ -57,7 +57,7 @@ installatopn openssh-serveur
 
     whoami
 
-Exemple : id
+Exemple : idpatron
 
 
 -----
@@ -70,7 +70,7 @@ ouvrit un terminal
 
 mdp
 
-    apt id@192.168.56.XX
+    apt idpatron@192.168.56.XX
 
 Exemple vous êtes connecté  ✔️  id@debian:
 
