@@ -21,6 +21,8 @@ Exemple on va obtenir 192.168.2.10
 
 ### Scanner le réseau à la recherche de l'IP de la machine 2
 
+* ici l'adresse du réseau est 192.168.2.0
+
     nmap -v -sb 192.168.2.0/24
 
 On obtient: 
