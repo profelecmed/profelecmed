@@ -10,8 +10,8 @@ Support:
 Le réseau :
 * Nous allons utiliser dans notre exemple Réseau privée hôte
 
-
-Ici on va scanner le réseau pour trouver l'adresse Ip de la VM2.
+### Objectif
+✨ Ici on va scanner le réseau pour trouver l'adresse Ip de la VM2.
 
 ### Détrminer votre adresse IP:
 
@@ -21,6 +21,7 @@ Exemple on va obtenir 192.168.2.10
 
 ### Scanner le réseau à la recherche de l'IP de la machine 2
 
+Sous Kalilinux lancer Nmap
 * ici l'adresse IP du réseau est 192.168.2.0
 * Son masque est 255.255.255.0  ou /24
 
