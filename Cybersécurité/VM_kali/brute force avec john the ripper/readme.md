@@ -8,14 +8,15 @@ Support :
 *  john the ripper en mode jumbo
 
 ### Mise en situation :
-Votre société Ciel_Pentester vient de réaliser un audit sur la société XX afin d’identifier la surface d’attaque. Après une cartographie complète, il apparaît des informations sensibles. 
-
-Nous avons détecté une mauvaise gestion de droits :
-
-Exemple : Des répertoires sont accessible par des utilisateurs non identifiés au réseau.  
-Le N°1 est nommé Bonnes pratiques.  Piste 1 : Ce répertoire peut-il contenir des données sensibles. 
-
-Le N°2 est nommé …….  Il est encore plus intéressant car il contient un fichier nommé Secret.7z , il est  zippé et protégé par un mot de passe.
+> Votre société Ciel_Pentester vient de réaliser un audit sur la société XX afin d’identifier la surface d’attaque. Après une cartographie complète, il apparaît des informations sensibles.
+>
+> Nous avons détecté une mauvaise gestion de droits :
+>
+> Exemple : Des répertoires sont accessible par des utilisateurs non identifiés au réseau.  
+>
+>Le N°1 est nommé Bonnes pratiques.  Piste 1 : Ce répertoire peut-il contenir des données sensibles. 
+>
+>Le N°2 est nommé …….  Il est encore plus intéressant car il contient un fichier nommé Secret.7z , il est  zippé et protégé par un mot de passe.
 
 Nous avons récupéré toutes ses informations et nous les avons placées dans un fichier zippé Pentesting.7z
 
