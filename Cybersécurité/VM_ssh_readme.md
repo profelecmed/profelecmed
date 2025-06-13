@@ -43,6 +43,11 @@ installatopn openssh-serveur
     systemctl status ssh
 
 * Exemple DE présence :
+> ssh.service - OpenBSD SECURE SHELL SERVER
+> Loaded : ...........
+> Active : Active ....
+> ....
+> 
 
 -----
 
