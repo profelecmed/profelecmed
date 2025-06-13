@@ -6,6 +6,8 @@ Vérification si ssh sur la machine
 
     systemctl status ssh
 
+Exemple de non présence : unit ssh could not be found
+
 lancer la VM
 
 Connection id et mdp
