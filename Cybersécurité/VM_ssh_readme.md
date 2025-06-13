@@ -2,6 +2,10 @@
 
 Le réseau doit être en **Accès par pont**
 
+Vérification si ssh sur la machine
+
+    systemctl status ssh
+
 lancer la VM
 
 Connection id et mdp
