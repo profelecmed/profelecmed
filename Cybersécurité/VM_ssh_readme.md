@@ -8,6 +8,12 @@ Vérification si ssh sur la machine
 
 Exemple de non présence : unit ssh could not be found
 
+Vérification si la commande est disponible:
+
+    which ssh
+
+Si elle retourne le chemin alors elle est déjà installé.  /usr/bin/ssh
+
 lancer la VM
 
 Connection id et mdp
