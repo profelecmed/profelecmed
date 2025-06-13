@@ -10,14 +10,17 @@ Support:
 Le réseau :
 * Nous allons utiliser dans notre exemple Réseau privée hôte
 
+### Objectif:
 
-Ici on va scanner pour trouver les ports ouverts de la VM2.
+✨ Ici on va scanner pour trouver les ports ouverts de la VM2.
 
 ### Pré-requis
 
 * Connaitre l'adrese IP de la cible ici la VM2. voir https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_kali_Nmap/Nmap_scanne_IP/readme.md
 
 ### Trouver les ports ouverts
+
+Sous Kalilinux lancer Nmap
 
     nmap 192.168.2.XX
 
