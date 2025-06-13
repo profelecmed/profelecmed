@@ -8,8 +8,11 @@ Support :
 * VM Debian 12
 
 ### Mise en situation :
-Votre société Ciel_Pentester vient de réaliser un audit sur la société XX afin d’identifier la surface d’attaque. Après une cartographie complète, vous avez découvert une machine debian. 
-
+>  Votre société Ciel_Pentester vient de réaliser un audit sur la société XX afin d’identifier la surface d’attaque.
+>
+> Après une cartographie complète, vous avez découvert une machine debian.
+>
+> Nous allons utiliser Hydra. Hydra est un outil de test de pénétration utilisé pour effectuer des attaques par force brute sur divers services, y compris SSH.
 
 ### Objectif :
 
@@ -21,6 +24,11 @@ Ici nous allons utiliser une variante de l'attaque brute force, **attaque par di
 
 
 ## Prérequis 1 :
+
+Nous allons utiliser un dictionnaire
+
+* rockyou
+
 
 
 -----
