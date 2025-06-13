@@ -47,10 +47,11 @@ Détails de la commande
 >
 >Ici le dictionnaire est rockyou.txt
 >
->-u
->-e
->s
-> 
+>-u Force Hydra à tester chaque mot de passe un par un sans parallélisation excessive, ce qui peut éviter de surcharger le serveur cible.
+>
+>-e s Indique à Hydra d’essayer également le mot de passe correspondant au nom d’utilisateur
+>
+> ssh://192.168.56.XX L’attaque cible le service SSH de la machine Debian située à l’adresse IP /192.168.56.XX
 
 
 Réponse :
