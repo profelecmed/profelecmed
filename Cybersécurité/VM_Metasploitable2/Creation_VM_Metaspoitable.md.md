@@ -1,4 +1,4 @@
-# Metasploitable2
+# Création de la VM Metasploitable2 sosu VirtualBox 
 
 C'est une machine virtuelle pour votre LAB sur la cybersécurité, elle est basée sur Linux.
 Elle est intentionnellement vulnérable afin de pouvoir tester des attaques. 
