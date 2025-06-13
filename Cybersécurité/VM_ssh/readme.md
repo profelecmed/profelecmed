@@ -74,3 +74,10 @@ mdp
 
 Exemple vous êtes connecté  ✔️  id@debian:
 
+
+-----
+
+## Arrêter la connexion ssh à partir de la VM Kalilinux 
+
+    exit
+
