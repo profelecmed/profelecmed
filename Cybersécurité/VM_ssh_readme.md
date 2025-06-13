@@ -24,7 +24,7 @@ Vérification si la commande est disponible:
 * Si elle retourne le chemin alors elle est déjà installé.  /usr/bin/ssh
 
 
-# installer openssh-server
+### installer openssh-server sur la machine Debian 12
 
 mise à jour des dépot
 
