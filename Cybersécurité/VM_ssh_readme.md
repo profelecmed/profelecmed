@@ -12,6 +12,7 @@ Le réseau doit être en **Accès par pont**
 ## Objectif:
 ✨ Se connecter à partir de la machine kalilinux sur la machine Debian 12.
 
+-----
 
 ## Vérification si ssh sur la machine Debian 12
 
@@ -26,6 +27,7 @@ Vérification si la commande est disponible:
 * Si elle retourne le chemin alors elle est déjà installé.  /usr/bin/ssh
 
 
+
 ### installer openssh-server sur la machine Debian 12
 
 mise à jour des dépot
@@ -36,6 +38,13 @@ installatopn openssh-serveur
     
     apt install openssh-server
 
+## Vérification si ssh sur la machine Debian 12
+
+    systemctl status ssh
+
+* Exemple DE présence :
+
+-----
 
 ## lancer la connexion ssh à partir de la VM Kalilinux 
 
