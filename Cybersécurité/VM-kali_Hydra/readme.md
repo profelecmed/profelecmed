@@ -52,6 +52,12 @@ Nous avons bien trouvé notre mot de passe : **mdpdepatron** qui est lié à l'u
 
 On va faire un test de connection
 
+      ssh idpatron@192.168.56.XX
+  
+mot de passe : **mdpdepatron**
+
+Exemple vous êtes connecté  ✔️  id@debian:
+
 
 > [!NOTE]
 > Si le mot de passe n'est pas découvert vous pouver utiliser d'autres dictionnaires, allez voir Liste_dictionnaire.md
