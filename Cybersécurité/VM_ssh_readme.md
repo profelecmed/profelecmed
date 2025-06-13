@@ -28,7 +28,7 @@ Vérification si la commande est disponible:
 
 
 
-### installer openssh-server sur la machine Debian 12
+### Installer openssh-server sur la machine Debian 12
 
 mise à jour des dépot
 
@@ -53,7 +53,7 @@ installatopn openssh-serveur
 > ....
 > 
 
-## utilisateur sur la machine Debian 12
+## Utilisateur sur la machine Debian 12
 
     whoami
 
@@ -62,7 +62,7 @@ Exemple : id
 
 -----
 
-## lancer la connexion ssh à partir de la VM Kalilinux 
+## Lancer la connexion ssh à partir de la VM Kalilinux 
 
 ouvrit un terminal
 
@@ -72,5 +72,5 @@ mdp
 
     apt id@192.168.56.XX
 
-Exemple vous êtes connecté   id@debian:
+Exemple vous êtes connecté  ✔️  id@debian:
 
