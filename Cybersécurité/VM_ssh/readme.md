@@ -8,6 +8,7 @@ Support:
 Réseau :
 
 Le réseau doit être en **Accès par pont**
+https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_Mise%20_en_r%C3%A9seau_.md
 
 ## Objectif:
 ✨ Se connecter à partir de la machine kalilinux sur la machine Debian 12. On va utiliser le protocole ssh **Secure Shell**
