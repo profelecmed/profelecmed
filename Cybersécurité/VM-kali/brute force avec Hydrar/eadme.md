@@ -34,7 +34,7 @@ Nous allons utiliser un dictionnaire
 
 * rockyou
 
-Vérifier la présence de rockyou dans le répertoire worklists. Le chemin est /usr/share/wordlists
+Vérifier la présence de rockyou dans le répertoire **worklists**. Le chemin est /usr/share/wordlists
 
 
 -----
