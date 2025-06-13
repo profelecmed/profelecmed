@@ -82,3 +82,4 @@ Exemple vous êtes connecté  ✔️  id@debian:
 
     exit
 
+Connection to 192.168.56.XX closed
