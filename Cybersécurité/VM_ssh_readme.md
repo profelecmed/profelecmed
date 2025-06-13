@@ -1,8 +1,16 @@
 # SSH
 
+Support:
+
+VM1 : Kalolinux
+VM2 : Debin 12
+
+Réseau
 Le réseau doit être en **Accès par pont**
 
-Vérification si ssh sur la machine
+
+
+## Vérification si ssh sur la machine Debian 12
 
     systemctl status ssh
 
