@@ -1,4 +1,4 @@
-# Création de la VM Metasploitable2 sosu VirtualBox 
+# Création de la VM Metasploitable2 sous VirtualBox 
 
 C'est une machine virtuelle pour votre LAB sur la cybersécurité, elle est basée sur Linux.
 Elle est intentionnellement vulnérable afin de pouvoir tester des attaques. 
@@ -8,7 +8,7 @@ Elle est intentionnellement vulnérable afin de pouvoir tester des attaques.
 
 
 
-## Création de la VM sosu VirtualBox:
+## Création de la VM sous VirtualBox:
 
 * Nouvelle
 * Name and Operating System
