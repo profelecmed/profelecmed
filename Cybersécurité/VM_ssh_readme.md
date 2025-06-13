@@ -43,11 +43,22 @@ installatopn openssh-serveur
     systemctl status ssh
 
 * Exemple DE présence :
+* 
 > ssh.service - OpenBSD SECURE SHELL SERVER
+> 
 > Loaded : ...........
+> 
 > Active : Active ....
+> 
 > ....
 > 
+
+## utilisateur sur la machine Debian 12
+
+    whoami
+
+Exemple : id
+
 
 -----
 
@@ -60,4 +71,6 @@ ouvrit un terminal
 mdp
 
     apt id@192.168.56.XX
+
+Exemple vous êtes connecté   id@debian:
 
