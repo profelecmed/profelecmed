@@ -2,10 +2,11 @@
 
 Support:
 
-VM1 : Kalolinux
-VM2 : Debin 12
+* VM1 : Kalolinux
+* VM2 : Debin 12
 
-Réseau
+Réseau :
+
 Le réseau doit être en **Accès par pont**
 
 
