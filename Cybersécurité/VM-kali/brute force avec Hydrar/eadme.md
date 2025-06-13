@@ -79,6 +79,15 @@ mot de passe : **mdpdepatron**
 
 Exemple vous êtes connecté  ✔️  id@debian:
 
+-----
+
+## Arrêter la connexion ssh à partir de la VM Kalilinux 
+
+    exit
+
+Connection to 192.168.56.XX closed
+
+-----
 
 > [!NOTE]
 > Si le mot de passe n'est pas découvert vous pouver utiliser d'autres dictionnaires, allez voir Liste_dictionnaire.md
