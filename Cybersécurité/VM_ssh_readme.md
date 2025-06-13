@@ -9,6 +9,8 @@ Réseau :
 
 Le réseau doit être en **Accès par pont**
 
+## Objectif:
+✨ Se connecter à partir de la machine kalilinux sur la machine Debian 12.
 
 
 ## Vérification si ssh sur la machine Debian 12
