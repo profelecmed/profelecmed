@@ -34,12 +34,13 @@ réponse attendue:
 >
 > ....
 >
-> 21/tcp   open  ftp
+>Port     STATE    Service    Version
 >
-> **XX**/tcp   open  ssh
+>21/tcp   open  ftp   vsf......
 >
-> 80/tcp    open http
+> **XX**/tcp   open  ssh   .....
 >
-
-Nous avons donc trouver les ports ouverts pour notre deuxième machine, VM Metsploitable.  Le port **XX pour le ssh**.
+> 80/tcp    open http  !apache httpd 2.2.8  ..... 
+>
+Nous avons donc trouver les ports ouverts, les services et les informations sur les version installées pour notre deuxième machine, VM Metsploitable.  Le port **XX pour le ssh**.
 
