@@ -114,4 +114,18 @@ réponse attendue:
 
 on peux se déplacer , créer un répertoire , ....
 
+    ls
+
+    cd home
+
+    ls
+
+    cd 
+
+    mkdir dirciel
+
+    ls
+
+On peut verifier sur la machine VM Linux vulnérable Metaspoitable , le répertoire dirciel existe.
+
 
