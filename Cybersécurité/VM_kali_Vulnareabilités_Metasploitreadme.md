@@ -54,4 +54,12 @@ réponse attendue:
 
 On va rechercher avec Metasploit s'il existe des vulnaréabilité sur les **vsf...**
 
-    scearch vsftpd
+    search vsftpd
+    
+réponse attendue:
+>
+>Names  Description Date Rank ...
+>
+>0 aux .....
+>
+>1 exploit/unix/ftp/vsftpd-234 ... 2011-07-03  ecellent  No
