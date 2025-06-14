@@ -18,11 +18,13 @@ Le réseau :
 
 * Connaitre l'adrese IP de la cible ici la VM2. voir https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_kali_Nmap/Nmap_scanne_IP/readme.md
 
-### Trouver les ports ouverts
+### Trouver les ports ouverts et applications
 
 Sous Kalilinux lancer Nmap
 
     nmap -sV 192.168.2.XX
+
+-sV va nous permettre d'obenir des informations sur les versions des services et applications
 
 réponse attendue:
 >
