@@ -27,8 +27,17 @@ Nous allons utiliser la VM Linux vulnérable Metaspoitable
 ##### Création de la VM Metasploitable2 sous VirtualBox
 https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_Metasploitable2/Creation_VM_Metaspoitable..md
 
+##### Un fois active et sur le réseau déterminer son adresse IP
+* Connaitre l'adrese IP de la cible ici la VM2. voir https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_kali_Nmap/Nmap_scanne_IP/readme.md
 -----
 
 ## Méthode
 
 Lancer **Metasploit** sous Kalilinux
+  msf6>
+
+On va rechercher les services et leurs versons avec Nmap.
+
+https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_kali_Nmap/Nmap_scanne_Ports_%26_applications.md
+
+
