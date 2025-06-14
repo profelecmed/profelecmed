@@ -66,9 +66,9 @@ réponse attendue:
 
 Ici on voit qu'il a trouvé un exploit : **exploit/unix/ftp/vsftpd-234_backdoor** , avec le nom on peut en déduire qu'il y a une backdoor.
 
-On va chercher plus d'information
+On va chercher plus d'informations
 
-    info exploit/unix/ftp/vsftpd-234_backdoor
+      info exploit/unix/ftp/vsftpd-234_backdoor
 
 réponse attendue:
 >
@@ -77,6 +77,9 @@ réponse attendue:
 > Module: exploit/unix/...........
 >
 >.....
+>
+>Provides by:
+>
 > Basic options:
 >
 > Payload information:
@@ -84,3 +87,14 @@ réponse attendue:
 >Description:
 >** This module exploits a malicious backdoor .....
 >
+>References:
+>
+
+On va utiliser cette vulnérabilité
+
+    use exploit/unix/ftp/vsftpd-234_backdoor
+
+msf6 exploit(unix/ftp/vsft...backdoor) >
+
+
+
