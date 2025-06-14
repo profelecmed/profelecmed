@@ -62,4 +62,25 @@ réponse attendue:
 >
 >0 aux .....
 >
->1 exploit/unix/ftp/vsftpd-234 ... 2011-07-03  ecellent  No
+>1 exploit/unix/ftp/vsftpd-234_backdoor ... 2011-07-03  ecellent  No
+
+Ici on voit qu'il a trouvé un exploit : **exploit/unix/ftp/vsftpd-234_backdoor** , avec le nom on peut en déduire qu'il y a une backdoor.
+
+On va chercher plus d'information
+
+    info exploit/unix/ftp/vsftpd-234_backdoor
+
+réponse attendue:
+>
+> Name: vsftpd .............
+>
+> Module: exploit/unix/...........
+>
+>.....
+> Basic options:
+>
+> Payload information:
+>
+>Description:
+>** This module exploits a malicious backdoor .....
+>
