@@ -40,4 +40,16 @@ On va rechercher les services et leurs versons avec Nmap.
 
 https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_kali_Nmap/Nmap_scanne_Ports_%26_applications.md
 
+réponse attendue:
+>
+> Starting Nmap 7.95 (https://nmap.org) at ....
+>
+> ....
 
+>Port     STATE    Service    Version
+>
+> **21/tcp   open  ftp   vsf......**
+>
+>  .....
+
+On va rechercher avec Metasploit s'il existe des vulnaréabilité sur les **vsf...**
