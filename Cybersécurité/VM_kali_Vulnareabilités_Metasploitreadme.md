@@ -34,6 +34,9 @@ https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_
 ## Méthode
 
 Lancer **Metasploit** sous Kalilinux
+
+Tapez le mot de passe de kalilinux
+
   msf6>
 
 On va rechercher les services et leurs versons avec Nmap.
