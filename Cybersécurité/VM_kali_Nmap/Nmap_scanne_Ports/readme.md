@@ -32,6 +32,7 @@ réponse attendue:
 >
 > ....
 >
+> Port STATE Service
 > 21/tcp   open  ftp
 >
 > **XX**/tcp   open  ssh
@@ -39,4 +40,4 @@ réponse attendue:
 > 80/tcp    open http
 >
 
-Nous avons donc trouver les ports ouverts pour notre deuxième machine, VM Metsploitable.  Le port **XX pour le ssh**.
+Nous avons donc trouver les ports ouverts avec les services associés pour notre deuxième machine, VM Metsploitable.  Le port **XX pour le ssh**.
