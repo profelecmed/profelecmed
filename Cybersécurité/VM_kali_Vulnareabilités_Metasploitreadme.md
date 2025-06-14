@@ -106,7 +106,7 @@ réponse attendue:
 >
 >.....
 >
-> [*]  Exploit completed
+> [*]  Command shell session 1 opened (192.168.101:42107  --> 192.168.56.XX:6200 at 2025-06-14 10:31:05 +0200
 
 ------
 
