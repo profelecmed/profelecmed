@@ -85,7 +85,7 @@ réponse attendue:
 >
 >Provides by:
 >
-> Basic options:
+> Basic options:    Names : **RHOSTS**
 >
 > Payload information:
 >
@@ -100,10 +100,12 @@ On va utiliser cette vulnérabilité
     use exploit/unix/ftp/vsftpd-234_backdoor
 
 msf6 exploit(unix/ftp/vsft...backdoor) >
+ 
+RHOST signifie Remote Host "hôte distant". C'est l'adresse IP de la machine cible, ici metaspoitable. On note RHOSTS si on veut définir une ou plusieurs adresses IP cibles.
 
-RHOST signifie Remote Host "hôte distant". C'est l'adresse IP de la machine cible, ici metaspoitable.
 
     set RHOST 192.168.56.XX
+ * Set permet de leur attribuer une valeur à RHOST , ici l'adresse IP de la VM linux vulnérable Metasploitable.
 
 
 Un **exploit** est un module qui permet d'exploiter une vulnérabilité spécifique sur un système cible.
