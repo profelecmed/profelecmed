@@ -114,3 +114,12 @@ VOUS POUVEZ LIRE LE MESSAGE SECRET : ...........................................
 > Si le mot de passe n'est pas découvert vous pouver utiliser d'autres dictionnaires, allez voir Liste_dictionnaire.md
 > https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_kali/brute%20force%20avec%20john%20the%20ripper/Liste_dictionnaire.md
 
+
+>[!TIP]
+>
+> Il est important d'avoir un mot de passe robuste.
+>
+> Voir la CNIL : https://www.cnil.fr/fr/mots-de-passe-une-nouvelle-recommandation-pour-maitriser-sa-securite
+
+
+
