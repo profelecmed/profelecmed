@@ -55,9 +55,16 @@ réponse attendue:
 > **1524/tcp    open  bindshell   Metasploitable root shell**
 >  .....
 
-**bindshell** est unz technique pour ouvrir un port sur une machine.
+* **bindshell** est unz technique pour ouvrir un port sur une machine.
 
-On va rechercher avec Metasploit s'il existe des vulnaréabilité sur les **vsf...**
+On va donc essayer de se connecter directement avec le protocol Telnet sur la machine.
 
-    search vsftpd
-    
+    telnet 192.168.56.xx 1524
+
+* on a donc le protocole telnet
+* l'adresse ip de la cible
+* le port sur lequel on veut se connecter , ici celui de bindshell le 1524
+
+Résultats:
+
+
