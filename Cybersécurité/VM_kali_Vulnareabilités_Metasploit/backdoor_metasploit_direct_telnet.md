@@ -95,6 +95,6 @@ On peut verifier sur la machine VM Linux vulnérable Metaspoitable , le réperto
 
 >[!TIP]
 >
-> INCONVENIENT : Telnet est a eviter car il laisse les message en clair sur le reseau sans les crypter.
+> INCONVENIENT : Telnet est a eviter car il permet de voir les mots de passe et commandes en clair.
 >
 > AVANTAGE : Telnet peut servir à tester la communication vers un port facilement.
