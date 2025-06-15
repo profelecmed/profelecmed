@@ -31,7 +31,7 @@ Pour bien commenver voir **Hygiène_de_base**
 
 #### 📒 Craquer le mot de passe d'une session pour se connecter en ssh:
 
-https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM-kali/brute%20force%20avec%20Hydrar/eadme.md
+ * **Brute force avec Hydra*  https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM-kali/brute%20force%20avec%20Hydrar/eadme.md
 
 #### 📒 Exegol est une alternative a Kalilinux
 
