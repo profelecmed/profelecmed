@@ -25,6 +25,8 @@ Pour bien commenver voir **Hygiène_de_base**
 
 ### EXEMPLES CYBER :
 
+#### MOT DE PASSE :
+
 #### 📒 Craquer le mot de passe d'un fichier zip:
 
   * **Brute force avec john the ripper**  [Cybersécurité/VM_kali/brute force avec john the ripper](https://github.com/profelecmed/profelecmed/tree/main/Cybers%C3%A9curit%C3%A9/VM_kali/brute%20force%20avec%20john%20the%20ripper)
@@ -33,6 +35,12 @@ Pour bien commenver voir **Hygiène_de_base**
 
  * **Brute force avec Hydra*  https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM-kali/brute%20force%20avec%20Hydrar/eadme.md
 
+
+#### VULNERABILITE :
+
+#### 📒 Vulnérabilités: Ouverture d'une "backdoor" sur la machine Metaspoitable directement avec le protocole Telnet.
+
+https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_kali_Vulnareabilit%C3%A9s_Metasploit/backdoor_metasploit_direct_telnet.md
 
 #### 📒 Vulnérabilités: Utilisation d'un exploit Metasploit pour ouvrir une "backdoor" sur la machine Metaspoitable.
 
