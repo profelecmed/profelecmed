@@ -48,14 +48,14 @@ réponse attendue:
 > Starting Nmap 7.95 (https://nmap.org) at ....
 >
 > ....
-
 >Port     STATE    Service    Version
 >
-> **21/tcp   open  ftp   vsf......**
+> 21/tcp   open  ftp   vsf......
 >
+> **1524/tcp    open  bindshell   Metasploitable root shell**
 >  .....
 
-**vsftpd** est un serveur FTP.
+**bindshell** est unz technique pour ouvrir un port sur une machine.
 
 On va rechercher avec Metasploit s'il existe des vulnaréabilité sur les **vsf...**
 
