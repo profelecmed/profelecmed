@@ -41,3 +41,12 @@ réponse attendue:
 >
 
 Nous avons donc trouver les ports ouverts avec les services associés pour notre deuxième machine, VM Metsploitable.  Le port **XX pour le ssh**.
+
+> [!NOTE]
+> Les ports 0 à 1023 sont les ports réservés.
+>
+> Les ports 1024 à 49151 sont les ports enregistrés.
+>
+> Les ports 49152 à 65535 sont les ports dynamiques et/ou privés.
+>
+> https://github.com/profelecmed/profelecmed/blob/main/Ports.md
