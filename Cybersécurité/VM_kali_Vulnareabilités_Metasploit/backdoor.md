@@ -1,4 +1,4 @@
-# Vulnérabilités Metasploit: Utilisation d'un exploit pour ouvrir une "backdoor"
+# Vulnérabilités: Utilisation d'un exploit Metasploit pour ouvrir une "backdoor" sur la machine Metaspoitable.
 
 Metasploit est un framework d’exploitation de vulnérabilités
 
