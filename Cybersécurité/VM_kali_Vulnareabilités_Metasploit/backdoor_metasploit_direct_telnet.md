@@ -1,4 +1,4 @@
-# Vulnérabilités: Ouverture d'une "backdoor" sur la machine Metaspoitable directement avec le protocole Telnet:
+# Vulnérabilités: Ouverture d'une "backdoor" sur la machine Metaspoitable directement avec le protocole Telnet.
 
 Metasploit est un framework d’exploitation de vulnérabilités
 
