@@ -140,4 +140,7 @@ on peux se déplacer , créer un répertoire , ....
 
 On peut verifier sur la machine VM Linux vulnérable Metaspoitable , le répertoire dirciel existe.
 
+>[!TIP]
+>
+> Pour supprimer ce type de vulnérabilités vous devez impérativement mettre à jours vous systèmes et leurs applications.
 
