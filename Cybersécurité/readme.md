@@ -36,7 +36,7 @@ Pour bien commenver voir **Hygiène_de_base**
  * **Brute force avec Hydra*  https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM-kali/brute%20force%20avec%20Hydrar/eadme.md
 
 
-#### VULNERABILITE :
+#### VULNERABILITES :
 
 #### 📒 Vulnérabilités: Ouverture d'une "backdoor" sur la machine Metaspoitable directement avec le protocole Telnet.
 
@@ -46,6 +46,8 @@ https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_
 
 [https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_kali_Vulnareabilit%C3%A9s_Metasploit/backdoor_metasploit_exploit.md]
 
+
+#### AUTRES OS CYBERT:
 
 #### 📒 Exegol est une alternative a Kalilinux
 
