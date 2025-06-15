@@ -1,4 +1,4 @@
-# Nmap Scanne des Ports ouverts et applications sur une machine
+# Nmap Scanne les Ports ouverts et les applications avec leur numéro de version sur une machine
 
 nmap               |  Permet d'analyser les ports et de faire un mapping, Exemple : nmap -p 80 192.168.1.40 ici on scanne le port 80 de l'adresse ip , 80/tcp closed http
 
