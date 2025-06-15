@@ -77,7 +77,7 @@ Résultats:
 
 ## Test la backdoor
 
-on peux se déplacer , créer un répertoire , ....
+on peux se déplacer dans le répertoire games , créer un répertoire dirtelnetvotrenom, ....
 
     ls
 
