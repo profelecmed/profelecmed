@@ -61,9 +61,9 @@ On va donc essayer de se connecter directement avec le protocol Telnet sur la ma
 
     telnet 192.168.56.xx 1524
 
-* on a donc le protocole telnet
-* l'adresse ip de la cible
-* le port sur lequel on veut se connecter , ici celui de bindshell le 1524
+* On a donc le protocole telnet
+* L'adresse ip de la cible
+* Le port sur lequel on veut se connecter , ici celui de bindshell le 1524
 
 Résultats:
 >
