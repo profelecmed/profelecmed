@@ -27,6 +27,9 @@ Sous Kalilinux lancer Nmap
 
         nmap -v -sb 192.168.2.0/24
 
+* -V printe version number
+  
+ 
 On obtient: 
 
 > ✖️ Nmap scan report for 192.100.2.2 [host down]
