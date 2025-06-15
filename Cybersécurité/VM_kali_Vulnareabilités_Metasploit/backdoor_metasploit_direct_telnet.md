@@ -92,3 +92,9 @@ on peux se déplacer , créer un répertoire , ....
     ls
 
 On peut verifier sur la machine VM Linux vulnérable Metaspoitable , le répertoire dirciel existe.
+
+>[!TIP]
+>
+> INCONVENIENT : Telnet est a eviter car il laisse les message en clair sur le reseau sans les crypter.
+>
+> AVANTAGE : Telnet peut servir à tester la communication vers un port facilement.
