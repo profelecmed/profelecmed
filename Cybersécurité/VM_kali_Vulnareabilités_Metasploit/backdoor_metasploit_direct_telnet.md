@@ -73,4 +73,22 @@ Résultats:
 >
 >connected to 192.168.56.xx
 
+------
 
+## Test la backdoor
+
+on peux se déplacer , créer un répertoire , ....
+
+    ls
+
+    cd home
+
+    ls
+
+    cd 
+
+    mkdir dirciel
+
+    ls
+
+On peut verifier sur la machine VM Linux vulnérable Metaspoitable , le répertoire dirciel existe.
