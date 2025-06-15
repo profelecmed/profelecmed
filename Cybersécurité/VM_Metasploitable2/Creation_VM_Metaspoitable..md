@@ -14,7 +14,7 @@ Elle est intentionnellement vulnérable afin de pouvoir tester des attaques.
 * Name and Operating System
   * Non : Linux_lab_vulnerable
   * Type : Linux
-  * Subtype : Debian
+  * Subtype : Ubuntu
 * Hard Disk :
 *  Use an existing Virtual Hard Disk File
  *  Ajouter  : Sélectionner le chemin pour Metasploitable.vmdk 
