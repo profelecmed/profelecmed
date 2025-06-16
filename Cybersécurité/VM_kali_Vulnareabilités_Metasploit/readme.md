@@ -4,6 +4,7 @@
 - **Vulnérabilité** : C'est une faiblesse dans le système qui peut être exploitée afin de compromettre sa sécurité.
 - **Exploit** : C'est le moyen par lequel un attaquant profite d’un défaut , il utilise un code informatique ou une technique permettant d'exploiter une vulnérabilité dans un système.
 - **Payload** : C'est un contenu malveillant délivré par un exploit pouvant inclure des commandes ou des scripts. On le nomme parfois charge utile.
+- **shellcode** ! C'est une suite d’instructions utilisées par un **payload** lors de l’exploitation
 - **Dropper**: C'est le programme qui va installer le **Payload**.
 
 
