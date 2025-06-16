@@ -2,6 +2,8 @@
 
 ## Vocabulaire 📑
 - **Vulnérabilité** : C'est une faiblesse dans le système qui peut être exploitée afin de compromettre sa sécurité.
+- **Exploit** : C'est un code informatique ou une technique permettant d'exploiter une vulnérabilité dans un système.
+
 
 
 
