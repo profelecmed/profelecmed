@@ -7,6 +7,8 @@
 - **shellcode** ! C'est une suite d’instructions utilisées par un **payload** lors de l’exploitation
 - **Dropper**: C'est le programme qui va installer le **Payload**.
 
+## Outils de Metasploit
+* MSFpayload était un outil de Metasploit utilisé pour générer des payloads
 
 
 
