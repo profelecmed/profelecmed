@@ -17,6 +17,7 @@ Home Assistant est une solution domotique
 
 ## Etape 2 :
 * Ouvrir l’url:  http://localhost:8123
+* ou   http://localhost:8123/onboarding.html
 * Se reconnecter.
 * Identifiant : glpi
 * Mot de passe : glpi
