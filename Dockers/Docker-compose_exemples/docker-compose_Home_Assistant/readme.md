@@ -1,5 +1,8 @@
 # Home Assistant
 
+Home Assistant est une solution domotique 
+
+
 ## Prérequis:
 - Créer un dossier sur le bureau
 - Nommer le dossier sans espace, Exemple docker_compose_home_assistant
@@ -13,7 +16,7 @@
         docker-compose up --build -d
 
 ## Etape 2 :
-* Ouvrir l’url:  [ http://localhost/](http://localhost:8123)
+* Ouvrir l’url:  http://localhost:8123
 * Se reconnecter.
 * Identifiant : glpi
 * Mot de passe : glpi
