@@ -24,6 +24,6 @@ Home Assistant est une solution domotique
 * Ouvrir l’url:  http://localhost:8123
 * ou   http://localhost:8123/onboarding.html
 * Se reconnecter.
-* Créer votre maison    
+* Créer ma maison connectée   
 * Identifiant : perso
 * Mot de passe : perso
