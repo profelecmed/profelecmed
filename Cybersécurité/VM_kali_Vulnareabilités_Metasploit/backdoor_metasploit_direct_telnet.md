@@ -55,7 +55,7 @@ réponse attendue:
 > **1524/tcp    open  bindshell   Metasploitable root shell**
 >  .....
 
-* **bindshell** est unz technique pour ouvrir un port sur une machine.
+* **bindshell** est un payload qui attache une invite de commande de la machine kali à l’écoute d’un port, ici 1024, sur la machine cible, ici metasploitable. 
 
 On va donc essayer de se connecter directement avec le protocol Telnet sur la machine.
 
