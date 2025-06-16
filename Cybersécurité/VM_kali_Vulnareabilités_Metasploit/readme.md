@@ -9,6 +9,9 @@
 
 ## Outils de Metasploit
 * MSFpayload était un outil de Metasploit utilisé pour générer des payloads
+* MSFencode était un outil de Metasploit utilisé pour encoder des payloads
+* 🔧 **MSFvenom** est un outil de Metasploit qui permet de générer et encoder des payloads pour les tests de pénétration.
+
 
 
 
