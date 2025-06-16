@@ -1,0 +1,20 @@
+version: '3.8'                                       # Spécifie la version du format Docker Compose utilisé.
+
+
+services:                                            # Début de la définition des services.
+
+  homeassistant:   # Nom du service homeassistant
+    image: homeassistant/home-assistant:stable       # Image Docker à utiliser pour ce service
+    container_name: homeassistant                    # Nom personnalisé pour le conteneur
+    environment:
+      - TZ=Europe/Paris
+    ports:
+      - 8123:8123                                    # Mapping des ports: le port 8123 du conteneur est mappé sur le port 8123 de l'hôte.
+    volumes:                                         # Début de la définition des volumes Docker.
+      - config:/config
+    restart: always                                  # Politique de redémarrage : redémarre toujours le conteneur si celui-ci s'arrête.
+
+volumes:
+   config:
+    driver: local
+                                         # Nom du volume Docker pour la persistance des données de homeassistant
