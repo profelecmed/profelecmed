@@ -3,7 +3,7 @@
 ## Vocabulaire 📑
 - **Vulnérabilité** : C'est une faiblesse dans le système qui peut être exploitée afin de compromettre sa sécurité.
 - **Exploit** : C'est un code informatique ou une technique permettant d'exploiter une vulnérabilité dans un système.
-- **Payload** : C'est un contenu malveillant pouvant inclure des commandes ou des scripts.
+- **Payload** : C'est un contenu malveillant délivré par un exploit pouvant inclure des commandes ou des scripts. On le nomme parfois charge utile.
 
 
 
