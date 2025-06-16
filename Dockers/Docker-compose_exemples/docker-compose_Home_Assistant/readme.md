@@ -14,6 +14,9 @@ Home Assistant est une solution domotique
 - Pour déployer votre application (Démarre vos services et conteneurs):
 
         docker-compose up --build -d
+* ** --build** Force la reconstruction des images avant de démarrer les conteneurs.
+* **-d** Exécute les conteneurs en arrière-plan, sans afficher leurs logs directement dans le terminal.
+
 
 ## Etape 2 :
 * Ouvrir l’url:  http://localhost:8123
