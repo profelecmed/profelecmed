@@ -10,9 +10,9 @@ Il est constituer de fichiers :
 - ....
 
 ## Vocabulaire 📑
-- **Stack** , C'est un ensemble de services qui fonctionnent ensemble pour exécuter une
+- **Stack** : C'est un ensemble de services qui fonctionnent ensemble pour exécuter une
 application.
-- **Volume** , Permet de rendre les données du conteneur persistantes.
+- **Volume** : Permet de rendre les données du conteneur persistantes.
 
 
 ## Début
