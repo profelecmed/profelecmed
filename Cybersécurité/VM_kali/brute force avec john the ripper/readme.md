@@ -119,6 +119,8 @@ VOUS POUVEZ LIRE LE MESSAGE SECRET : ...........................................
 >
 > Il est important d'avoir un mot de passe robuste.
 >
+> Un mot de passe solide et l’authentification à deux facteurs (2FA).
+>
 > Voir la CNIL : https://www.cnil.fr/fr/mots-de-passe-une-nouvelle-recommandation-pour-maitriser-sa-securite
 
 
