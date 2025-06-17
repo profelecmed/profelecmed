@@ -28,5 +28,7 @@ https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_
 https://github.com/profelecmed/profelecmed/blob/main/Cybers%C3%A9curit%C3%A9/VM_kali_Vulnareabilit%C3%A9s_Metasploit/backdoor_metasploit_exploit._vsfmd
 
 
+### Vulnérabilités: Utilisation d'un scanner de contenu web sur la machine Metaspoitable, Utilisation d'un exploit Metasploit utilisation afin d'ouvrir une backdoor pour modifier des pages web du site.
+
 > [!NOTE]
 > Si vous voulez en connaître plus sur Metasploit : https://docs.metasploit.com/
