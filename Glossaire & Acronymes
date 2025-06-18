@@ -172,7 +172,8 @@ Glossaire & Acronymes
  SQL             :  Structured Query Language
  SSI             :  Sécurité des Systèmes d'information
  SSID            :  Service set identifier , nom du réseau wifi
- Switch          :  Commutateur, niveau 2 : uniquement un LAN (adresses MAC)  , Niveau 3 :  fonction de routage (adresses IP)
+ SSO :  Single Sign-on : service d'authentification de session et d'utilisateur
+Switch          :  Commutateur, niveau 2 : uniquement un LAN (adresses MAC)  , Niveau 3 :  fonction de routage (adresses IP)
  Synchrone       :  On suit les étapes en même temps (Exemple : webinaires en direct )
  SysML           :  Systems Modeling Language : Langage de modélisation système
 ---------------------------------------                                                                                                T
