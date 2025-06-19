@@ -31,8 +31,7 @@ Glossaire & Acronymes
  BYOD            :  Bring Your Own Device
 ---------------------------------------                                                                                                C
  CAPTCHA.        :  Completely Automated Public Turing Test to Tell Computers and Humans Apart.  , Verifie que l'utilisateur n'est pas un robot !
- CAS :  Central Authentication Service :  protocole d’authentification unique SSO
-
+ CAS             :  Central Authentication Service       :  Protocole d’authentification unique SSO
  CC              :  copie carbone  / Destinataire secondaire
  CCi             :  Copie carbone invisible
  CE3M            :  Compatibilité ÉlectroMagnétique
@@ -80,6 +79,7 @@ Glossaire & Acronymes
  ETL             :  ESPACE TECHNIQUE LOGEMENT
  Exploit         :  Méthode utilisée pour exploiter une faille de vulnarébalité.
 ---------------------------------------                                                                                                 F 
+ faq             :  Foire Aux Questions
  firewall        :  Pare-feu il assure : Filtrage , authentification , gestion des droits, NAT
  firmware        :  C'est un un logiciel intégré dans un composant
  Flux            :  C'est un additif utile pour le brasage
@@ -172,8 +172,8 @@ Glossaire & Acronymes
  SQL             :  Structured Query Language
  SSI             :  Sécurité des Systèmes d'information
  SSID            :  Service set identifier , nom du réseau wifi
- SSO :  Single Sign-on : service d'authentification de session et d'utilisateur
-Switch          :  Commutateur, niveau 2 : uniquement un LAN (adresses MAC)  , Niveau 3 :  fonction de routage (adresses IP)
+ SSO             :  Single Sign-on : service d'authentification de session et d'utilisateur
+ Switch          :  Commutateur, niveau 2 : uniquement un LAN (adresses MAC)  , Niveau 3 :  fonction de routage (adresses IP)
  Synchrone       :  On suit les étapes en même temps (Exemple : webinaires en direct )
  SysML           :  Systems Modeling Language : Langage de modélisation système
 ---------------------------------------                                                                                                T
