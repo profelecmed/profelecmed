@@ -33,7 +33,8 @@ sous windows:
   * Puis entrer 
 
 - Mission 1 :
-   Taper la commande ci'dessous pour découvrir votre première mission :
+
+  Taper la commande ci'dessous pour découvrir votre première mission :
     
       gsh goal
 
