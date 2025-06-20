@@ -1,6 +1,7 @@
 # GameShell
 
 Nous allons faire le jeu Gameshell pour apprendre les commandes Linux.
+Gameshell a été mis au point par **Pierre Hyvernat** et **Rodolphe Lepigre**.
 
 ## Etape 1 
 * Créer un dossier sur le bureau
