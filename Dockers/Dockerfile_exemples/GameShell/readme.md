@@ -2,7 +2,6 @@
 
 Nous allons faire le jeu Gameshell pour apprendre les commandes Linux.
 
-Gameshell a été mis au point par **Pierre Hyvernat** et **Rodolphe Lepigre**.
 
 ## Etape 1 
 * Créer un dossier sur le bureau
@@ -24,3 +23,8 @@ sous windows:
 - Créer et démarre un conteneur à partir d’une image.
 
          docker run -it gameshellciel
+
+
+> [!NOTE]
+> Gameshell a été mis au point par **Pierre Hyvernat** et **Rodolphe Lepigre**.
+> https://github.com/phyver/GameShell/blob/master/README-fr.md
