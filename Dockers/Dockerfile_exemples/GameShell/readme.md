@@ -50,11 +50,11 @@ Objectif :
     
       gsh goal
 
-Faire la mission
+  Faire la mission
 
-Taper la commande : gsh check  pour valider votre première mission
+  Taper la commande : gsh check  pour valider votre première mission
 
-    gsh check
+      gsh check
 
 > [!NOTE]
 > Gameshell a été mis au point par **Pierre Hyvernat** et **Rodolphe Lepigre**.
