@@ -6,7 +6,7 @@ Nous allons faire le jeu Gameshell pour apprendre les commandes Linux.
 ## Etape 1 
 * Créer un dossier sur le bureau
 * Nommer le dossier sans espace,     Exemple **gamshellciel**
-* Copier vos fichiers
+* Copier le fichier
   * dockerfile
  
 
