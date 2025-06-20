@@ -27,3 +27,7 @@ Home Assistant est une solution domotique
 * Créer ma maison connectée   
 * Identifiant : perso
 * Mot de passe : perso
+
+
+> [!NOTE]
+> Home Assistant Communauté Francophone  https://www.hacf.fr/
