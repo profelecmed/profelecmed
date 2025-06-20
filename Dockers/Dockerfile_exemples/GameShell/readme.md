@@ -26,6 +26,8 @@ sous windows:
 
 - Attendre
   * Il démarre dnas le terminal
+
+-Lancement
   * Appuyer sur Entrée pour continuer
   * Faire Ctrl+C
   * Puis entrer 
