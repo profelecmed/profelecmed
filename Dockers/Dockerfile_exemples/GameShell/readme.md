@@ -23,4 +23,4 @@ sous windows:
   
 - Créer et démarre un conteneur à partir d’une image.
 
-         docker run -d -p 8080:80 gameciel
+         docker run -it gameshellciel
