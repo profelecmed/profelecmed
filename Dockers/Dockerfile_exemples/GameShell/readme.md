@@ -27,9 +27,10 @@ sous windows:
 - Attendre
   * Il démarre dnas le terminal
 
-## Etape 4 : Jouer
-
 - Lancement
+
+  
+## Etape 4 : Jouer
 
 Objectif :
 
