@@ -1,4 +1,4 @@
-# UTILISATION DE L'IA
+# UTILISATIONS DE L'IA
 
 ### La recherche d’informations 
   * ✔️ Rapide
@@ -8,7 +8,12 @@
 
 ### A partir d'un bon prompt création:
  * Plan pour un cours "prof" , exposé "élève"
+ * 
    
 ### Différentier le travail
 
 ### Produire une synthèse
+ * Carte mentale
+
+
+### Evaluer
