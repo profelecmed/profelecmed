@@ -11,7 +11,7 @@ RUN apt install --no-install-recommends --assume-yes \
     procps \
     nano \
     tree \
-    bsdmainutils \
+    ncal \
     x11-apps
 RUN apt clean
 RUN rm -rf /var/lib/apt/lists/*
@@ -21,8 +21,8 @@ RUN rm -rf /var/lib/apt/lists/*
 RUN sed -i 's/^# *\(en_US.UTF-8\)/\1/' /etc/locale.gen
 RUN sed -i 's/^# *\(fr_FR.UTF-8\)/\1/' /etc/locale.gen
 RUN locale-gen
-RUN update-locale LANG=fr_FR.UTF-8
-ENV LANG fr_FR.UTF-8
+RUN update-locale LANG=en_US.UTF-8
+ENV LANG en_US.UTF-8
 
 ###
 # set user and group
