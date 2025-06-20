@@ -24,6 +24,12 @@ sous windows:
 
          docker run -it gameshellciel
 
+- Attendre
+  * Il démarre dnas le terminal
+  * Appuyer sur Entrée pour continuer
+  * Faire Ctrl+C
+  * Puis entrer 
+  
 
 > [!NOTE]
 > Gameshell a été mis au point par **Pierre Hyvernat** et **Rodolphe Lepigre**.
