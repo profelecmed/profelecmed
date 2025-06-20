@@ -29,7 +29,11 @@ sous windows:
   * Appuyer sur Entrée pour continuer
   * Faire Ctrl+C
   * Puis entrer 
-  
+
+- Mission 1 :
+   Taper la commande ci'dessous pour découvrir votre première mission :
+    
+      gsh goal
 
 > [!NOTE]
 > Gameshell a été mis au point par **Pierre Hyvernat** et **Rodolphe Lepigre**.
