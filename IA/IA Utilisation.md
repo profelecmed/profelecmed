@@ -6,6 +6,8 @@ Qu'est-ce que l'IA ?
 
 [Cadre d'usage de l'IA en éducation](https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647?actId=~av10zt61vVG7SfYyASTH5UuOSCi22VrBuxtcQ0ETwB-7u9YBHObe-UsJj93PjYTqSeMZAW_ZJf-eFWgSUldGlc5m6ZLyXvok41X1THkG36gMcdaloJYTpSA%3D%3D&actCampaignType=CAMPAIGN_MAIL&actSource=539279) 
 
+Les usages de l’IA doivent se faire dans le respect des valeurs et principes de l’École de la République.
+
 > [!IMPORTANT]
 > L’usage de l’IA en éducation s’effectue exclusivement au service des apprentissages et des pratiques professionnelles, dans le respect des valeurs de l’École de la République, du cadre légal sur la protection des données à caractère personnel, de la liberté pédagogique et des enjeux environnementaux.
 > 
