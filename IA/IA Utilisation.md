@@ -21,7 +21,7 @@ Qu'est-ce que l'IA ?
 >
 > Ethique
 
-file:///C:/Users/PC/Downloads/l-ia-en-ducation---cadre-d-usage-227697.pdf
+Cadre d'usage de l'IA en éducation](https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647?actId=~av10zt61vVG7SfYyASTH5UuOSCi22VrBuxtcQ0ETwB-7u9YBHObe-UsJj93PjYTqSeMZAW_ZJf-eFWgSUldGlc5m6ZLyXvok41X1THkG36gMcdaloJYTpSA%3D%3D&actCampaignType=CAMPAIGN_MAIL&actSource=539279) 
 
 ### La recherche d’informations 
   * ✔️ Rapide
