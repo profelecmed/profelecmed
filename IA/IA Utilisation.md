@@ -18,6 +18,8 @@ Qu'est-ce que l'IA ?
 > impact environnemental
 >
 > Exprit crtitique
+>
+> Ethique
 
 
 ### La recherche d’informations 
