@@ -49,3 +49,5 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 
 > [!NOTE]
 > https://eduscol.education.fr/4188/les-intelligences-artificielles-et-leurs-usages-en-education
+>
+> https://www.reseau-canope.fr/actualites/article/utiliser-lintelligence-artificielle-generative-pour-concevoir-des-evaluations
