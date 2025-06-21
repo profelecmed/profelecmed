@@ -25,6 +25,7 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 >
 > Ethique
 
+------
 
 ### La recherche d’informations 
   * ✔️ Rapide
@@ -43,6 +44,8 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 
 
 ### Evaluer
+* 
+------
 
 > [!NOTE]
 > https://eduscol.education.fr/4188/les-intelligences-artificielles-et-leurs-usages-en-education
