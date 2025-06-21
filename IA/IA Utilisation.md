@@ -15,11 +15,11 @@ Qu'est-ce que l'IA ?
 
 
 > [!CAUTION]
-> DATA
+> DATA ,  protection des données personnelles
 > 
-> impact environnemental
+> Impact environnemental
 >
-> Exprit crtitique
+> Exprit crtitique , les biais et discriminations
 >
 > Ethique
 
