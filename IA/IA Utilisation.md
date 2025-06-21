@@ -1,5 +1,11 @@
 # UTILISATIONS DE L'IA
 
+Qu'est-ce que l'IA ? 
+* IA "prédictive
+* IA "générative
+
+
+
 ### La recherche d’informations 
   * ✔️ Rapide
   * ✔️ Questions avec un langage famillier ou approximatif
