@@ -3,7 +3,7 @@
 ### La recherche d’informations 
   * ✔️ Rapide
   * ✔️ Questions avec un langage famillier ou approximatif
-  * ✖️ Information a vérifier 
+  * ✖️ Information à vérifier 
 
 
 ### A partir d'un bon prompt création:
