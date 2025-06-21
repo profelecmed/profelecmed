@@ -19,7 +19,7 @@
 -  **ASI** artificial superintelligence, Niveau supérieure à une intelligence humaine, "N’existe pas, mais rien n'est impossible).
 -  **AI Agents**      :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
 -  **Algorithme**
-
+- **chatpdf** https://www.chatpdf.com/fr
 ### B
 - **Biais**                 : C'est la distorsion due aux données d'entraînement biaisées; Le Biais de Confirmation  , culturel, de genre,... . 
 - **Big Data**
