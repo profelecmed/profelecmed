@@ -25,6 +25,8 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 > 
 > Ethique , discriminations
 
+------
+ La crainte d’une paresse cognitive
 
 ------
 
@@ -47,6 +49,12 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 
 ### Evaluer
 * 
+
+> [!Warning]
+>
+> vibecoding , coder à la voix mais attention à la structure et aux failles potentielles
+
+
 ------
 
 > [!NOTE]
