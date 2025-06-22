@@ -1,4 +1,4 @@
-# UTILISATIONS DE L'IA
+8# UTILISATIONS DE L'IA
 
 Qu'est-ce que l'IA ? 
 * IA "prédictive
@@ -52,7 +52,7 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 
 > [!Warning]
 >
-> vibecoding , coder à la voix "vcoder à l’instinct" mais attention à la structure et aux failles potentielles
+> vibecoding , coder à la voix "coder à l’instinct" mais attention à la structure et aux failles potentielles
 
 
 ------
