@@ -1,0 +1,8 @@
+# Commandes
+
+### Affiche les informations des interfaces
+Router#
+
+    show ip interface brief
+
+----
