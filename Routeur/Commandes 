@@ -7,7 +7,7 @@ Router#
     show running config
 
 ----
-### Affiche la configuration non encore enregistrer:
+### Affiche la configuration de démarrage 
 
 Router#
 
