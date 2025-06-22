@@ -21,9 +21,10 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 > 
 > Impact environnemental
 >
-> Exprit crtitique , les biais et discriminations
->
-> Ethique
+> Exprit crtitique , les biais , fake news
+> 
+> Ethique , discriminations
+
 
 ------
 
