@@ -1,5 +1,15 @@
 # Commandes
 
+### Affiche la configuration actuelle:
+
+Router#
+
+    show run config
+
+----
+
+----
+
 ### Affiche les informations des interfaces
 Router#
 
