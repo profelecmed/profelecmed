@@ -15,6 +15,13 @@ Router#
     show running-config
 
 ----
+### Enregistrer la configuration
+
+Router#
+
+    copy running-config startup-config
+
+----
 
 ### Affiche les informations des interfaces
 Router#
