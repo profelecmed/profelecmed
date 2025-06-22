@@ -39,6 +39,7 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
  * 
    
 ### Différentier le travail
+ * Favoriser l’autonomie  
 
 ### Produire une synthèse
  * Carte mentale
