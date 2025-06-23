@@ -38,6 +38,7 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 
 ### A partir d'un bon prompt création:
  * Plan pour un cours "prof" , exposé "élève"
+ * Simplification des concepts 
  * ✖️ IL faut bien connaître en amont son sujet.
 
 
