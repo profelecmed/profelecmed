@@ -37,12 +37,17 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 
 
 ### A partir d'un bon prompt création:
-   *  Le **rôle** que doit simuler l'IA , exemple un élève de terminale BAC PRO CIEL
-   *  Ce que l'IA doit **faire**
-   *  Mettre un **contexte**
-   *  Identifier et lui donner les **contraintes**
-   *  Préciser **la forme de la réponse** attendue
-   *  **Tester** votre prompt et **l’ajuster** si nécessaire
+>  Le **rôle** que doit simuler l'IA , exemple un élève de terminale BAC PRO CIEL
+>
+>  Ce que l'IA doit **faire**
+>
+>  Mettre un **contexte**
+>
+>  Identifier et lui donner les **contraintes**
+>
+>  Préciser **la forme de la réponse** attendue
+>
+> **Tester** votre prompt et **l’ajuster** si nécessaire
  * Plan pour un cours "prof" , exposé "élève"
  * Simplification des concepts 
  * ✖️ IL faut bien connaître en amont son sujet.
