@@ -1,4 +1,4 @@
-8# UTILISATIONS DE L'IA
+# UTILISATIONS DE L'IA
 
 Qu'est-ce que l'IA ? 
 * IA "prédictive
