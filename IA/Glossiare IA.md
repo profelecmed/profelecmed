@@ -16,7 +16,8 @@
   *  **Mistral AI** Le chat , https://chat.mistral.ai/chat
   *  **Perplexity** https://www.perplexity.ai/
   *  Outils IA
-      * **chatpdf** Chattez avec n’importe quel PDF , https://www.chatpdf.com/fr   
+      * **chatpdf** Chattez avec n’importe quel PDF , https://www.chatpdf.com/fr
+      * **markmap** Convertir un fichier markdown en carte mentale, https://markmap.js.org/repl
 - **AGI** Artificial General Intelligence , Niveau d'une intelligence humaine, "Pour bientôt"
 -  **ASI** artificial superintelligence, Niveau supérieure à une intelligence humaine, "N’existe pas, mais rien n'est impossible).
 -  **AI Agents**      :  Un agent intelligent est une entité autonome qui effectue une tâche à la place de l'utilisateur.
