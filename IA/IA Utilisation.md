@@ -19,7 +19,7 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 > [!CAUTION]
 > DATA ,  protection des données personnelles
 > 
-> Impact environnemental
+> Impact environnemental , Une utilisation modéré et réservé à certaines situations.
 >
 > Exprit crtitique , les biais , fake news
 > 
