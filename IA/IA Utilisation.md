@@ -32,7 +32,7 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 
 ### La recherche d’informations 
   * ✔️ Rapide
-  * ✔️ Questions avec un langage famillier ou approximatif
+  * ✔️ Questions avec un langage naturel "famillier" ou approximatif
   * ✖️ Information à vérifier 
 
 
