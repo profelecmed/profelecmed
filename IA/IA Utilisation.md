@@ -45,7 +45,8 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 ### Différentier le travail
  * Favoriser l’autonomie
  * Découpage de sujets complexes
- * Modifier les couleurs  
+ * Modifier les couleurs
+ * Transformer le texte en parole  ou l'inverse.
 
 ### Rédaction du travail
  * correction des fautes d’orthographe et de grammaire , syntaxe
