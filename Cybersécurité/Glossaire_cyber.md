@@ -11,6 +11,9 @@
 ## E
 * **Exploit zero day**
 
+# R
+* **rootkit** , 
+
 ## V
 * **Ver** , c'est un programme autonomre
 * **Virus** ,  
