@@ -54,6 +54,7 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 ### Produire une synthèse
  * Carte mentale
  * Résumer
+ * Déterminer les mots clès
    
 
 
