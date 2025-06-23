@@ -38,15 +38,18 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
 
 ### A partir d'un bon prompt création:
  * Plan pour un cours "prof" , exposé "élève"
- * 🚩 IL faut bien connaître en amont son sujet.
+ * ✖️ IL faut bien connaître en amont son sujet.
 
 
 ### Différentier le travail
  * Favoriser l’autonomie
- * Découpage de sujets complexes 
+ * Découpage de sujets complexes
+ * Modifier les couleurs  
 
 ### Rédaction du travail
- * correction des fautes d’orthographe et de grammaire , syntaxe 
+ * correction des fautes d’orthographe et de grammaire , syntaxe
+   * Exemple :rédiger un e-mail pour une recherche de PFMP. 
+
 
 ### Produire une synthèse
  * Carte mentale
