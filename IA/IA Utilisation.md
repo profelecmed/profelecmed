@@ -48,6 +48,9 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
  * Modifier les couleurs
  * Transformer le texte en parole  ou l'inverse.
 
+### Organiser son travail
+ * organiser ses tâches  , ses ressources.
+
 ### Rédaction du travail
  * correction des fautes d’orthographe et de grammaire , syntaxe
    * Exemple :rédiger un e-mail pour une recherche de PFMP. 
