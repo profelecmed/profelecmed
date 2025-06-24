@@ -1,4 +1,4 @@
-# Programme en C  HellloCiel
+/* Programme en C  HellloCiel */
 
 
 #include <stdio.h>
