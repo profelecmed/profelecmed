@@ -66,7 +66,7 @@
                   netstat -a         |  Permet afficher tous les ports en écoute sur votre PC ainsi que les connexions actives.
 
                   nslookup           |  Permet de diagnostiquer les problèmes liés au DNS
-
+Rtfm    :  Read The Fucking Manual , 😁 La réponse a donner quand on vous demande une commmande puis une autre puis ...
 
 ## Licence d'exploitation OEM :  
                   Original Equipment Manufacturer
