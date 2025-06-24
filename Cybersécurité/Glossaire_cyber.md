@@ -8,7 +8,7 @@
 * **Backdoor**
 
 # C
-* **cryptographie asymétrique** , 
+* **cryptographie asymétrique** , ( Clé publique , Clé privée )
 * **cryptographie symétrique** ,
 
   
