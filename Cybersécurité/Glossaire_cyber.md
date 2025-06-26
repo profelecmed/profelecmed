@@ -16,6 +16,7 @@
 * **Exploit zero day**
 
 ## P
+* **Patch** c'est un correctif à appliquer pour supprimer une faille de sécurité.
 * **phishing**
 
   
