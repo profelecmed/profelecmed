@@ -15,7 +15,7 @@ Support :
 # Transfert de la carte USB/WI-FI à la VM Kalilinux
 * Ouvrir Virtualbox, dans USB
     * ✔️ Controleur 3.0
-    * + Ajouter un filtre
+    * Ajouter un filtre +
         Choisir :  **NETGEAR WNA1 ...** 
 
 
