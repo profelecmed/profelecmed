@@ -9,7 +9,8 @@ Support :
     Carte usb / Wifi
         driver cles wifi  Netgear WNA1100
 # Prérequis
-Installer sur votre PC le driver pour la clès usb/WI-FI
+* Installer sur votre PC le driver pour la clès usb/WI-FI
+* Vérifier dans le **Gestionnaire de périphérique** partie **Carte réseau** que NETGEAR WNA1 ...** apparaisse
 
 
   # Méthode
