@@ -8,6 +8,8 @@ Support :
         Fern Wi-Fi Cracker
     Carte usb / Wifi
         driver cles wifi  Netgear WNA1100
+# Prérequis
+Installer le driver pour la clès usb/WIFI
 
 
   # Méthode
