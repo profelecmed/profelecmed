@@ -12,4 +12,9 @@ Support :
 
 * Ouvrir Virtualbox est dans réseau choisir accès par pont
 * Démarrer kalilinux
+* Vérification du réseau
+    * Ouvrir le terminal
+
+          ip &
+          
 * Rechercher dans kali Fern Wi-Fi Cracker
