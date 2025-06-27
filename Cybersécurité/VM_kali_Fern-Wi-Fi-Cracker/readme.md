@@ -5,12 +5,15 @@
 Support :
 
     Kalilinux (par exemple en VM)
-    Fern Wi-Fi Cracker
+        Fern Wi-Fi Cracker
+    Carte usb / Wifi
+        driver cles wifi  Netgear WNA1100
 
 
   # Méthode
 
 * Ouvrir Virtualbox est dans réseau choisir accès par pont
+* Brancher la clès usb wifi
 * Démarrer kalilinux
 * Vérification du réseau
     * Ouvrir le terminal
