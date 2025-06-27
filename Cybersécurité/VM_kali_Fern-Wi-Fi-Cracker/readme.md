@@ -10,12 +10,17 @@ Support :
         driver cles wifi  Netgear WNA1100
 # Prérequis
 * Installer sur votre PC le driver pour la clès usb/WI-FI
-* Vérifier dans le **Gestionnaire de périphérique** partie **Carte réseau** que NETGEAR WNA1 ...** apparaisse
+* Vérifier dans le **Gestionnaire de périphérique** partie **Carte réseau** que **NETGEAR WNA1 ...** apparaisse.
 
+# Transfert de la carte USB/WI-FI à la VM Kalilinux
+* Ouvrir Virtualbox, dans USB
+    * ✔️ Controleur 3.0
+    * + Ajouter un filtre
+        Choisir :  **NETGEAR WNA1 ...** 
 
   # Méthode
 
-* Ouvrir Virtualbox est dans réseau choisir accès par pont
+* Ouvrir Virtualbox, dans réseau choisir accès par pont
 * Brancher la clès usb wifi
 * Démarrer kalilinux
 * Vérification du réseau
