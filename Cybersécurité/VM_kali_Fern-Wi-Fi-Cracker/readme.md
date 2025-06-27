@@ -7,4 +7,9 @@ Support :
     Kalilinux (par exemple en VM)
     Fern Wi-Fi Cracker
 
-  
+
+  # Méthode
+
+* Ouvrir Virtualbox est dans réseau choisir accès par pont
+* Démarrer kalilinux
+* Rechercher dans kali Fern Wi-Fi Cracker
