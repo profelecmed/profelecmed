@@ -21,10 +21,13 @@ Support :
         Choisir :  **NETGEAR WNA1 ...** 
 * Ouvrir Virtualbox, dans réseau choisir accès par pont
 * Démarrer kalilinux
+* Authentification des données réseau (ssid et mot de passe)
 * Vérification du réseau
     * Ouvrir le terminal
 
           ip &
+> Vous devez avoir **wlan0 : flags ..........
+> inet 192.168.1.XX
 
   # Méthode
 
