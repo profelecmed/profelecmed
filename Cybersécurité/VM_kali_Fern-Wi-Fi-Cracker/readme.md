@@ -4,6 +4,7 @@
 
 Support :
 
+    PC windows (Hôte)
     Kalilinux (par exemple en VM)
         Fern Wi-Fi Cracker
     Carte usb / Wifi
