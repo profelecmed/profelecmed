@@ -33,6 +33,7 @@ Support :
 
   # Méthode
 
+## partie 1 : Lancement
 * Rechercher dans kali Fern Wi-Fi Cracker
 * Authentification admin
 * Sélectionner l'interface à cibler **wlan0**
@@ -47,7 +48,10 @@ Support :
         >
         > La puissance du signal
         >
-        > Le cryptage , ici **WEP**
+        > Le cryptage , ici 
+## Etape 2: si clè WEP
+
+**WEP**, Wired Equivalent Privacy
         >
         > le support , ici WPS
             
