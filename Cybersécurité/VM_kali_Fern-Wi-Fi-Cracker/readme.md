@@ -38,3 +38,5 @@ Support :
 * Activer
 * Détection des **Wi-Fi wep**c'est quoi le essid
 * Lancer le **Craking Encryption**
+      * Attendre , l'injection est en cours sur wlan0.
+  
