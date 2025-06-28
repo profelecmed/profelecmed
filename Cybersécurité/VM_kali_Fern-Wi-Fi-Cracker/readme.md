@@ -36,7 +36,9 @@ Support :
 * Authentification admin
 * Sélectionner l'interface **wlan0**
 * Activer
-* Détection des **Wi-Fi wep**c'est quoi le essid
+* Détection des **Wi-Fi wep**
+    * On obtient le ESSID et le BSSID de la borne.    
 * Lancer le **Craking Encryption**
-      * Attendre , l'injection est en cours sur wlan0.
+
+    * Attendre , l'injection est en cours sur wlan0.
   
