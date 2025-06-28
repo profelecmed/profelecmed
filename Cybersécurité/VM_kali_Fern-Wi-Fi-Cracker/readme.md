@@ -49,11 +49,11 @@ Support :
         > La puissance du signal
         >
         > Le cryptage , ici 
+
 ## Etape 2: si clè WEP
 
 **WEP**, Wired Equivalent Privacy
-        >
-        > le support , ici WPS
+        
             
 * Lancer le **Craking Encryption**
 
@@ -65,3 +65,7 @@ Support :
 
 * Pendant l'attaque votre VM est déconnecté de votre réseau hôte.
   
+
+## Etape 3 si clè WPA
+
+* Choisir une 
