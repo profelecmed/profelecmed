@@ -37,8 +37,22 @@ Support :
 * Sélectionner l'interface **wlan0**
 * Activer
 * Détection des **Wi-Fi wep**
-    * On obtient le ESSID et le BSSID de la borne.    
+    * On obtient:
+        > le ESSID
+        >
+        > le BSSID
+        >
+        > Le channel
+        >
+        > La puissance du signam
+        >
+        > Le cryptage , ici **WEP**
+        >
+        > le support , ici WPS
+            
 * Lancer le **Craking Encryption**
 
-    * Attendre , l'injection est en cours sur wlan0.
+    * Choisir l'attaque Regular ou WPS
+
+* Attendre , l'injection est en cours sur wlan0.
   
