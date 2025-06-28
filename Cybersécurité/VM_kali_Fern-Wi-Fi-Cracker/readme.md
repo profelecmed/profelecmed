@@ -21,6 +21,7 @@ Support :
         Choisir :  **NETGEAR WNA1 ...** 
 * Ouvrir Virtualbox, dans réseau choisir accès par pont
 * Démarrer kalilinux
+* Ouvrir la configuration réseau
 * Authentification des données réseau (ssid et mot de passe)
 * Vérification du réseau
     * Ouvrir le terminal
@@ -44,7 +45,7 @@ Support :
         >
         > Le channel
         >
-        > La puissance du signam
+        > La puissance du signal
         >
         > Le cryptage , ici **WEP**
         >
@@ -55,4 +56,6 @@ Support :
     * Choisir l'attaque Regular ou WPS
 
 * Attendre , l'injection est en cours sur wlan0.
+
+* Pendant l'attaque votre VM est déconnecté de votre réseau hôte.
   
