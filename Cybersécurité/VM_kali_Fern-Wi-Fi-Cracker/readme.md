@@ -1,4 +1,4 @@
-z#  Fern Wi-Fi Cracker
+8z#  Fern Wi-Fi Cracker
 
 🚩 Attention il est interdit d'accéder à des systèmes sans autorisation🏴‍☠️
 
@@ -78,3 +78,5 @@ Nous allons utiliser un dictionnaire
 
 rockyou
 Vérifier la présence de rockyou dans le répertoire worklists. Le chemin est /usr/share/ferm ....
+
+* Choisir la bonne adresse MAC
