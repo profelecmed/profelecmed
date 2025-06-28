@@ -1,4 +1,4 @@
-#  Fern Wi-Fi Cracker
+z#  Fern Wi-Fi Cracker
 
 🚩 Attention il est interdit d'accéder à des systèmes sans autorisation🏴‍☠️
 
@@ -68,4 +68,10 @@ Support :
 
 ## Etape 3 si clè WPA
 
-* Choisir une 
+* Choisir une wordlist
+wordlist
+ 
+Nous allons utiliser un dictionnaire
+
+rockyou
+Vérifier la présence de rockyou dans le répertoire worklists. Le chemin est /usr/share/wordlists
