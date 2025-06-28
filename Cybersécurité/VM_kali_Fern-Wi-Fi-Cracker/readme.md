@@ -33,7 +33,7 @@ Support :
 
   # Méthode
 
-## partie 1 : Lancement
+## Etape 1 lancement :
 * Rechercher dans kali Fern Wi-Fi Cracker
 * Authentification admin
 * Sélectionner l'interface à cibler **wlan0**
