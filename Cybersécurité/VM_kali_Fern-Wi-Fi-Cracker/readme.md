@@ -27,8 +27,14 @@ Support :
 
           ip &
 > Vous devez avoir **wlan0 : flags ..........
-> inet 192.168.1.XX
+> 
+> > inet 192.168.1.XX
 
   # Méthode
 
 * Rechercher dans kali Fern Wi-Fi Cracker
+* Authentification admin
+* Sélectionner l'interface **wlan0**
+* Activer
+* Détection des **Wi-Fi wep**c'est quoi le essid
+* Lancer le **Craking Encryption**
