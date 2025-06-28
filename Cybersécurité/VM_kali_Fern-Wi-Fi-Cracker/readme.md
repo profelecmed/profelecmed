@@ -35,7 +35,7 @@ Support :
 
 * Rechercher dans kali Fern Wi-Fi Cracker
 * Authentification admin
-* Sélectionner l'interface **wlan0**
+* Sélectionner l'interface à cibler **wlan0**
 * Activer
 * Détection des **Wi-Fi wep**
     * On obtient:
@@ -53,7 +53,7 @@ Support :
             
 * Lancer le **Craking Encryption**
 
-    * Choisir l'attaque Regular ou WPS
+    * Choisir l'attaque **Regular** ou WPS
 
 * Attendre , l'injection est en cours sur wlan0.
 
