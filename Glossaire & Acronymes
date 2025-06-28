@@ -173,6 +173,8 @@ Glossaire & Acronymes
  SQL             :  Structured Query Language
  SSI             :  Sécurité des Systèmes d'information
  SSID            :  Service set identifier , nom du réseau wifi
+  * ESSID        :  Extended Service Set Identifier , c'est une version plus technique du SSID
+  * BSSID        :  Basic Service Set Identifier , c'est l'adresse MAC du point d’accès.
  SSO             :  Single Sign-on : service d'authentification de session et d'utilisateur
  Switch          :  Commutateur, niveau 2 : uniquement un LAN (adresses MAC)  , Niveau 3 :  fonction de routage (adresses IP)
  Synchrone       :  On suit les étapes en même temps (Exemple : webinaires en direct )
