@@ -48,7 +48,7 @@ Support :
         >
         > La puissance du signal
         >
-        > Le cryptage , ici 
+        > Le cryptage 
 
 Choisir l'étape 2 ou 3 suivant le type de clès WEP ou WPA
 
