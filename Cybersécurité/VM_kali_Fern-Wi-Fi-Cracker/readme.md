@@ -50,7 +50,10 @@ Support :
         >
         > Le cryptage , ici 
 
-## Etape 2: si clè WEP
+Choisir l'étape 2 ou 3 suivant le type de clès WEP ou WPA
+
+
+## Etape 2 si clè WEP:
 
 **WEP**, Wired Equivalent Privacy
         
@@ -66,7 +69,7 @@ Support :
 * Pendant l'attaque votre VM est déconnecté de votre réseau hôte.
   
 
-## Etape 3 si clè WPA
+## Etape 3 si clè WPA :
 
 * Choisir une wordlist
 wordlist
@@ -74,4 +77,4 @@ wordlist
 Nous allons utiliser un dictionnaire
 
 rockyou
-Vérifier la présence de rockyou dans le répertoire worklists. Le chemin est /usr/share/wordlists
+Vérifier la présence de rockyou dans le répertoire worklists. Le chemin est /usr/share/ferm ....
