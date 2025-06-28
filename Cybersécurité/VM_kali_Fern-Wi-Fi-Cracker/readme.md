@@ -57,5 +57,7 @@ Support :
 
 * Attendre , l'injection est en cours sur wlan0.
 
+* Attendre ..... ...... ......
+
 * Pendant l'attaque votre VM est déconnecté de votre réseau hôte.
   
