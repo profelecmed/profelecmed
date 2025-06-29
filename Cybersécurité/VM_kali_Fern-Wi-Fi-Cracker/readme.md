@@ -9,6 +9,9 @@ Support :
         Fern Wi-Fi Cracker
     Carte usb / Wifi
         driver cles wifi  Netgear WNA1100
+
+Lz Wi-Fi est un réseaux sans-fil, WLAN pour Wireless Local Area etwork)
+
 # Prérequis
 * Brancher la clès usb wifi
 * Installer sur votre PC le driver pour la clès usb/WI-FI
