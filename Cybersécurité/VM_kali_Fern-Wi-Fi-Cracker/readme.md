@@ -4,7 +4,9 @@
 
 ### Mise en situation :
 
-Le point d'accès demande une clès WEP ou WPA.
+> Vous voulez pénétrer sur un réseau WLAN.
+> 
+> Le point d'accès demande une clès WEP ou WPA.
 
 ### Objectif :
 
