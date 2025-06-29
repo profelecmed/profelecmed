@@ -2,6 +2,14 @@
 
 🚩 Attention il est interdit d'accéder à des systèmes sans autorisation🏴‍☠️
 
+Le point d'accès demande une clès WEP ou WPA.
+
+### Objectif :
+
+✨ Vous devez pénétrer dans un réseau Wi-Fi pour cela vous devez casser la clè WEP ou WPA suivant le cas. 
+
+-----
+
 Support :
 
     PC Windows (Hôte)
