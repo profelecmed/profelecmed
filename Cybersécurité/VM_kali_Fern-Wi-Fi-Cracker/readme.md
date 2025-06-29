@@ -1,4 +1,4 @@
-8z#  Fern Wi-Fi Cracker
+#  Fern Wi-Fi Cracker
 
 🚩 Attention il est interdit d'accéder à des systèmes sans autorisation🏴‍☠️
 
@@ -72,7 +72,10 @@ Le WEP utilise un algorithme de chiffrement à clé symétrique **RC4**
 * Attendre ..... ...... ......
 
 * Pendant l'attaque votre VM est déconnecté de votre réseau hôte.
-  
+
+> [!WARNING]
+> Le WEP est maintenant obsolète!
+
 
 ## Etape 3 si clè WPA :
 
