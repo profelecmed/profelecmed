@@ -10,7 +10,7 @@ Support :
     Carte usb / Wifi
         driver cles wifi  Netgear WNA1100
 
-Lz Wi-Fi est un réseaux sans-fil, WLAN pour Wireless Local Area etwork)
+Lz Wi-Fi, Wireless Fidelity est un réseaux sans-fil , c'est un WLAN pour Wireless Local Area Network.
 
 # Prérequis
 * Brancher la clès usb wifi
