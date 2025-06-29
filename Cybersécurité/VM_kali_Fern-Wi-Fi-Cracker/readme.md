@@ -91,6 +91,9 @@ Le WEP utilise un algorithme de chiffrement à clé symétrique **RC4**
 
 ## Etape 3 si clè WPA :
 
+Le protocole **WPA** , Wi-Fi Protected Access
+
+
 * Choisir une wordlist
 wordlist
  
@@ -99,4 +102,12 @@ Nous allons utiliser un dictionnaire
 rockyou
 Vérifier la présence de rockyou dans le répertoire worklists. Le chemin est /usr/share/ferm ....
 
-* Choisir la bonne adresse MAC
+* Choisir une adresse MAC
+
+* Lancer l'attaque Wi-Fi
+* Attendre , l'injection est en cours sur wlan0.
+
+> [!Note]
+> Il y a le WPA2 qui améliore la sécurité avec l’algorithme de chiffrement très sécurisé AES , Advanced Encryption Standard.
+>
+> Maintenant il y a aussi le WPA3 , il utilise des procédés de chiffrement modernes SAE ; Simultaneous Authentication of Equals.
