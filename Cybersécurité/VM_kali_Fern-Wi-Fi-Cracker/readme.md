@@ -58,7 +58,9 @@ Choisir l'étape 2 ou 3 suivant le type de clès WEP ou WPA
 
 ## Etape 2 si clè WEP:
 
-**WEP**, Wired Equivalent Privacy
+Le protocole **WEP**, Wired Equivalent Privacy , norme internationale IEEE 802.11.
+
+Le WEP utilise un algorithme à clé symétrique **RC4**
         
             
 * Lancer le **Craking Encryption**
