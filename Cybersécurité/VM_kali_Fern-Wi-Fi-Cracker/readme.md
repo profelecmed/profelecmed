@@ -10,7 +10,7 @@
 
 ### Objectif :
 
-✨ Vous devez pénétrer dans un réseau Wi-Fi pour cela vous devez casser la clè WEP ou WPA suivant le cas. 
+✨ Vous devez casser la clè WEP ou WPA suivant le cas pour pénétrer dans un réseau Wi-Fi. 
 
 -----
 
