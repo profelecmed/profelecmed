@@ -2,6 +2,8 @@
 
 🚩 Attention il est interdit d'accéder à des systèmes sans autorisation🏴‍☠️
 
+### Mise en situation :
+
 Le point d'accès demande une clès WEP ou WPA.
 
 ### Objectif :
