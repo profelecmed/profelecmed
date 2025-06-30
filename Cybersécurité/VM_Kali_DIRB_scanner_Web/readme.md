@@ -35,4 +35,8 @@ Le réseau :
 ## Etape 3 Scanner le site:
 
     dirb http://cielmed.free.fr
-    
+
+
+> [!IMPORTANT]
+>
+> Voir .htaccess
