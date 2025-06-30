@@ -31,3 +31,8 @@ Le réseau :
 >
 > ...
 > 
+
+## Etape 3 Scanner le site:
+
+    dirb http://elecmed.free.fr
+    
