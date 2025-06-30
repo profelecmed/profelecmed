@@ -49,7 +49,9 @@ Par défaut dirb utilise common.txt mais on peut faire une recherche avec une au
 
     cd  /usr/share/dirbwordlists/
 
-Test 
+regarder si common.txt contient flag.
+
+    cat commun.txt
 
 > [!TIP]
 >
