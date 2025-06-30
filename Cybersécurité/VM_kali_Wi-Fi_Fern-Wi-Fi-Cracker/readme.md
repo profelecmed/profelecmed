@@ -16,11 +16,11 @@
 
 Support :
 
-    PC Windows (Hôte)
-    Kalilinux (par exemple en VM)
-        Fern Wi-Fi Cracker
-    Carte usb / Wifi
-        driver cles wifi  Netgear WNA1100
+* PC Windows (Hôte)
+* Kalilinux (par exemple en VM)
+      *  Fern Wi-Fi Cracker
+* Carte usb / Wifi
+      * Driver cles wifi  Netgear WNA1100
 
 Lz Wi-Fi, Wireless Fidelity est un réseaux sans-fil , c'est un WLAN pour Wireless Local Area Network.
 
