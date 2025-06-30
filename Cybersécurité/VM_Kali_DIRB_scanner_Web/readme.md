@@ -1,6 +1,6 @@
 # Scanner de contenu Web , DIRB
 
-DIRB  | Permet de lister les répertoires d’un site web
+DIRB  | Permet de lister les répertoires d’un site web, il fait une attaque par dictionnaire.
 
 Support:
 
