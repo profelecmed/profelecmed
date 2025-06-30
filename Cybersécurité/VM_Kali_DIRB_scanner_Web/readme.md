@@ -85,7 +85,10 @@ dirb fait des recherches à partir de liste de mots.
 
 > [!Note]
 > 
-> **dirbuster** lui est en mode graphique
+> **dirbuster**
+> Il est utilisable en **mode graphique** ou **CLI**
+>
+> Il peut faire du **brute-force** ou **wordlist**
 
 > [!TIP]
 >
