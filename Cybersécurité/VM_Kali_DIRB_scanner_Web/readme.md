@@ -83,6 +83,15 @@ dirb fait des recherches à partir de liste de mots.
    >
    > + ... 
 
+## Etape 4 Scanner uniqement les répertoires du site
+
+On appel cette méthode non récursive
+
+Cette méthode est plus rapide!
+
+* Lancer le scanne
+  
+      dirb http://cielmed.free.fr -r
 
 
 > [!Note]
