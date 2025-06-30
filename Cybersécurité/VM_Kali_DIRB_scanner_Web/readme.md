@@ -36,6 +36,16 @@ Le réseau :
 
     dirb http://cielmed.free.fr
 
+* Réponses :
+   > Scanning URL : http://cielmed.free.fr
+   >
+   > DIRECTORY
+   >
+   > + http://cielmed.free.fr/index.html
+   >
+   > + ... 
+
+
 
 > [!TIP]
 >
