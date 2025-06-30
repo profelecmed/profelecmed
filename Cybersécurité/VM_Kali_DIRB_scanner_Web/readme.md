@@ -85,7 +85,7 @@ dirb fait des recherches à partir de liste de mots.
 
 ## Etape 4 Scanner uniqement les répertoires du site
 
-On appel cette méthode non récursive
+On appel cette méthode **non récursive**
 
 Cette méthode est plus rapide!
 
