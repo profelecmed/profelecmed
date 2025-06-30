@@ -85,7 +85,8 @@ dirb fait des recherches à partir de liste de mots.
 
 > [!Note]
 > 
-> **dirbuster**
+> **dirbuster** est une alternative.
+> 
 > Il est utilisable en **mode graphique** ou **CLI**
 >
 > Il peut faire du **brute-force** ou **wordlist**
