@@ -45,7 +45,9 @@ Le réseau :
    >
    > + ... 
 
+On peut faire une recherche avec list.
 
+    cd  /usr/share/dirbwordlists/
 
 > [!TIP]
 >
