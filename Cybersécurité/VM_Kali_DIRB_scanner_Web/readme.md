@@ -37,6 +37,6 @@ Le réseau :
     dirb http://cielmed.free.fr
 
 
-> [!Tips]
+> [!TIP]
 >
 > Voir .htaccess
