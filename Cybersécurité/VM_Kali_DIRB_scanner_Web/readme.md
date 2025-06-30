@@ -34,5 +34,5 @@ Le réseau :
 
 ## Etape 3 Scanner le site:
 
-    dirb http://cielmedfree.fr
+    dirb http://cielmed.free.fr
     
