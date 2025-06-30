@@ -57,7 +57,7 @@ dirb fait des recherches à partir de liste de mots.
 
       dirb http://cielmed.free.fr -w small.txt
 
-> -w : Ne vous arrêtez pas aux messages d'AVERTISSEMENT.
+> -w : Permet de ne pas s'arrêtez aux messages d'avertissement.
 
   * Réponses :
    > Scanning URL : http://cielmed.free.fr
