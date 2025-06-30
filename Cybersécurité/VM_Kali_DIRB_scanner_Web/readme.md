@@ -17,3 +17,9 @@ Le réseau :
 ### Pré-requis
 
 * Vérifier si le site http://cielmed.free.fr est bien en ligne
+
+  # Méthode
+
+## Etape 1 lancement :
+* Lancer la VM Kalilinux
+* Rechercher dans kali , dirb
