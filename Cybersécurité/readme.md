@@ -29,6 +29,8 @@ Pour bien commenver voir **Hygiène_de_base**
 
 #### 📒 Scanner de contenu Web , DIRB
 
+https://github.com/profelecmed/profelecmed/tree/main/Cybers%C3%A9curit%C3%A9/VM_Kali_DIRB_scanner_Web
+
 #### MOT DE PASSE :
 
 #### 📒 Craquer le mot de passe d'un fichier zip:
