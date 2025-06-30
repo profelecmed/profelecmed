@@ -53,9 +53,20 @@ dirb fait des recherches à partir de liste de mots.
        > common.txt
        > 
 
-*  Par défaut dirb utilise **common.txt** , regarder si common.txt contient flag.
+* Lancer le scanne avec la liste de mots small.txt
 
-      cat common.txt
+      dirb http://cielmed.free.fr -w small.txt
+
+  * Réponses :
+   > Scanning URL : http://cielmed.free.fr
+   >
+   > DIRECTORY
+   >
+   > + http://cielmed.free.fr/index.html
+
+*  Par défaut dirb utilise **common.txt** , regarder si common.txt contient **flag**.
+
+       cat common.txt
 
 * Lancer le scanne
   
