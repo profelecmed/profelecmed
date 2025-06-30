@@ -34,6 +34,8 @@ Le réseau :
 
 ## Etape 3 Scanner le site:
 
+dirb fait des recherches à partir de liste de mots.
+
 * Se rendre dans le dossier wordlists de dirb
 
        cd  /usr/share/dirb/wordlists/
@@ -42,11 +44,16 @@ Le réseau :
 
          ls
 
-*  Par défaut dirb utilise **common.txt** mais on peut faire une recherche avec une autre liste de mots.
+      reponses:
+       > small.txt
+       >
+       > big.txt
+       >
+       > ...
+       > common.txt
+       > 
 
-      cd  /usr/share/dirbwordlists/
-
-* regarder si common.txt contient flag.
+*  Par défaut dirb utilise **common.txt** , regarder si common.txt contient flag.
 
       cat common.txt
 
