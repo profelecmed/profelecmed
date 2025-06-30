@@ -82,6 +82,11 @@ dirb fait des recherches à partir de liste de mots.
    > + ... 
 
 
+
+> [!Note]
+> 
+> **dirbuster** lui est en mode graphique
+
 > [!TIP]
 >
 > Voir .htaccess
