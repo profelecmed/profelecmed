@@ -34,13 +34,13 @@ Le réseau :
 
 ## Etape 3 Scanner le site:
 
-* Par défaut dirb utilise common.txt mais on peut faire une recherche avec une autre liste de mots.
+* Par défaut dirb utilise **common.txt** mais on peut faire une recherche avec une autre liste de mots.
 
       cd  /usr/share/dirbwordlists/
 
 * regarder si common.txt contient flag.
 
-      cat commun.txt
+      cat common.txt
 
 * Lancer le scanne
   
