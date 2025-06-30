@@ -13,3 +13,7 @@ Le réseau :
 
 ### Objectif
 ✨ Ici on va scanner un site WEB afin de déterminer ses répertoires. On va ensuite donner le flag trouvé.
+
+### Pré-requis
+
+* Vérifier si le site http://cielmed.free.fr est bien en ligne
