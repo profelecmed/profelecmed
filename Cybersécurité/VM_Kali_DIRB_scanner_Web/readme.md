@@ -12,4 +12,4 @@ Le réseau :
 * Nous allons utiliser dans notre exemple; Accès par pont
 
 ### Objectif
-✨ Ici on va scanner un site WEB afin de déterminer ses répertoires.
+✨ Ici on va scanner un site WEB afin de déterminer ses répertoires. On ca ensuite donner le flag trouvé.
