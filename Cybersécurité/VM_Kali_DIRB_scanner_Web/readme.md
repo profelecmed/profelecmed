@@ -45,9 +45,11 @@ Le réseau :
    >
    > + ... 
 
-On peut faire une recherche avec list.
+Par défaut dirb utilise common.txt mais on peut faire une recherche avec une autre liste de mots.
 
     cd  /usr/share/dirbwordlists/
+
+Test 
 
 > [!TIP]
 >
