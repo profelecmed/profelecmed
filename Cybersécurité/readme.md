@@ -25,6 +25,10 @@ Pour bien commenver voir **Hygiène_de_base**
 
 ### EXEMPLES CYBER :
 
+#### Scanner de contenu Web
+
+#### 📒 Scanner de contenu Web , DIRB
+
 #### MOT DE PASSE :
 
 #### 📒 Craquer le mot de passe d'un fichier zip:
