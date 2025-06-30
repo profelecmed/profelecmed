@@ -34,7 +34,15 @@ Le réseau :
 
 ## Etape 3 Scanner le site:
 
-* Par défaut dirb utilise **common.txt** mais on peut faire une recherche avec une autre liste de mots.
+* Se rendre dans le dossier wordlists de dirb
+
+       cd  /usr/share/dirb/wordlists/
+
+   * On va regarder les wordlists disponible dans dirb
+
+         ls
+
+*  Par défaut dirb utilise **common.txt** mais on peut faire une recherche avec une autre liste de mots.
 
       cd  /usr/share/dirbwordlists/
 
