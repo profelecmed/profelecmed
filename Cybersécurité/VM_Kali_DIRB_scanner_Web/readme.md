@@ -23,3 +23,11 @@ Le réseau :
 ## Etape 1 lancement :
 * Lancer la VM Kalilinux
 * Rechercher dans kali , dirb
+> $ dirb
+>
+> DIRB V2.22
+>
+> By The Dark Raver
+>
+> ...
+> 
