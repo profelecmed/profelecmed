@@ -34,7 +34,17 @@ Le réseau :
 
 ## Etape 3 Scanner le site:
 
-    dirb http://cielmed.free.fr
+* Par défaut dirb utilise common.txt mais on peut faire une recherche avec une autre liste de mots.
+
+      cd  /usr/share/dirbwordlists/
+
+* regarder si common.txt contient flag.
+
+      cat commun.txt
+
+* Lancer le scanne
+  
+      dirb http://cielmed.free.fr
 
 * Réponses :
    > Scanning URL : http://cielmed.free.fr
@@ -45,13 +55,6 @@ Le réseau :
    >
    > + ... 
 
-Par défaut dirb utilise common.txt mais on peut faire une recherche avec une autre liste de mots.
-
-    cd  /usr/share/dirbwordlists/
-
-regarder si common.txt contient flag.
-
-    cat commun.txt
 
 > [!TIP]
 >
