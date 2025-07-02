@@ -1,6 +1,9 @@
 # Anglais geek
 
-Level (Niveau) 1 :                                            |    Level 2 :       
+* Level (Niveau) 1 :
+* ➡️ Level 2 :       
+
+
 ## ---------------------------------------   A                   |    ---------------------------------------                                                 A 
 * account           :   Compte
 * 🎈                                                                 adaptor            :    Adaptateur
@@ -10,14 +13,16 @@ Level (Niveau) 1 :                                            |    Level 2 :
 * ➡️                                                                 Advice             :    Conseil
 * ➡️                                                                 Agree (To)         :    Accepter  
 * ➡️                                                                 Attachment         :    Piece jointe PJ
+
 ## ---------------------------------------   B                   |    ---------------------------------------                                                 B 
-backup            :   Sauvegarde
-Bookmark          :   Favoris
-Boot (To)         :   Démarrer
-Broadcast         :   Diffuser
-Browser           :   Navigateur
-button            :   Bouton
-➡️                                                                  Byte             :    Octet
+* backup            :   Sauvegarde
+* Bookmark          :   Favoris
+* Boot (To)         :   Démarrer
+* Broadcast         :   Diffuser
+* Browser           :   Navigateur
+* button            :   Bouton
+* ➡️                                                                  Byte             :    Octet
+
 ## ---------------------------------------   C                   |    ---------------------------------------                                                 C
 Case              :   Boitier
 Chat (To)         :   Bavarder, discuter
