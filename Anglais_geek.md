@@ -46,7 +46,8 @@ Niveau!
 * ➡️                                                                 drag-and-drop      :    glisser-déposer
 
 ---------------------------------------   E                   |    ---------------------------------------                                                 E 
-* Enable            :   Activer           
+* Enable            :   Activer
+* ➡️                                                                  Exploit           :   Faille           
 ---------------------------------------   F                   |    ---------------------------------------                                                 F 
 * Fan               :   Ventilateur
 * ➡️                                                                  Feedback          :     Un retour
