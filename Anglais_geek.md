@@ -2,14 +2,14 @@
 
 Level (Niveau) 1 :                                            |    Level 2 :       
 ## ---------------------------------------   A                   |    ---------------------------------------                                                 A 
-account           :   Compte 
-🎈                                                                 adaptor            :    Adaptateur
-➡️                                                                 add-on             :    Ajouter , logiciel d'extension, module complémentaire
-Address            :    Adresse
-advertisment (A)  :   Une publicité
-➡️                                                                 Advice             :    Conseil
-➡️                                                                 Agree (To)         :    Accepter  
-➡️                                                                 Attachment         :    Piece jointe PJ
+* account           :   Compte
+* 🎈                                                                 adaptor            :    Adaptateur
+* ➡️                                                                 add-on             :    Ajouter , logiciel d'extension, module complémentaire
+* Address            :    Adresse
+* dvertisment (A)  :   Une publicité
+* ➡️                                                                 Advice             :    Conseil
+* ➡️                                                                 Agree (To)         :    Accepter  
+* ➡️                                                                 Attachment         :    Piece jointe PJ
 ## ---------------------------------------   B                   |    ---------------------------------------                                                 B 
 backup            :   Sauvegarde
 Bookmark          :   Favoris
