@@ -1,6 +1,7 @@
 # Anglais geek
 
-* Level (Niveau) 1 :
+Niveau!
+* Level 1 :
 * ➡️ Level 2 :       
 
 
@@ -35,39 +36,46 @@
 * ➡️                                                                 Crowdfunding       :    financement participatif
 
 ---------------------------------------   D                   |    ---------------------------------------                                                 D
-➡️                                                                 Database           :    Base dedonnée  
-➡️                                                                 Deadline           :    Date limite
-Desktop           :   "Ordinateur de " Bureau
-Directory (A)     :   Un répertoire
-➡️                                                                 Disagree (To)      :    Être en désaccord
-Download (To)     :   Téléchargement vers nous!
-➡️                                                                 dot-com            :    point-com 
-➡️                                                                 drag-and-drop      :    glisser-déposer
+* ➡️                                                                 Database           :    Base dedonnée  
+* ➡️                                                                 Deadline           :    Date limite
+* Desktop           :   "Ordinateur de " Bureau
+* Directory (A)     :   Un répertoire
+* ➡️                                                                 Disagree (To)      :    Être en désaccord
+* Download (To)     :   Téléchargement vers nous!
+* ➡️                                                                 dot-com            :    point-com 
+* ➡️                                                                 drag-and-drop      :    glisser-déposer
+
 ---------------------------------------   E                   |    ---------------------------------------                                                 E 
-Enable            :   Activer           
+* Enable            :   Activer           
 ---------------------------------------   F                   |    ---------------------------------------                                                 F 
-Fan               :   Ventilateur
-➡️                                                                  Feedback          :     Un retour
-file              :   Fichier
-Firewall          :   Pare-feu
-flash drive.      :   clé USB
-Folder            :   Dossier
-➡️                                                                  footer            :    bas de page
-Freeware          :   Logiciel gratuit
-Fuse              :   Fusible
+* Fan               :   Ventilateur
+* ➡️                                                                  Feedback          :     Un retour
+* file              :   Fichier
+* Firewall          :   Pare-feu
+* flash drive.      :   clé USB
+* Folder            :   Dossier
+* ➡️                                                                  footer            :    bas de page
+* Freeware          :   Logiciel gratuit
+* Fuse              :   Fusible
+
 ---------------------------------------   H                   |    ---------------------------------------                                                 H
-Hardware          :   Matériel informatique 
+* Hardware          :   Matériel informatique 
+
 ---------------------------------------   I                   |    ---------------------------------------                                                 I 
-IT information technology  :  Technologie de l’information
+* IT information technology  :  Technologie de l’information
+
 ---------------------------------------   K                   |    ---------------------------------------                                                 K 
-Keyboard          :   Clavier
+* Keyboard          :   Clavier
+
 ---------------------------------------   L                   |    ---------------------------------------                                                 L 
-➡️                                                                  Lag               :  Décalage
-🎈                                                                  Library           :  Bibliothèque
-Laptop            :   Ordinateur portable
-Level             :   Niveau
+* ➡️                                                                  Lag               :  Décalage
+* 🎈                                                                  Library           :  Bibliothèque
+* Laptop            :   Ordinateur portable
+* Level             :   Niveau
+
 ---------------------------------------   M                   |    ---------------------------------------                                                 M 
-➡️                                                                  Middleware        :  Logiciel intermédiaire "Intergiciel"
+* ➡️                                                                  Middleware        :  Logiciel intermédiaire "Intergiciel"
+
 --------------------------------------    O                        ---------------------------------------                                                 O
 Operating System  :   Système d’exploitation
 --------------------------------------    P                        ---------------------------------------                                                 P
