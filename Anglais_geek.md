@@ -123,5 +123,5 @@ Niveau!
 * window            :   Fenêtre
 * Wi-Fi             :   Wireless Fidelity
 * Wireless          :   Sans Fil
-* 
+* Workspace         :   Espace de travil
 * ➡️                                                                 Worm              :   Ver
