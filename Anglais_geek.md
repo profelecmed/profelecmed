@@ -9,7 +9,7 @@
 * 🎈                                                                 adaptor            :    Adaptateur
 * ➡️                                                                 add-on             :    Ajouter , logiciel d'extension, module complémentaire
 * Address            :    Adresse
-* dvertisment (A)  :   Une publicité
+* Advertisment (A)  :   Une publicité
 * ➡️                                                                 Advice             :    Conseil
 * ➡️                                                                 Agree (To)         :    Accepter  
 * ➡️                                                                 Attachment         :    Piece jointe PJ
@@ -24,15 +24,16 @@
 * ➡️                                                                  Byte             :    Octet
 
 ## ---------------------------------------   C                   |    ---------------------------------------                                                 C
-Case              :   Boitier
-Chat (To)         :   Bavarder, discuter
-➡️                                                                  Chip  "Microchip" :   Puce
-Computer          :   Ordinateur
-Computing         :   L’informatique
-Copy (To)         :   Coller
-Copyright         :   Droit d'auteur
-➡️                                                                 Core               :    Coeur
-➡️                                                                 Crowdfunding       :    financement participatif
+* Case              :   Boitier
+* Chat (To)         :   Bavarder, discuter
+* ➡️                                                                  Chip  "Microchip" :   Puce
+* Computer          :   Ordinateur
+* Computing         :   L’informatique
+* Copy (To)         :   Coller
+* Copyright         :   Droit d'auteur
+* ➡️                                                                 Core               :    Coeur
+* ➡️                                                                 Crowdfunding       :    financement participatif
+
 ---------------------------------------   D                   |    ---------------------------------------                                                 D
 ➡️                                                                 Database           :    Base dedonnée  
 ➡️                                                                 Deadline           :    Date limite
