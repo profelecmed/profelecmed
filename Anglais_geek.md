@@ -1,7 +1,7 @@
-Anglais geek
+# Anglais geek
 
 Level (Niveau) 1 :                                            |    Level 2 :       
----------------------------------------   A                   |    ---------------------------------------                                                 A 
+## ---------------------------------------   A                   |    ---------------------------------------                                                 A 
 account           :   Compte 
 🎈                                                                 adaptor            :    Adaptateur
 ➡️                                                                 add-on             :    Ajouter , logiciel d'extension, module complémentaire
@@ -10,7 +10,7 @@ advertisment (A)  :   Une publicité
 ➡️                                                                 Advice             :    Conseil
 ➡️                                                                 Agree (To)         :    Accepter  
 ➡️                                                                 Attachment         :    Piece jointe PJ
----------------------------------------   B                   |    ---------------------------------------                                                 B 
+## ---------------------------------------   B                   |    ---------------------------------------                                                 B 
 backup            :   Sauvegarde
 Bookmark          :   Favoris
 Boot (To)         :   Démarrer
@@ -18,7 +18,7 @@ Broadcast         :   Diffuser
 Browser           :   Navigateur
 button            :   Bouton
 ➡️                                                                  Byte             :    Octet
----------------------------------------   C                   |    ---------------------------------------                                                 C
+## ---------------------------------------   C                   |    ---------------------------------------                                                 C
 Case              :   Boitier
 Chat (To)         :   Bavarder, discuter
 ➡️                                                                  Chip  "Microchip" :   Puce
@@ -102,4 +102,5 @@ update            :   Mise à jour
 window            :   Fenêtre
 Wi-Fi             :   Wireless Fidelity
 Wireless          :   Sans Fil
+
 ➡️                                                                 Worm              :   Ver
