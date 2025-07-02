@@ -77,44 +77,51 @@ Niveau!
 * ➡️                                                                  Middleware        :  Logiciel intermédiaire "Intergiciel"
 
 --------------------------------------    O                        ---------------------------------------                                                 O
-Operating System  :   Système d’exploitation
---------------------------------------    P                        ---------------------------------------                                                 P
-Paste (To)        :   Coller
-➡️                                                                  Peer-to-peer       : Pair-à-pair
-Personal Computer :   Ordinateur personnel
-Plug (To)         :   Connecter
-➡️                                                                  Plug-in            : Module complémentaire
-Privacy           :   Confidentialité
---------------------------------------    Q                   |    ---------------------------------------                                                 R
-➡️                                                                  Query              : Requête 
---------------------------------------    R                   |    ---------------------------------------                                                 R
-➡️                                                                  Raw                : Brute
-➡️                                                                  Resquest           : Demande  
---------------------------------------    S                   |    ---------------------------------------                                                 S
-Save              :   Enregistrer
-➡️                                                                  scraping           : Grattage , Récolte ( web scraping , c'est la récolte des données web par des bots)
-screen            :   Ecran
-Settings          :   Paramètres
-Sign In           :   Se connecter
-Sign Out          :   Se déconnecter
-Sign UP           :   S'inscrire
-Shutdown          :   Fermer
-➡️                                                                 Skill             :   Compétence 
-Software          :   Logiciel
-Spy               :   Espion
-➡️                                                                 Stack (To)        :   Empiler , Stack :  Une pile
-➡️                                                                 Statement         :   Déclaration
-Suscriber         :   Abonné
---------------------------------------    T                   |    ---------------------------------------                                                 T
-➡️                                                                 Topic             :   Sujet
-trackpad          :   Pavé tactile 
---------------------------------------    U                   |    ---------------------------------------                                                 U
-upload (To)       :   Transfert vers le serveur
-Username          :   Identifiant
-update            :   Mise à jour
---------------------------------------    W                   |    ---------------------------------------                                                 W
-window            :   Fenêtre
-Wi-Fi             :   Wireless Fidelity
-Wireless          :   Sans Fil
+* Operating System  :   Système d’exploitation
 
-➡️                                                                 Worm              :   Ver
+--------------------------------------    P                        ---------------------------------------                                                 P
+* Paste (To)        :   Coller
+* ➡️                                                                  Peer-to-peer       : Pair-à-pair
+* Personal Computer :   Ordinateur personnel
+* Plug (To)         :   Connecter
+* ➡️                                                                  Plug-in            : Module complémentaire
+* Privacy           :   Confidentialité
+
+--------------------------------------    Q                   |    ---------------------------------------                                                 R
+* ➡️                                                                  Query              : Requête 
+
+--------------------------------------    R                   |    ---------------------------------------                                                 R
+* ➡️                                                                  Raw                : Brute
+* ➡️                                                                  Resquest           : Demande  
+
+--------------------------------------    S                   |    ---------------------------------------                                                 S
+* Save              :   Enregistrer
+* ➡️                                                                  scraping           : Grattage , Récolte ( web scraping , c'est la récolte des données web par des bots)
+* screen            :   Ecran
+* Settings          :   Paramètres
+* Sign In           :   Se connecter
+* Sign Out          :   Se déconnecter
+* Sign UP           :   S'inscrire
+* Shutdown          :   Fermer
+* ➡️                                                                 Skill             :   Compétence 
+* Software          :   Logiciel
+* Spy               :   Espion
+* ➡️                                                                 Stack (To)        :   Empiler , Stack :  Une pile
+* ➡️                                                                 Statement         :   Déclaration
+* Suscriber         :   Abonné
+
+--------------------------------------    T                   |    ---------------------------------------                                                 T
+* ➡️                                                                 Topic             :   Sujet
+* trackpad          :   Pavé tactile 
+
+--------------------------------------    U                   |    ---------------------------------------                                                 U
+* upload (To)       :   Transfert vers le serveur
+* Username          :   Identifiant
+* update            :   Mise à jour
+
+--------------------------------------    W                   |    ---------------------------------------                                                 W
+* window            :   Fenêtre
+* Wi-Fi             :   Wireless Fidelity
+* Wireless          :   Sans Fil
+* 
+* ➡️                                                                 Worm              :   Ver
