@@ -59,7 +59,7 @@ Exemple méthode ACTIF:
 •	Identité , On donne un rôle à l’IA exemple chef d’équipe.
 •	Format
 
-
+Exemple de Méta-prompt
 
 ### Différentier le travail
  * Favoriser l’autonomie
