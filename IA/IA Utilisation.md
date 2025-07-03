@@ -53,11 +53,11 @@ Les usages de l’IA doivent se faire dans le respect des valeurs et principes d
  * ✖️ IL faut bien connaître en amont son sujet.
 
 Exemple méthode ACTIF:
-•	Action , créer un quizz
-•	Contexte , pour une classe de STI2D terminale
-•	Tonalité , avec un ton professionnel, humoristique, …
-•	Identité , On donne un rôle à l’IA exemple chef d’équipe.
-•	Format
+* Action , créer un quizz
+* Contexte , pour une classe de STI2D terminale
+* Tonalité , avec un ton professionnel, humoristique, …
+* Identité , On donne un rôle à l’IA exemple chef d’équipe.
+* Format
 
 Exemple de Méta-prompt
 
