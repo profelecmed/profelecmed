@@ -48,7 +48,7 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 
 _**Edition 2026,**_   ?
 
-_**Edition 2025,**_   SmartBadge
+_**Edition 2025,**_   SmartBadge "avec IA"
 
 _**Edition 2024,**_  "Eau connecté"   :trophy:
 
