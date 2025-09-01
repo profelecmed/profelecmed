@@ -53,6 +53,7 @@ Niveau!
 * ➡️                                                                  Feedback          :     Un retour
 * file              :   Fichier
 * Firewall          :   Pare-feu
+* flag              ;   drapeau
 * flash drive.      :   clé USB
 * Folder            :   Dossier
 * ➡️                                                                  footer            :    bas de page
