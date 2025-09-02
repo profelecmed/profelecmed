@@ -130,6 +130,7 @@ Glossaire & Acronymes
  MSB             :  Most Significant Bit , bit de poids fort "par défaut c'est le bit le plus à gauche" , voir aussi LSB
  ---------------------------------------                                                                                                N
  NAS             :  Network Attached Storage
+ NAT             :  Network Address Translation
  NFC             :  Near Field Communications
  NIC             :  Network Interface Card ou carte réseau  
  NOSQL           :  Not Only SQL
