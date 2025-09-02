@@ -145,6 +145,7 @@ Glossaire & Acronymes
  OTA             :  Over The Air                 : Exemple, communiquer en wifi
 ---------------------------------------                                                                                                P
  Passkeys        :  Paire de clès asymétriques (privée sur l'appareil, publique sur serveur), utilisztion par confirmation bio.
+ PAT             :  Port Address Translation "NAT Overloading "
  PCB             :  Printed Circuit Board , différents types de PCB : FR4, Prepreg, SMI, Polyimide, ROGER, CEM3
  PID             :  Process IDentifier  , l'identifiant de processus ou PID est un code unique attribué à tout processus lors de son démarrage.
  plug-and-play   :  On branche et cela fonctionne.
