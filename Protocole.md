@@ -31,7 +31,7 @@
 - **HTTP**           :  Hypertext Transfer Protocol
  *  HTTP Métodes   :
       *  GET   : Pour récupérer une ressource ou une information
-      *  POST 
+      *  POST  : Pour créer une ressource
    *  HTTP Status Codes   :
       *  404 🏷️ The server has not found
       *  503 🏷️ Service Unavailable
