@@ -30,7 +30,8 @@
 ##  H
 - **HTTP**           :  Hypertext Transfer Protocol
  *  HTTP Métodes   :
-      *  GET   : Pour récupérer une ressource ou une information
+      *  GET   : Pour récupérer une ressource ou une information de la page web
+      *  HEAD  : Pour récupérer les informatons de l'en-tête de la page web
       *  POST  : Pour créer une ressource
       *  PUT   : Pour mettre à jour une ressource
    *  HTTP Status Codes   :
