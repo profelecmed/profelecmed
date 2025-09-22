@@ -28,7 +28,8 @@
 ## F
 - **FTP**            :  File Transfer Protocol                 : Protocole de transfert de fichiers
 ##  H
-- **HTTP**           :  Hypertext Transfer Protocol 
+- **HTTP**           :  Hypertext Transfer Protocol
+  *  HTTP Status Codes   :   404 🏷️ The server has not found
 - **HSRP**           :  Hot Standby Router Protocol            : Protocole Cisco de gestion de routeurs avec un prioritaire 
 ## I
 - **ICMP**           :  Internet Control Message Protocol      : Détection des erreurs lors de transmission en TCP/IP, "Commande: ping"
