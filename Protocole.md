@@ -32,6 +32,7 @@
  *  HTTP Métodes   :
       *  GET   : Pour récupérer une ressource ou une information
       *  POST  : Pour créer une ressource
+      *  PUT   : Pour mettre à jour une ressource
    *  HTTP Status Codes   :
       *  200 🏷️ OK
       *  404 🔖 The server has not found
