@@ -28,6 +28,7 @@
 ## F
 - **FTP**            :  File Transfer Protocol                 : Protocole de transfert de fichiers
 ##  H
+- **HTTP**           :  Hypertext Transfer Protocol 
 - **HSRP**           :  Hot Standby Router Protocol            : Protocole Cisco de gestion de routeurs avec un prioritaire 
 ## I
 - **ICMP**           :  Internet Control Message Protocol      : Détection des erreurs lors de transmission en TCP/IP, "Commande: ping"
