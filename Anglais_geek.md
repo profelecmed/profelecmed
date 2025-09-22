@@ -101,6 +101,7 @@ Niveau!
 * ➡️                                                                  scraping           : Grattage , Récolte ( web scraping , c'est la récolte des données web par des bots)
 * screen            :   Ecran
 * Settings          :   Paramètres
+* Sidebar           :   Barre latérale / volet latéral
 * Sign In           :   Se connecter
 * Sign Out          :   Se déconnecter
 * Sign UP           :   S'inscrire
