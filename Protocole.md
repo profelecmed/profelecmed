@@ -29,7 +29,10 @@
 - **FTP**            :  File Transfer Protocol                 : Protocole de transfert de fichiers
 ##  H
 - **HTTP**           :  Hypertext Transfer Protocol
-  *  HTTP Status Codes   :
+ *  HTTP Métodes   :
+      *  GET   : Pour récupérer une ressource ou une information
+      *  POST 
+   *  HTTP Status Codes   :
       *  404 🏷️ The server has not found
       *  503 🏷️ Service Unavailable
 - **HSRP**           :  Hot Standby Router Protocol            : Protocole Cisco de gestion de routeurs avec un prioritaire 
