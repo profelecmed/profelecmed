@@ -45,3 +45,5 @@ Vous pouvez utiliser plusieurs bases:
 ✔️ Mise à jour régulière
 
 ✔️ Formations
+
+✔️Segmenter le réseau 
