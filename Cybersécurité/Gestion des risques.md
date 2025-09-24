@@ -59,6 +59,8 @@ Vous pouvez utiliser plusieurs bases:
 
 ✔️ Mise à jour régulière
 
+✔️ Audits
+
 ✔️ Formations
 
 ✔️Segmenter le réseau 
