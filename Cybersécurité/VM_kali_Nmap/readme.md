@@ -1,6 +1,7 @@
 #  Nmap
 
-Pour l'administrateur ou le Pintester Nmap permet de faire l'inventaire du réseau (IP utilisées, port ouvert, services disponibles)
+Pour l'administrateur ou le Pintester Nmap permet de faire l'inventaire du réseau (IP utilisées, port ouvert, services disponibles).
+Il peuvent dans le cadre d’un audit de sécurité trouver les informations ( N° de version, ...) afin de pouvoir supprimer les failles potentielles.
 
 >[!TIP]
 >
