@@ -22,3 +22,7 @@
 ✔️ Problèmatique du BYOD
 
 ## Renseignement sur les menaces 
+
+Vous pouvez utiliser plusieurs bases:
+
+✔️ base CVE  Common Vulnerabilities and Exposures , https://www.cve.org/
