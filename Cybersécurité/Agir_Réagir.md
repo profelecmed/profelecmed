@@ -11,4 +11,4 @@
 * Protéger vos sauvegardes
    * Mettre toutes vos sauvegardes hors-réseau
      
-* Avertir les collaborateurs 
+* Avertir les collaborateurs , vos fournisseurs 
