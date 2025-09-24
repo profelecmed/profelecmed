@@ -29,3 +29,8 @@ Vous pouvez utiliser plusieurs bases:
 
 
 ✔️ La base du **CERT-FR** Computer Emergency Response Team, https://www.cert.ssi.gouv.fr/
+
+
+## Actions
+
+✔️ Mise à jour régulière
