@@ -1,5 +1,6 @@
 #  Nmap
 
+Pour l'administrateur ou le Pintester Nmap permet de faire l'inventaire du réseau (IP utilisées, port ouvert, services disponibles)
 
 >[!TIP]
 >
