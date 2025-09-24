@@ -47,6 +47,14 @@ Vous pouvez utiliser plusieurs bases:
 ✔️ La base du **CERT-FR** Computer Emergency Response Team, https://www.cert.ssi.gouv.fr/
 
 
+# LES RISQUES:
+ * Attaques
+ * Pannes
+ * Accidents ( Feu , Eau ,tremblement de terre , ...)
+ * Erreurs ,mauvaise utilisations
+ * Divulgation d'information
+ * Fraudes
+
 ## Actions
 
 ✔️ Mise à jour régulière
