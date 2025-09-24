@@ -4,14 +4,14 @@
 
 ✔️ Disponibilité  :
 
-* La ressource doit être disponible en temps voulu avec un temps de réponse acceptable.
+* La ressource est disponible "dans un temps raisonnable"
   
 ✔️ Intégrité
 
-* La ressource n'est pas corrompue ou modifiée. Seules les personnes habilitées peuvent modifier son contenu. Toute modification illégitime doit pouvoir être détectée.
+* La ressource n'est pas corrompue ou modifiée. Seules les personnes autorisées peuvent modifier son contenu. Les modifications illégitimes doit être détectées.
 
 ✔️ Confidentialité
-* Seules les personnes habilitées peuvent accéder à la ressource.
+* Seules autorisées peuvent accéder à la ressource.
 
 ## Surface d’attaque
 
