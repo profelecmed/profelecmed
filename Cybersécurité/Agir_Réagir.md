@@ -9,4 +9,6 @@
     * Débrancher les périphèriques
 
 * Protéger vos sauvegardes
+   * Mettre toutes vos sauvegardes hors-réseau
+     
 * Avertir les collaborateurs 
