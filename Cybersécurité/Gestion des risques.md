@@ -13,10 +13,12 @@
 ✔️ Confidentialité
 * Seules autorisées peuvent accéder à la ressource.
 
------
 
 ✔️ Non répudiation
 * L'émetteur du message ne peut pas nier l'avoir envoyé et celui qui le eçoit  ne peut pas nier l'avoir reçu.
+
+✔️ Authentification
+* Assurance de l'identité d'un objet.
 
 ## Profils des attaquants
 
