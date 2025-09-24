@@ -8,7 +8,7 @@
   
 ✔️ Intégrité
 
-* La ressource n'est pas corrompue ou modifiée. Seules les personnes autorisées peuvent modifier son contenu. Les modifications illégitimes doit être détectées.
+* La ressource n'est pas corrompue ou modifiée. Seules les personnes autorisées peuvent modifier son contenu. Les modifications illégitimes doivent être détectées.
 
 ✔️ Confidentialité
 * Seules autorisées peuvent accéder à la ressource.
