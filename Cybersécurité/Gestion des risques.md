@@ -13,6 +13,15 @@
 ✔️ Confidentialité
 * Seules autorisées peuvent accéder à la ressource.
 
+## Profils des attaquants
+
+🚩 Cracker
+🚩 Cyber criminel 
+🚩 Etats 
+✔️ Ethical hacker
+🚩 Hacktivistes
+🚩 Script kiddies
+
 ## Surface d’attaque
 
 ✔️ Appareils autorisés à se connecter
