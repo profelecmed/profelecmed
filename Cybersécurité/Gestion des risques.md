@@ -43,3 +43,5 @@ Vous pouvez utiliser plusieurs bases:
 ## Actions
 
 ✔️ Mise à jour régulière
+
+✔️ Formations
