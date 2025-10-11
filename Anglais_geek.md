@@ -130,7 +130,7 @@ Niveau!
 * trackpad          :   Pavé tactile 
 
 ### --------------------------------------    U                   |    ---------------------------------------                                                 U
-* upload (To)       :   Transfert vers le serveur
+* upload (To)       :   Télécharger , Transfert vers le serveur 
 * Username          :   Identifiant
 * update            :   Mise à jour
 
