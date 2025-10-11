@@ -60,7 +60,7 @@ Niveau!
 * Freeware          :   Logiciel gratuit
 * Fuse              :   Fusible
 ---------------------------------------   G                   |    ---------------------------------------                                                 G
-
+* Ground           :   Sol , terre "Massse"
 ---------------------------------------   H                   |    ---------------------------------------                                                 H
 * Hardware          :   Matériel informatique 
 
