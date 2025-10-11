@@ -82,6 +82,7 @@ Niveau!
 * Operating System  :   Système d’exploitation
 
 --------------------------------------    P                        ---------------------------------------                                                 P
+* Panel             :   Panneau
 * Paste (To)        :   Coller
 * ➡️                                                                  Peer-to-peer       : Pair-à-pair
 * Personal Computer :   Ordinateur personnel
