@@ -86,6 +86,7 @@ Niveau!
 * ➡️                                                                  Middleware        :  Logiciel intermédiaire "Intergiciel"
 
 ### ---------------------------------------   N                   |    ---------------------------------------                                                 N 
+* Network          :   Réseau
 
 ### --------------------------------------    O                        ---------------------------------------                                                 O
 * Operating System  :   Système d’exploitation
