@@ -80,6 +80,7 @@ Niveau!
 
 --------------------------------------    O                        ---------------------------------------                                                 O
 * Operating System  :   Système d’exploitation
+* ➡️                                                                  Over run         :  Dépassement , surcharge       
 
 --------------------------------------    P                        ---------------------------------------                                                 P
 * Panel             :   Panneau
