@@ -7,6 +7,7 @@ Niveau!
 
 
 ### ---------------------------------------   A                   |    ---------------------------------------                                                 A 
+❌                                                                   ❌ a figure       :    Un chiffre                              
 * account           :   Compte
 * 🎈                                                                 adaptor            :    Adaptateur
 * ➡️                                                                 add-on             :    Ajouter , logiciel d'extension, module complémentaire
