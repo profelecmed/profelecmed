@@ -137,6 +137,7 @@ Niveau!
 ### --------------------------------------    W                   |    ---------------------------------------                                                 W
 * window            :   Fenêtre
 * Wi-Fi             :   Wireless Fidelity
+* Wire              :   Fil
 * Wireless          :   Sans Fil
 * Workspace         :   Espace de travil
 * ➡️                                                                 Worm              :   Ver
