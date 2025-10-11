@@ -59,6 +59,7 @@ Niveau!
 * ➡️                                                                  footer            :    bas de page
 * Freeware          :   Logiciel gratuit
 * Fuse              :   Fusible
+---------------------------------------   G                   |    ---------------------------------------                                                 G
 
 ---------------------------------------   H                   |    ---------------------------------------                                                 H
 * Hardware          :   Matériel informatique 
