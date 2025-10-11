@@ -69,7 +69,8 @@ Niveau!
 * Hot line          :   Ligne d'assistance "téléphonique"
 
 ### ---------------------------------------   I                   |    ---------------------------------------                                                 I 
-* ➡️ Increase (To) :   Augmenter
+* ➡️ Increase (To)  :   Augmenter
+* Input              :   Entrée
 * IT information technology  :  Technologie de l’information
 
 ### ---------------------------------------   K                   |    ---------------------------------------                                                 K 
