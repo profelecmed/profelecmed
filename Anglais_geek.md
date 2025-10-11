@@ -66,6 +66,7 @@ Niveau!
 
 ---------------------------------------   H                   |    ---------------------------------------                                                 H
 * Hardware          :   Matériel informatique 
+* Hot line          :   Ligne d'assistance "téléphonique"
 
 ---------------------------------------   I                   |    ---------------------------------------                                                 I 
 * IT information technology  :  Technologie de l’information
