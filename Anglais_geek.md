@@ -48,6 +48,7 @@ Niveau!
 ---------------------------------------   E                   |    ---------------------------------------                                                 E 
 * Enable            :   Activer
 * ➡️                                                                  Exploit           :   Faille           
+
 ---------------------------------------   F                   |    ---------------------------------------                                                 F 
 * Fan               :   Ventilateur
 * ➡️                                                                  Feedback          :     Un retour
@@ -59,8 +60,10 @@ Niveau!
 * ➡️                                                                  footer            :    bas de page
 * Freeware          :   Logiciel gratuit
 * Fuse              :   Fusible
+
 ---------------------------------------   G                   |    ---------------------------------------                                                 G
 * Ground           :   Sol , terre "Massse"
+
 ---------------------------------------   H                   |    ---------------------------------------                                                 H
 * Hardware          :   Matériel informatique 
 
