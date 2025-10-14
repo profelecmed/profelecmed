@@ -124,6 +124,7 @@ Glossaire & Acronymes
  MD5             :  Message-Digest Algorithm 5    :  Fonction de hachage cryptographique qui crée une empreinte numérique unique 
  Media           :  C'est le support de transmission : Cuivre  , Fibre optique , Ondes ( Wifi, Bluetooth, Radio , lumière, ...)
  Mnémonique      :  Associations vous aidant à se souvenir de quelque chose, par exemple un mot de passe ou une procédure.
+ MOOC            :  Massive Open Online Course
  MQTT            :  Message Queuing Telemetry Transport : Il transmet des messages entre différentes machines pour l'IoT et M2M.
  ML              :  Machine Learning
  Molex           :  C'est le connecteur permettant l'alimentation des périphériques interne dans un PC.
