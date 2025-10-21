@@ -126,6 +126,7 @@ Niveau!
 * ➡️                                                                 Stack (To)        :   Empiler , Stack :  Une pile
 * ➡️                                                                 Statement         :   Déclaration
 * Suscriber         :   Abonné
+*  ➡️                                                                submit (To)       :   Proposer           
 
 ### --------------------------------------    T                   |    ---------------------------------------                                                 T
 * ➡️                                                                 Topic             :   Sujet
