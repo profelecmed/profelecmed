@@ -39,7 +39,7 @@ Niveau!
 
 ### ---------------------------------------   D                   |    ---------------------------------------                                                 D
 * ➡️                                                                 Database           :    Base dedonnée  
-* ➡️                                                                 Deadline           :    Date limite
+* ➡️                                                                 Deadline           :    Date limite, échéance
 * Desktop           :   "Ordinateur de " Bureau
 * Directory (A)     :   Un répertoire
 * ➡️                                                                 Disagree (To)      :    Être en désaccord
