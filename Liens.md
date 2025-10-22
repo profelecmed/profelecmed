@@ -80,4 +80,5 @@ Vérifier vos mails                            :    Permet de Vérifier si votre
 
 ### PROF:
 https://classroomscreen.com/      C'est un smart tableau " générateur de qr-codes, un chronomètre, un minuteur, un détecteur de son, une horloge, un calendrier, ....
+
 https://ladigitale.dev/#projet    Pour mettre en place des activités collaboratives , DIGIBOARD, ..., DIGISTORM, DIGIBLUR, DIGIGIF
