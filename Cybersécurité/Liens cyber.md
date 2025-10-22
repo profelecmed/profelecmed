@@ -9,3 +9,9 @@
 
 #### Exploit :
 * https://www.exploit-db.com/
+
+
+Vrac:
+
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+
