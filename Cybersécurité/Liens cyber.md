@@ -1,8 +1,8 @@
 # Liens cyber
 
-#### CVE :
+#### CVE : Common Vulnerabilities and Exposures
 * https://www.cve.org/Resources/Media/Archives/OldWebsite/index.html
 
 
-#### CNIL
+#### CNIL :
 * https://www.cnil.fr/professionnel
