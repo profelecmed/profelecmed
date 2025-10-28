@@ -31,4 +31,4 @@
 ## V
 * **Ver** , c'est un programme autonomre
 * **Virus** ,
-*  **vulnérabilités**
+*  **vulnérabilités** , faiblesse d’un système d’information
