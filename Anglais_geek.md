@@ -28,6 +28,7 @@ Niveau!
 
 ### ---------------------------------------   C                   |    ---------------------------------------                                                 C
 * Case              :   Boitier
+* Cell              :   Cellule (Ex: dans une batterie)
 * Chat (To)         :   Bavarder, discuter
 * ➡️                                                                  Chip  "Microchip" :   Puce
 * Computer          :   Ordinateur
