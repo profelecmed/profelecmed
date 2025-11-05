@@ -42,8 +42,9 @@ Niveau!
 ### ---------------------------------------   D                   |    ---------------------------------------                                                 D
 * ➡️                                                                 Database           :    Base dedonnée  
 * ➡️                                                                 Deadline           :    Date limite, échéance
-* Deepfake          :    Hypertrucage    , vient de Deep Learning et Fake.  
+* Deepfake          :   Hypertrucage    , vient de Deep Learning et Fake.  
 * Desktop           :   "Ordinateur de " Bureau
+* Direct Current    :   courant continu
 * Directory (A)     :   Un répertoire
 * ➡️                                                                 Disagree (To)      :    Être en désaccord
 * Download (To)     :   Téléchargement vers nous!
