@@ -8,13 +8,14 @@ Niveau!
 
 ### ---------------------------------------   A                   |    ---------------------------------------                                                 A 
 * ❌                                                                   a figure       :    Un chiffre                              
-* account           :   Compte
+* account            :   Compte
 * 🎈                                                                 adaptor            :    Adaptateur
 * ➡️                                                                 add-on             :    Ajouter , logiciel d'extension, module complémentaire
 * Address            :    Adresse
-* Advertisment (A)  :   Une publicité
+* Advertisment (A)   :   Une publicité
 * ➡️                                                                 Advice             :    Conseil
-* ➡️                                                                 Agree (To)         :    Accepter  
+* ➡️                                                                 Agree (To)         :    Accepter
+* Alternating Current : courant alternatif 
 * ➡️                                                                 Attachment         :    Piece jointe PJ
 
 ### ---------------------------------------   B                   |    ---------------------------------------                                                 B 
