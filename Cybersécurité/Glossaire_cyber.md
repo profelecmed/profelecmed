@@ -6,7 +6,7 @@
 
 # B
 * **Backdoor**
-* **BOLA** , Broken Object Level Authorization
+* **BOLA** , Broken Object Level Authorization, C'est une vulnérabilité de sécurité API , elle se produit 
 
 # C
 * **cryptographie asymétrique** , ( Clé publique , Clé privée )
