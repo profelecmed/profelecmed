@@ -34,7 +34,7 @@
 * **rootkit** , 
 
 # S
-* **SSRF** Server-Side Request Forgery , C'est une vulnérabilité via un URL
+* **SSRF** Server-Side Request Forgery , C'est une vulnérabilité pour accéder à un accès interne par un manque de validation d'une URL
 
 ## V
 * **Ver** , c'est un programme autonomre
