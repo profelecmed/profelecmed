@@ -33,6 +33,9 @@
 # R
 * **rootkit** , 
 
+# S
+* **SSRF** Server-Side Request Forgery , C'est une vulnérabilité via un URL
+
 ## V
 * **Ver** , c'est un programme autonomre
 * **Virus** ,
