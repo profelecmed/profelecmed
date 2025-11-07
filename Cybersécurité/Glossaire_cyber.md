@@ -6,6 +6,7 @@
 
 # B
 * **Backdoor**
+* **BOLA** , Broken Object Level Authorization
 
 # C
 * **cryptographie asymétrique** , ( Clé publique , Clé privée )
