@@ -21,6 +21,9 @@
 ## H
 * **Hotlinking**  , Insérer sur son site un objet d'un autre site en utilisant directement un lien à la place de l'héberger directement. 🚩 Mauvaise pratique
 
+## I
+*Injection SQL
+
 ## P
 * **Patch** c'est un correctif à appliquer pour supprimer une faille de sécurité.
 * **phishing**
