@@ -26,7 +26,7 @@
 ## I
 * **Injection SQL**
 
-## P
+## O
 * **OSINT** Open Source Intelligence 
 
 ## P
