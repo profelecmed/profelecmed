@@ -37,6 +37,7 @@
 ## P
 * **Patch** c'est un correctif à appliquer pour supprimer une faille de sécurité.
 * **phishing**
+* **Pivot**
 
   
 # R
