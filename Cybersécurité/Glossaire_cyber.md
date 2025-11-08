@@ -32,7 +32,8 @@
 * **Injection SQL**
 
 ## O
-* **OSINT** Open Source Intelligence 
+* **OSINT** Open Source Intelligence
+    * Le cycle du renseignement: planification, collecte, traitement, analyse, diffusion  
 
 ## P
 * **Patch** c'est un correctif à appliquer pour supprimer une faille de sécurité.
