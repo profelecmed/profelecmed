@@ -45,6 +45,7 @@
 *  **rootkit** , 
 
 # S
+* **scraper**
 * **SSRF** Server-Side Request Forgery , C'est une vulnérabilité pour accéder à un accès interne en trompant le serveur, https://www.youtube.com/watch?v=m4-dj2FM9Qc, https://www.youtube.com/watch?v=hPr8Lmt_IBc
 
 ## V
