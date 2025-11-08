@@ -15,7 +15,7 @@
 
 # D
 * **Diceware** , C'est une méthode pour créer des mots de passe à partir de mots tirés d’une liste grâce à des lancers de dés.
-* **Données ouvertes**, On cherche a récupérer ces données avec l'OSINT
+* **Données ouvertes**, On cherche a récupérer ces données avec l'OSINT,  informations librement accessibles au public
   
 # E
 * **Exploit zero day**
