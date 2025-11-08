@@ -33,7 +33,7 @@
 
 ## O
 * **OSINT** Open Source Intelligence
-    * Le cycle du renseignement: planification, collecte, traitement, analyse, diffusion  
+    * Le cycle du renseignement: Planification, Collecte, Traitement, Analyse, Diffusion.  
 
 ## P
 * **Patch** c'est un correctif à appliquer pour supprimer une faille de sécurité.
