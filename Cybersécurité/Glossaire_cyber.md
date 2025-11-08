@@ -21,6 +21,11 @@
 * **Exploit zero day**
 
 ## H
+* **Hat**
+    * White hat
+    * Gray hat
+    * Black hat
+       
 * **Hotlinking**  , Insérer sur son site un objet d'un autre site en utilisant directement un lien à la place de l'héberger directement. 🚩 Mauvaise pratique
 
 ## I
