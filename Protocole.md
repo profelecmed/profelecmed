@@ -30,7 +30,8 @@
   - Cloudflare:  En IPV4:  : classique, sans blocage : - DNS Primaire:  1.1.1.1 ,  - DNS secondaire :  1.0.0.1
   - Cloudflare:  En IPV4: : blocage malwares : - DNS Primaire:  1.1.1.2 ,  - DNS secondaire :  1.0.0.2
   - Cloudflare:  En IPV4: : blocage malwares et adulte : - DNS Primaire:  1.1.1.3 ,  - DNS secondaire :  1.0.0.3
-  - Google:   En IPV6: - DNS Primaire: 2001:4860:4860::8888  ,   :  - DNS Primaire:      2001:4860:4860::8844  
+  - Google:   En IPV6: - DNS Primaire: 2001:4860:4860::8888  ,   :  - DNS Primaire:      2001:4860:4860::8844
+  - Cloudflare:  En IPV6:  : classique, sans blocage : - DNS Primaire: 2606:4700:4700::1111 ,  - DNS secondaire :  2606:4700:4700::1001
 
 
 ## F
