@@ -5,7 +5,7 @@ Niveau!
 * ➡️ Level 2 :
 * ❌ Faux amis     
 
-
+2FA  :  two-factor authentication 
 ### ---------------------------------------   A                   |    ---------------------------------------                                                 A 
 * ❌                                                                   a figure       :    Un chiffre                              
 * account            :   Compte
