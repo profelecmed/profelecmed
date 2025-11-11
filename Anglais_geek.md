@@ -127,6 +127,7 @@ Niveau!
 * Sign UP           :   S'inscrire
 * Shutdown          :   Fermer
 * ➡️                                                                 Skill             :   Compétence 
+* Smart             :   Intelligent
 * Software          :   Logiciel
 * Spy               :   Espion
 * ➡️                                                                 Stack (To)        :   Empiler , Stack :  Une pile
