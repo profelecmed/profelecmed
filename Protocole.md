@@ -28,7 +28,8 @@
 - **DNS**            :  Domain Name System                     : Association noms et IP
   - cGoogle:  8.8.8.8
   - Goggle:   8.8.4.4
-  -  
+  - Cloudflare 1.1.1.1
+  - Cloudflare 1.0.0.1 
 
 ## F
 - **FTP**            :  File Transfer Protocol                 : Protocole de transfert de fichiers
