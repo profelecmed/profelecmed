@@ -25,6 +25,7 @@
   - Phase 3 : DHCPREQUEST
   - Phase 4 : DHCPACK  
 - **DNS**            :  Domain Name System                     : Association noms et IP
+ -cGoogle 8.8.8.8    8.8.4.4 
 ## F
 - **FTP**            :  File Transfer Protocol                 : Protocole de transfert de fichiers
 ##  H
