@@ -6,7 +6,8 @@ Niveau!
 * ❌ Faux amis     
 
 ### ---------------------------------------                       |    ---------------------------------------                                                  
-2FA  :  two-factor authentication 
+2SV  :   two-step verification 
+2FA  :   two-factor authentication 
 ### ---------------------------------------   A                   |    ---------------------------------------                                                 A 
 * ❌                                                                   a figure       :    Un chiffre                              
 * account            :   Compte
