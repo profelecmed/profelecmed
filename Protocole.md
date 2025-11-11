@@ -30,7 +30,7 @@
   - Cloudflare:  En IPV4:  : classique, sans blocage : - DNS Primaire:  1.1.1.1 ,  - DNS secondaire :  1.0.0.1
   - Cloudflare:  En IPV4: : blocage malwares : - DNS Primaire:  1.1.1.2 ,  - DNS secondaire :  1.0.0.2
   - Cloudflare:  En IPV4: : blocage malwares et adulte : - DNS Primaire:  1.1.1.3 ,  - DNS secondaire :  1.0.0.3
-  - Quad9: EnIPv4 : - DNS Primaire:  9.9.9.9  ,   :  - DNS Primaire:   149.112.112.112
+  - Quad9: EnIPv4 : - DNS Primaire:  9.9.9.9  ,   :  - DNS Primaire:   149.112.112.112   https://quad9.net/
   - Google:   En IPV6: - DNS Primaire: 2001:4860:4860::8888  ,   :  - DNS Primaire:      2001:4860:4860::8844
   - Cloudflare:  En IPV6:  : classique, sans blocage : - DNS Primaire: 2606:4700:4700::1111 ,  - DNS secondaire :  2606:4700:4700::1001
 
