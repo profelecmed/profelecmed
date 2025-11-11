@@ -26,10 +26,10 @@
   - Phase 4 : DHCPACK  
 
 - **DNS**            :  Domain Name System                     : Association noms et IP
-  - Google:        8.8.8.8
-  - Goggle:        8.8.4.4
-  - Cloudflare: DNS Primaire: classique, sans blocage :   1.1.1.1  
-  - Cloudflare:  secondaire : classique, sans blocage :    1.0.0.1 
+  - Google:        8.8.8.8  ,   - Goggle:        8.8.4.4
+  - Cloudflare: DNS Primaire: classique, sans blocage :   1.1.1.1  ,   - Cloudflare:  secondaire : classique, sans blocage :    1.0.0.1
+  - Cloudflare: DNS Primaire: blocage malwares :   1.1.1.2 ,   - Cloudflare:  secondaire : blocage malwares :    1.0.0.2
+
 
 ## F
 - **FTP**            :  File Transfer Protocol                 : Protocole de transfert de fichiers
