@@ -26,7 +26,8 @@
   - Phase 4 : DHCPACK  
 
 - **DNS**            :  Domain Name System                     : Association noms et IP
-  - Google:  - DNS Primaire:  8.8.8.8  ,   :  - DNS Primaire:       8.8.4.4
+  - En IPV4:
+  - Google:  - DNS Primaire:  8.8.8.8  ,   :  - DNS Primaire:       8.8.4.4   
   - Cloudflare:  : classique, sans blocage : - DNS Primaire:  1.1.1.1 ,  - DNS secondaire :  1.0.0.1
   - Cloudflare:  : blocage malwares : - DNS Primaire:  1.1.1.2 ,  - DNS secondaire :  1.0.0.2
   - Cloudflare:  : blocage malwares et adulte : - DNS Primaire:  1.1.1.3 ,  - DNS secondaire :  1.0.0.3
