@@ -42,7 +42,7 @@
 - Kali   documentation                                         :    https://www.kali.org/docs/
 - Mint                                                         :    https://linuxmint.com/
 - Ubuntu documentations                                        :    https://doc.ubuntu-fr.org/
-- Whonix                                                       :    https://www.whonix.org/
+- Whonix                                                       :    https://www.whonix.org/              : Distribution orientée sécurité , sécurité et l'anonymat sur Interne avec TOR
 
 **Linux apprendre les commandes**:                 Gameshell                                                    :    https://github.com/phyver/GameShell
 
