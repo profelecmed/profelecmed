@@ -42,6 +42,7 @@
 - Kali   documentation                                         :    https://www.kali.org/docs/
 - Mint                                                         :    https://linuxmint.com/
 - Ubuntu documentations                                        :    https://doc.ubuntu-fr.org/
+- Whonix                                                       :    https://www.whonix.org/
 
 **Linux apprendre les commandes**:                 Gameshell                                                    :    https://github.com/phyver/GameShell
 
