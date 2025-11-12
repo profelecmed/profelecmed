@@ -34,6 +34,8 @@
 * **Injection SQL**
 
 ## O
+* **OS**
+    * Exegol  : https://exegol.com/ 
 * **OSINT** Open Source Intelligence
     * Le cycle du renseignement: Planification, Collecte, Traitement, Analyse, Diffusion.  
 
