@@ -36,7 +36,8 @@
 ## O
 * **OS**
     * Exegol  : https://exegol.com/
-    * Kali linux :https://www.kali.org/ 
+    * Kali linux :https://www.kali.org/
+    * Qubes OS :  https://www.qubes-os.org/
 * **OSINT** Open Source Intelligence
     * Le cycle du renseignement: Planification, Collecte, Traitement, Analyse, Diffusion.  
 
