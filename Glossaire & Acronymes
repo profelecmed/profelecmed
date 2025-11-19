@@ -205,13 +205,14 @@ Glossaire & Acronymes
  VPN             :  virtual private network
  Vulnérabilité   :  C'est Une faiblesse, faille dans un logiciel, un matériel ou une configuration de système que l'on peut exploiter.
 --------------------------------------                                                                                                 W
+ WAP             :  Wireless Access Point
  Web scraping    :  Collecte des données par des bots
  W3C             :  World Wide Web Consortium        
  wap             :  Wireless Access Point
  WAN             :  Wide Area Network, réseau étendu
  Wi-Fi           :  Wireless Fidelity 
-    WEP             :  Wired Equivalent Privacy ; Trop facile à hacker!
-    WPA2            :  Wi-Fi Protected Access 2 , utilise AES (Advanced Encryption Standard) ou TKIP (Temporal Key Integrity Protocol)
+    WEP          :  Wired Equivalent Privacy ; Trop facile à hacker!
+    WPA2         :  Wi-Fi Protected Access 2 , utilise AES (Advanced Encryption Standard) ou TKIP (Temporal Key Integrity Protocol)
                                             WPA2-Entreprise
                                             WPA2-Personal       : WPA2-PSK , Pre-Shared Key 
  WLAN            : Wireless Local Area Net work
