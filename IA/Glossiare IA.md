@@ -89,3 +89,4 @@
 - **TPU**                  :  Tensor Processing Units, il existe :  les CPU qui sont des processeurs centraux, les GPU processeurs graphiques et le TPU qui sont optimisé pour les calculs de l'IA. 
 - **Training Data**        :  Ensemble de données utilisé pour "apprendre" à un modèle de Machine Learning ou de Deep Learning.
  
+### z
