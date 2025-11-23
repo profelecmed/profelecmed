@@ -90,3 +90,4 @@
 - **Training Data**        :  Ensemble de données utilisé pour "apprendre" à un modèle de Machine Learning ou de Deep Learning.
  
 ### z
+- **Zero-shot learning**  :  C'est une technique d'apprentissage automatique, Une IA réussit une tâche jamais vues pendant l'entraînemen en s'appuyant sur ses connaissances précédentes.
