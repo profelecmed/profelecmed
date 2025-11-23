@@ -41,6 +41,7 @@
 
 ### H
 - **hallucination**        :  C'est la génération d'une réponse inexacte par l'IA quand elle n'a pas les entrèes nécessaire pour répondre.
+- **Human-in-the-Loo**     :  C'est un modèle d'IA où l'intervention humaine est intégrée centrale. entraîner, ajuster, améliorer, valider ...
 
 ### I
 - **inférence**            : C'est quand l'IA répond à une nouvelle question en utilisant tout ce qu'elle a apprise à l'entrainement. 
