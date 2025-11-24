@@ -70,7 +70,7 @@ _**Edition 2024,**_  "Equipe PRYMZ 10ième sur 210 équipes" ,  CTF (Capture The
 
 _**Edition 2025,**_  2 Equipes : "Equipe PRYMZ** 138 sur 1290 équipes "  "Equipe FLAG-EUR 177 sur 1290 équipes "
 
-_**Edition 2026,**_  Inscriptions 
+_**Edition 2026,**_  pré_Inscriptions OK 
 
 ----   
 ![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
