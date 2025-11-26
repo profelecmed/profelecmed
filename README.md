@@ -46,7 +46,7 @@ _**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 
 ![CGENIAL](https://github.com/profelecmed/profelecmed/blob/main/pictures/cgenialONLINE.png)   ![yeswecode](https://github.com/profelecmed/profelecmed/blob/main/pictures/yvconline.png) 
 
-_**Edition 2026,**_   ?
+_**Edition 2026,**_   Le projet est lancé !
 
 _**Edition 2025,**_   SmartBadge "avec IA"
 
