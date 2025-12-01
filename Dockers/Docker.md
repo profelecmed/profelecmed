@@ -9,7 +9,7 @@ Il permet de packager des applications avec leurs dépendances.
 
  ## **Installation :**
 - Installer Docker Desktop installer.exe
-- Cocher les cases
+- Cocher les cases pour cela taper:optionalfeatures dans rechercher.
    * ✔️ Use WSL 2 instead of Hyper-V
         ,  Cela va faire aparaître Linux "Windows Subsystem for Linux" dans l'explorateur de document.
    * ✔️ ADD SHORTCUT TO DESKTO
