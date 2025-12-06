@@ -120,6 +120,7 @@ Glossaire & Acronymes
  Logiciel libre  :  Il est possible de modifier le code source du logiciel.
  LPU             :  Language Processing Unit
  LSB             :  Less Significant Byte , bit de poids faible "par défaut c'est le bit le plus à droite" , voir aussi MSB
+ LTS             :  Long Term Support , exemple dans un ISO Linux c'est la version stable qui est maintenu au moins 5 ans
 ---------------------------------------                                                                                                 M
  M2M             :  Machine to Machine , C'est la communication de machine à machine 
  MAC             :  Media Access Control          : 6 octets sous forme hexadécimale 
