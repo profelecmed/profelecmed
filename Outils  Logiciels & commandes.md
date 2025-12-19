@@ -57,7 +57,7 @@
 
                   arp -a             |  Permet d'afficher la table ARP ( IP et Mac )
 
-                  ping  adresse ip   |  Permet de tester le lien vers l'adresse IP cible. ( Packets: Sent = 4, Received = 4, Lost = 0)
+                  ping  adresse ip   |  (Packet Internet Groper, Permet de tester le lien vers l'adresse IP cible. ( Packets: Sent = 4, Received = 4, Lost = 0)
 
                   nmap               |  Permet d'analyser les ports et de faire un mapping, Exemple : nmap -p 80 192.168.1.40 ici on scanne le port 80 de l'adresse ip , 80/tcp closed http
 
