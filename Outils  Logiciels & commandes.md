@@ -57,7 +57,7 @@
 
                   arp -a             |  Permet d'afficher la table ARP ( IP et Mac )
 
-                  ping  adresse ip   |  (Packet Internet Groper
+                  ping  adresse ip   | Packet Internet Groper
                                      | Permet de tester le lien vers l'adresse IP cible.
                                      | Packets: Sent = 4, Received = 4, Lost = 0
 
