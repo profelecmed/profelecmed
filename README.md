@@ -29,7 +29,7 @@
 
 ----    
 ### My first OS: 
-* **MS-DOS**, **Micro**s**oft **D**isk **O**perating **S**ystem
+* **MS-DOS**, **M**icro**s**oft **D**isk **O**perating **S**ystem
 * **Unix**, 
 ---- 
 
