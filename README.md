@@ -22,8 +22,8 @@
 
 ### My first PC:   
 ##### In school :
-  * **Thomson TO7**
-  * ** Thomson MO5** 
+  * **Thomson TO7**, **T**élé/**O**rdinateur, programme en BASIC 1.0, RAM 8Ko
+  * **Thomson MO5** , 
 ##### At home :
   * **Amstrad CPC 464**, 8 bits, Ram 64Ko, green monochrome monitor, 1986_
 
