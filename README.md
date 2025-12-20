@@ -21,6 +21,9 @@
 ----    
 
 ### My first PC:   
+#### In school:
+_**Thomson TO7**
+### At home:
 _**Amstrad CPC 464**, 8 bits, Ram 64Ko, green monochrome monitor, 1986_
 
 ----    
