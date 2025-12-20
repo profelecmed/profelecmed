@@ -28,9 +28,13 @@
   * **Amstrad CPC 464**, **C**olour **P**ersonal **C**omputer, 8 bits, Ram 64Ko, green monochrome monitor, Sortie en 1984 mais1986 pour moi.
 
 ----    
-    
+### My first OS: 
+* **MS-DOS**, **Micro**s**oft **D**isk **O**perating **S**ystem
+* **Unix**, 
+---- 
+
 ### My first programming language:
-_**BASIC**_  Beginner's All-purpose Symbolic Instruction Code
+  * **BASIC**_  Beginner's All-purpose Symbolic Instruction Code
 
 ----    
 
