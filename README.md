@@ -25,7 +25,7 @@
   * **Thomson TO7**, **T**élé/**O**rdinateur, programme en BASIC 1.0, Ram 8Ko, 1982
   * **Thomson MO5** , **M**icro-**O**rdinateur, Crayon optique,  programme en BASIC 1.0, Ram 96 Ko ,1984
 ##### At home :
-  * **Amstrad CPC 464**, 8 bits, Ram 64Ko, green monochrome monitor, Sortie en 1984 mais1986 pour moi.
+  * **Amstrad CPC 464**, **C**olour **P**ersonal **C**omputer, 8 bits, Ram 64Ko, green monochrome monitor, Sortie en 1984 mais1986 pour moi.
 
 ----    
     
