@@ -218,7 +218,7 @@ Glossaire & Acronymes
     WPA2         :  Wi-Fi Protected Access 2 , utilise AES (Advanced Encryption Standard) ou TKIP (Temporal Key Integrity Protocol)
                                             WPA2-Entreprise
                                             WPA2-Personal       : WPA2-PSK , Pre-Shared Key 
- WLAN            : Wireless Local Area Net work
+ WLAN            : Wireless Local Area Network
  WLS             : Windows Subsystem for Linux , utiliser par exemple pour Docker sous windows.
 --------------------------------------                                                                                                 X
  XaaS           :  anything as aservice pour le cloud computing
