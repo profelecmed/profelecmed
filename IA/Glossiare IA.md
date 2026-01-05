@@ -55,7 +55,7 @@
 - **LLM**                  :  Large Language Mode
 
 ### M
-- [x] **ML**    Machine Learning  :  C'est un modèle capable de tirer des conclusion
+- [x] **ML**    Machine Learning  :  C'est un modèle capable de tirer des conclusions
 - *    Apprentissage supervisé ,  Supervised Learning **SL**
   *    Apprentissage non supervisé
   *    Apprentissage par renforcement , ici il y a des récompensant les bonnes décisions, Reinforcement Learning  **RL**, from human feedback **RLHF**
