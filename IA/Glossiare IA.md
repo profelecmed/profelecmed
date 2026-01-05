@@ -37,6 +37,7 @@
 
 ### G
 - **GPT**                  :  Generative Pre-trained Transformer , développé par OpenAI
+    ** Le modèle Transformer**  ,  développé par des chercheurs de Google Brain.
 - **GPU**                  :  Graphics Processing Unit , initialement utilisé pour lees graphiques des jeux vidéos.   
 
 ### H
