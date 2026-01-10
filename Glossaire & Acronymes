@@ -117,7 +117,7 @@ Glossaire & Acronymes
  Infogérance     :  Externalisation informatique, déléguer la gestion du système d'information
  IT              :  Information Technology
 ---------------------------------------                                                                                                 J
- JSON            :  JavaScript Object Notation , C'est un langage textuel qui permet par exemple un échange de données entre un serveur et une application Web.
+ JSON            :  JavaScript Object Notation , C'est un langage textuel "format d'échange de données " qui permet par exemple un échange de données entre un serveur et une application Web.
 ---------------------------------------                                                                                                 L
  LAG             :  Link Aggregation Group  , X bande passante, redondance des liaisons entre deux périphériques 
  LAN             :  local area network , c'est un réseau local
