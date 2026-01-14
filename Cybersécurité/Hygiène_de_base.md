@@ -3,7 +3,7 @@
 ## Comptes
 ✔️ Compte pro   ✔️ Compte perso   ✔️ Compte amis   ✔️ Compte poubelle
 
-## Médias amoviles
+## Médias amovibles
 
 ✔️ Clès cryptées
 
