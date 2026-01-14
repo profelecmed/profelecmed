@@ -5,7 +5,7 @@
 
 ## Médias amovibles
 
-✔️ Clès cryptées
+✔️Clés cryptées
 
 ✔️ Station blanche
 
