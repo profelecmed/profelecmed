@@ -35,7 +35,7 @@
 
 ✔️ Services accessibles de l’extérieur
 
-✔️ Problèmatique du BYOD
+✔️ Problématique du BYOD
 
 ## Renseignement sur les menaces 
 
@@ -51,7 +51,7 @@ Vous pouvez utiliser plusieurs bases:
  * Attaques
  * Pannes
  * Accidents ( Feu , Eau ,tremblement de terre , ...)
- * Erreurs ,mauvaise utilisations
+ * Erreurs ,mauvaises utilisations
  * Divulgation d'information
  * Fraudes
 
