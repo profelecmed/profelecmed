@@ -37,8 +37,9 @@ stratégie à mettre en place pour vos sauvegardes.
 
 ✔️ **1** copie hors site
 
-la strategie évolue, **stratégie 3-2-1-1-0**
+
+La strategie évolue, **stratégie 3-2-1-1-0**
 
 ✔️ **1** copie déconnectée 
 
-✔️ Vérification des sauvegardes pour verifier qu'il  ya **0** erreurs
+✔️ Vérification des sauvegardes pour verifier qu'il  ya **0** erreur
