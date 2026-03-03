@@ -12,6 +12,8 @@ D.D.P           :  Différence de potentiel = tension en Volts
 
 Loi d'Ohm       :   U = R x I
 
+Puissance       :   P(t)= U(t) X I(t)
+
 Débit           :  Quantité de données transmise sur une période. (Go/s)
                    Débit = Quantités / temps    D en bit/s ou bps , baud
 
