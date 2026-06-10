@@ -85,8 +85,7 @@
 
 ### S
 - **Self-Attention**       :  C'est la pondération de l’importance de chaque mot dans une phrase afin de déterminer le sens.
-- **shadow IA**
-
+- **shadow IA**            :  C'est l'utilisation d'outils IA dans leurs tâches pour être plus performants, sans autorisation ou supervision de l'entreprise. = IA Clandesting.
 ### T
 - **température**          :  Cela détermine à quel point le modèle sera "créatif" avec ses réponses. (0 peu et 1 maximun)
 - **Token**                :  Unité de base en laquuelle le modéle découpe ppour le traitement.
