@@ -1,3 +1,4 @@
+ESP32-C6-DevKitC-1
 
 Additional Boards Manager URLs
 Enter additional URLs, one for each row:
