@@ -85,6 +85,7 @@
 
 ### S
 - **Self-Attention**       :  C'est la pondération de l’importance de chaque mot dans une phrase afin de déterminer le sens.
+- **shadow IA**
 
 ### T
 - **température**          :  Cela détermine à quel point le modèle sera "créatif" avec ses réponses. (0 peu et 1 maximun)
