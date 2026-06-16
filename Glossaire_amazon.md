@@ -7,18 +7,19 @@
 ## es machines virtuelles et les conteneurs.
 
 AmazonECS
-
-  Amazon  Elastic Container Service
+    
+    Amazon  Elastic Container Service
   
 AWS Fargate
-  Kubernetes
+      
+    Kubernetes
  
 Amazon EKS
 
-  Amazon Elastic Kubernetes Service (Amazon EKS)
+    Amazon Elastic Kubernetes Service (Amazon EKS)
 
 Amazon ECR
 
-  Amazon Elastic Container Registry  
+    Amazon Elastic Container Registry  
 
 ----
