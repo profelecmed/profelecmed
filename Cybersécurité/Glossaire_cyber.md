@@ -1,7 +1,7 @@
 # Glossaire cyber
 
 ## Chiffre
-* **2FA**
+* **2FA**          :   Authentification à 2 facteurs
 ## A
 *  **API**            :  Application Programming Interface , Exemple pour intégrer une carte Google sur votre site Internet. https://www.youtube.com/watch?v=BRedXFKGSZU&t=8s
 * **Attaques actives** ,  
