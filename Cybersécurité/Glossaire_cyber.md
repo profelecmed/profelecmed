@@ -3,6 +3,7 @@
 ## Chiffre
 * **2FA**          :   Authentification à 2 facteurs
 ## A
+*  **Analyse forensique**     : Investigation numérique, elle consiste à rechercher et analyser les traces numériques laissées après un incident de sécurité.
 *  **API**            :  Application Programming Interface , Exemple pour intégrer une carte Google sur votre site Internet. https://www.youtube.com/watch?v=BRedXFKGSZU&t=8s
 * **Attaques actives** ,  
 * **Attaques passives** , analyse du trafic 
