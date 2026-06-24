@@ -110,6 +110,7 @@ Niveau!
 * Personal Computer :   Ordinateur personnel
 * Plug (To)         :   Connecter
 * ➡️                                                                  Plug-in            : Module complémentaire
+* printer           :   Imprimante
 * Privacy           :   Confidentialité
 
 ### --------------------------------------    Q                   |    ---------------------------------------                                                 R
