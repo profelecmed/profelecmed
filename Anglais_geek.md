@@ -155,5 +155,5 @@ Niveau!
 * Wi-Fi             :   Wireless Fidelity
 * Wire              :   Fil
 * Wireless          :   Sans Fil
-* Workspace         :   Espace de travil
+* Workspace         :   Espace de travail
 * ➡️                                                                 Worm              :   Ver
