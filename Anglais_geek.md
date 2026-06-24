@@ -101,6 +101,7 @@ Niveau!
 * Network          :   Réseau
 
 ### --------------------------------------    O                        ---------------------------------------                                                 O
+* Offline           :   Hors ligne
 * Operating System  :   Système d’exploitation
 * ➡️                                                                  Over run         :  Dépassement , surcharge       
 
