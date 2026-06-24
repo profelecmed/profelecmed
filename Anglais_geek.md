@@ -73,7 +73,8 @@ Niveau!
 * Ground           :   Sol , terre "Massse"
 
 ### ---------------------------------------   H                   |    ---------------------------------------                                                 H
-* Hardware          :   Matériel informatique 
+* Hardware          :   Matériel informatique
+* Host (to)         :   Héberger
 * Hot line          :   Ligne d'assistance "téléphonique"
 
 ### ---------------------------------------   I                   |    ---------------------------------------                                                 I 
