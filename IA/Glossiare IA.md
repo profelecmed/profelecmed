@@ -43,6 +43,7 @@
 
 ### H
 - **hallucination**        :  C'est la génération d'une réponse inexacte par l'IA quand elle n'a pas les entrèes nécessaire pour répondre.
+- **Hiver de l'IA**        :  Période d'arrêt de l'IA , la technologie et la puissance ne sont pas à la hauteur. Hiver 1 (1974-1980) , Hiver 2 (1987-1993)
 - **Human-in-the-Loo**     :  C'est un modèle d'IA où l'intervention humaine est intégrée centrale. entraîner, ajuster, améliorer, valider ...
 
 ### I
