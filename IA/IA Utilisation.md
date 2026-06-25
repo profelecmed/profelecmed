@@ -1,6 +1,7 @@
 # UTILISATIONS DE L'IA
 
 Qu'est-ce que l'IA ? 
+* IA Symbolique , repose sur des algorithme , elle n'apprend pas!
 * IA prédictive
 * IA générative
 
