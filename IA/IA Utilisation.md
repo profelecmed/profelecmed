@@ -3,6 +3,7 @@
 Qu'est-ce que l'IA ? 
 * IA Symbolique , repose sur des algorithme , elle n'apprend pas!
 * IA Comportementale ,
+* IA Statique , Ceux sont des algorithmes qui apprennent.
 * IA prédictive
 * IA générative
 
