@@ -3,7 +3,7 @@
 > Le vocabulaire IA
 
 ### A
-- **AI**
+- **AI** L'IA est apparue en tant que domaine scientifique dans les années 1950.
   * **AnSu** C'est une Intelligence Artificielle (IA) conçue pour transformer l'expérience d'apprentissage en classe.
   * **Anthropic Claude** https://www.anthropic.com/
   * **Bard** de Google
