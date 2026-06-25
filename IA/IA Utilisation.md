@@ -10,9 +10,9 @@ Qu'est-ce que l'IA ?
 * Machine learning:
     Apprentissage :
 
-         Autosupervisé
-         Renforcement
-         Non supervisé
+         Autosupervisé ,  l’algorithme apprend à partir de données non étiquetées. 
+         Renforcement , par récompense , exemple apprendre à marcher.
+         Non supervisé , détection des similarités entre données.
          Supervisé  , L'IA dispose du résultat attendu "Grand nombre de données d'entraînement et étiquetés". cette image est bien un chat!
 
 [Cadre d'usage de l'IA en éducation](https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647?actId=~av10zt61vVG7SfYyASTH5UuOSCi22VrBuxtcQ0ETwB-7u9YBHObe-UsJj93PjYTqSeMZAW_ZJf-eFWgSUldGlc5m6ZLyXvok41X1THkG36gMcdaloJYTpSA%3D%3D&actCampaignType=CAMPAIGN_MAIL&actSource=539279) 
