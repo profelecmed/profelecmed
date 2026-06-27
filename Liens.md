@@ -35,7 +35,7 @@
 - Intelligence artificielle locale                             :   https://jan.ai/
 ### J
 **jan**           :    AI en local                                                  :   https://jan.ai/  
-**JSON*   éditeur visuel                                       : https://jsoneditoronline.org/
+**JSON**   éditeur visuel                                       : https://jsoneditoronline.org/
 ###    L
 **Linux distribution**:
 - Débian documentations                                        :    https://debian-facile.org/wiki
