@@ -34,7 +34,8 @@
 - Comparateur d'IA                                             :   https://artificialanalysis.ai/ 
 - Intelligence artificielle locale                             :   https://jan.ai/
 ### J
-**Jan**                                       :    AI en local                                                  :   https://jan.ai/  
+**jan**           :    AI en local                                                  :   https://jan.ai/  
+**JSON*   éditeur visuel                                       : https://jsoneditoronline.org/
 ###    L
 **Linux distribution**:
 - Débian documentations                                        :    https://debian-facile.org/wiki
