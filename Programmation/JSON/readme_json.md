@@ -16,9 +16,14 @@ Le format JSON permettant d’enregistrer des données en un unique fichier, à 
 ----
 
 Clé racine nommée "liste"
+
 ici nous avons 4 objets
+
 Un "objet" est encadré par des accolades  {   }
+
 Une liste est délimité par [ ]
+
 Système de paire    ”clé” : “valeur"
+
 ou même un autre objet
 les propriétés séparées par des virgules,
