@@ -1,0 +1,23 @@
+[
+  {
+    "modele": "Bonneville T120",
+    "categorie": "Modern Classic",
+    "cylindree": 1200,
+    "puissance": 80,
+    "annee": 2026
+  },
+  {
+    "modele": "Street Triple 765 RS",
+    "categorie": "Roadster",
+    "cylindree": 765,
+    "puissance": 130,
+    "annee": 2026
+  },
+  {
+    "modele": "Tiger 900 Rally Pro",
+    "categorie": "Adventure",
+    "cylindree": 888,
+    "puissance": 108,
+    "annee": 2026
+  }
+]
