@@ -1,0 +1,32 @@
+body{
+
+    font-family:Arial;
+    text-align:center;
+    margin-top:40px;
+
+}
+
+button{
+
+    padding:15px;
+    font-size:20px;
+
+}
+
+#etat{
+
+    font-size:30px;
+    margin:20px;
+
+}
+
+#lampe{
+
+    width:120px;
+    height:120px;
+    border-radius:50%;
+    background:red;
+    margin:auto;
+    margin-top:30px;
+
+}
