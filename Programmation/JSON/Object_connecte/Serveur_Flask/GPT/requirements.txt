@@ -1,1 +1,9 @@
-
+Fichier	                Rôle
+-------                 ----
+serveur.py	        Serveur Flask qui centralise l'état de l'objet connecté
+client_bouton.py	Simule un bouton connecté
+client_lampe.py	Simule une lampe connectée
+templates/index.html	Interface Web de supervision
+static/style.css	Mise en forme de la page Web
+static/script.js	Communication JavaScript avec le serveur
+requirements.txt	Liste des bibliothèques Python à installer
