@@ -24,6 +24,7 @@ Glossaire & Acronymes
  Audit           :  Procédure de contrôle
  AWS             :  Amazon Web Services
 ---------------------------------------                                                                                                B
+ Backend         :  Il est le moteur invisible qui gère les données et la logique d'une application côté serveur.
  Base64          :  Système d'encodage (26 lettres majuscules et 26 minuscule de A à Z, 10 chiffres de 0 à 9 , symboles + et / voici un exemple : bGVzX2NpZWxfc29udF9sZXNfbWVpbGxldXI=
  BDD             :  Base de données
  BIOS            :  Basic Input or Output System , sur les PC moderne c'est UEFI
