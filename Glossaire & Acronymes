@@ -19,6 +19,8 @@ Glossaire & Acronymes
  AIOT            :  Artificial intelligence of thing, Intélligence artificelle embarquée, elle est intégrée dans un object connecté.
  AP              :  Access Point, c'est un point d'accès sans fil qui crée un WLAN. 
  API             :  Application Programming Interface , Exemple pour intégrer une carte Google sur votre site Internet. https://www.youtube.com/watch?v=BRedXFKGSZU&t=8s
+     API REST    #  REST         : Representational State Transfer
+                        ##  Outils CRUD  :  Create, Read, Update, Delete 
  ASCII           :  American Standard Code for Information Interchange. Cette table défini un code 8 bitspour les caractères du clavier.
  Asynchrone      :  Les participants n’ont aucune interaction (Exemple : webinaires préenregistré )
  Audit           :  Procédure de contrôle
