@@ -5,7 +5,7 @@
 
 -----
 
-**Amazon VPC**      :   cloud privé virtuel (
+**Amazon VPC**      :   cloud privé virtuel 
 
 -----
 
