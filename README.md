@@ -54,7 +54,9 @@
 
 ![CGENIAL](https://github.com/profelecmed/profelecmed/blob/main/pictures/cgenialONLINE.png)   ![yeswecode](https://github.com/profelecmed/profelecmed/blob/main/pictures/yvconline.png) 
 
-_**Edition 2026,**_   Le projet est lancé !
+_**Edition 2027,**_   Le projet est lancé ! 
+
+_**Edition 2026,**_   Le projet est lancé !  , PAS RENDU !
 
 _**Edition 2025,**_   SmartBadge "avec IA"
 
