@@ -2,6 +2,9 @@
 
 Fichier de création à importer dans Creality Print
 
-    Format : .3MF
+    Format
+        .3MF
+        .STL
+    
 
 Fichier à imprimer
