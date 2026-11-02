@@ -8,3 +8,7 @@ Fichier de création à importer dans Creality Print
     
 
 Fichier à imprimer
+
+    Format
+        .gcode
+        
