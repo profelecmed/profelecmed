@@ -12,4 +12,4 @@
 
 **Bed temp** : 25 - 60 C
 
-** Printing Speed ** : 40 - 600 mm/s
+**Printing Speed** : 40 - 600 mm/s
