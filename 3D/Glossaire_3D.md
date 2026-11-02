@@ -1,3 +1,3 @@
 # Glossaire 3D
 
-AMS : Pour une impression multicolore automatique
+AMS : Automatic Material System : Pour une impression multicolore automatique
