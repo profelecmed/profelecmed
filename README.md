@@ -80,9 +80,9 @@ _**Edition 2027,**_  2 Equipes : Début Du 18 janvier 2027 Au 05 février 2027.
 
 _**Edition 2026,**_  "Equipe : Shellbreaker" , challenge PTHD26 19/01/2026  au 06/02/2026 Rang 316 sur 2370
 
-_**Edition 2025,**_  2 Equipes : "Equipe PRYMZ 138 sur 1290 équipes "  "Equipe FLAG-EUR 177 sur 1290 équipes "
+_**Edition 2025,**_  2 Equipes : "Equipe PRYMZ" 138 sur 1290 équipes   "Equipe FLAG-EUR" 177 sur 1290 équipes 
 
-_**Edition 2024,**_  "Equipe : PRYMZ 10ième sur 210 équipes" ,  CTF (Capture The Flag)
+_**Edition 2024,**_  "Equipe : PRYMZ" 10ième sur 210 équipes" ,  CTF (Capture The Flag)
 
 ----   
 ![forthebadge](https://github.com/profelecmed/profelecmed/blob/main/APPROVED%20BY-ELECMED.svg)
